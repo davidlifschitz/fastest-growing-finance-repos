@@ -1,0 +1,58 @@
+name: Weekly Finance Repo Update
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # Every Sunday at 00:00 UTC
+  workflow_dispatch:        # Allow manual trigger from Actions tab
+
+permissions:
+  contents: write           # Needed to push README, archive, HTML
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ── 2. Python setup ──────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 3. Run update script ─────────────────────────────────
+      - name: Run update.py
+        env:
+          # GH_PAT gives 5 000 req/hr vs 60 for unauthenticated.
+          # Add it in Settings → Secrets → Actions → GH_PAT
+          GH_PAT: ${{ secrets.GH_PAT }}
+          # Fallback: GITHUB_TOKEN is always available (60 req/hr)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python update.py
+
+      # ── 4. Commit & push changes ─────────────────────────────
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/tracked_repos.json README.md archive/ docs/index.html
+
+          # Only commit if something actually changed
+          if git diff --cached --quiet; then
+            echo "Nothing changed — skipping commit."
+          else
+            DATE=$(date -u +"%Y-%m-%d")
+            git commit -m "chore: weekly update ${DATE} [skip ci]"
+            git push
+          fi
