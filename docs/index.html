@@ -8,15 +8,15 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --bg:      #0d1117;
-      --surface: #161b22;
-      --border:  #30363d;
-      --text:    #e6edf3;
-      --muted:   #8b949e;
-      --link:    #58a6ff;
-      --green:   #3fb950;
-      --red:     #f85149;
-      --gold:    #d29922;
+      --bg:       #0d1117;
+      --surface:  #161b22;
+      --border:   #30363d;
+      --text:     #e6edf3;
+      --muted:    #8b949e;
+      --link:     #58a6ff;
+      --green:    #3fb950;
+      --red:      #f85149;
+      --gold:     #d29922;
     }
 
     body {
@@ -53,13 +53,13 @@
     tr:last-child td { border-bottom: none; }
     tr:hover td { background: rgba(255,255,255,0.02); }
 
-    td.rank  { font-weight: 700; color: var(--gold); width: 3rem; }
+    td.rank   { font-weight: 700; color: var(--gold); width: 3rem; }
     td.repo a { color: var(--link); text-decoration: none; font-weight: 600; }
     td.repo a:hover { text-decoration: underline; }
-    td.desc  { color: var(--muted); font-size: 0.85rem; max-width: 280px; }
-    td.lang  { font-size: 0.85rem; white-space: nowrap; }
-    td.stars { white-space: nowrap; }
-    td.delta { font-weight: 700; white-space: nowrap; }
+    td.desc   { color: var(--muted); font-size: 0.85rem; max-width: 280px; }
+    td.lang   { font-size: 0.85rem; white-space: nowrap; }
+    td.stars  { white-space: nowrap; }
+    td.delta  { font-weight: 700; white-space: nowrap; }
     td.delta.positive { color: var(--green); }
     td.delta.negative { color: var(--red); }
     td.delta.neutral  { color: var(--muted); }
@@ -68,15 +68,6 @@
       td.desc, td.lang { display: none; }
       th:nth-child(3), th:nth-child(4) { display: none; }
     }
-
-    .pending {
-      text-align: center;
-      padding: 3rem 1rem;
-      color: var(--muted);
-    }
-    .pending p { margin-bottom: 0.75rem; font-size: 0.95rem; }
-    .pending a { color: var(--link); text-decoration: none; }
-    .pending a:hover { text-decoration: underline; }
 
     footer {
       text-align: center;
@@ -92,9 +83,9 @@
     <header>
       <h1>🚀 Top 10 Fastest-Growing Finance Repos</h1>
       <p class="meta">
-        Auto-refreshed every Sunday at 00:00 UTC &nbsp;·&nbsp;
+        Updated <strong>2026-04-20</strong> &nbsp;·&nbsp;
         <a href="https://github.com/davidlifschitz/fastest-growing-finance-repos">GitHub</a> &nbsp;·&nbsp;
-        <a href="https://github.com/davidlifschitz/fastest-growing-finance-repos/actions">Trigger Workflow</a>
+        Auto-refreshed every Sunday at 00:00 UTC
       </p>
     </header>
 
@@ -111,17 +102,87 @@
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td colspan="6">
-              <div class="pending">
-                <p>⏳ <strong>Awaiting first workflow run</strong></p>
-                <p>The Top 10 list will populate here automatically after the workflow runs.</p>
-                <p>
-                  <a href="https://github.com/davidlifschitz/fastest-growing-finance-repos/actions/workflows/weekly-update.yml">→ Trigger it now</a>
-                </p>
-              </div>
-            </td>
-          </tr>
+          
+    <tr>
+      <td class="rank">#1</td>
+      <td class="repo"><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank" rel="noopener">OpenBB-finance/OpenBB</a></td>
+      <td class="desc">Financial data platform for analysts, quants and AI agents.</td>
+      <td class="lang">Python</td>
+      <td class="stars">66,116</td>
+      <td class="delta neutral">0 ⭐</td>
+    </tr>
+    <tr>
+      <td class="rank">#2</td>
+      <td class="repo"><a href="https://github.com/maybe-finance/maybe" target="_blank" rel="noopener">maybe-finance/maybe</a></td>
+      <td class="desc">The personal finance app for everyone</td>
+      <td class="lang">Ruby</td>
+      <td class="stars">54,085</td>
+      <td class="delta neutral">0 ⭐</td>
+    </tr>
+    <tr>
+      <td class="rank">#3</td>
+      <td class="repo"><a href="https://github.com/TauricResearch/TradingAgents" target="_blank" rel="noopener">TauricResearch/TradingAgents</a></td>
+      <td class="desc">TradingAgents: Multi-Agents LLM Financial Trading Framework</td>
+      <td class="lang">Python</td>
+      <td class="stars">51,732</td>
+      <td class="delta neutral">0 ⭐</td>
+    </tr>
+    <tr>
+      <td class="rank">#4</td>
+      <td class="repo"><a href="https://github.com/juspay/hyperswitch" target="_blank" rel="noopener">juspay/hyperswitch</a></td>
+      <td class="desc">An open source payments switch written in Rust to make payments fast, reliable and affordable</td>
+      <td class="lang">Rust</td>
+      <td class="stars">42,483</td>
+      <td class="delta neutral">0 ⭐</td>
+    </tr>
+    <tr>
+      <td class="rank">#5</td>
+      <td class="repo"><a href="https://github.com/microsoft/qlib" target="_blank" rel="noopener">microsoft/qlib</a></td>
+      <td class="desc">Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research,</td>
+      <td class="lang">Python</td>
+      <td class="stars">40,992</td>
+      <td class="delta neutral">0 ⭐</td>
+    </tr>
+    <tr>
+      <td class="rank">#6</td>
+      <td class="repo"><a href="https://github.com/vnpy/vnpy" target="_blank" rel="noopener">vnpy/vnpy</a></td>
+      <td class="desc">基于Python的开源量化交易平台开发框架</td>
+      <td class="lang">Python</td>
+      <td class="stars">39,601</td>
+      <td class="delta neutral">0 ⭐</td>
+    </tr>
+    <tr>
+      <td class="rank">#7</td>
+      <td class="repo"><a href="https://github.com/actualbudget/actual" target="_blank" rel="noopener">actualbudget/actual</a></td>
+      <td class="desc">A local-first personal finance app</td>
+      <td class="lang">TypeScript</td>
+      <td class="stars">26,000</td>
+      <td class="delta neutral">0 ⭐</td>
+    </tr>
+    <tr>
+      <td class="rank">#8</td>
+      <td class="repo"><a href="https://github.com/wilsonfreitas/awesome-quant" target="_blank" rel="noopener">wilsonfreitas/awesome-quant</a></td>
+      <td class="desc">A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Financ</td>
+      <td class="lang">HTML</td>
+      <td class="stars">25,681</td>
+      <td class="delta neutral">0 ⭐</td>
+    </tr>
+    <tr>
+      <td class="rank">#9</td>
+      <td class="repo"><a href="https://github.com/plotly/dash" target="_blank" rel="noopener">plotly/dash</a></td>
+      <td class="desc">Data Apps & Dashboards for Python. No JavaScript Required.</td>
+      <td class="lang">Python</td>
+      <td class="stars">24,197</td>
+      <td class="delta neutral">0 ⭐</td>
+    </tr>
+    <tr>
+      <td class="rank">#10</td>
+      <td class="repo"><a href="https://github.com/firefly-iii/firefly-iii" target="_blank" rel="noopener">firefly-iii/firefly-iii</a></td>
+      <td class="desc">Firefly III: a personal finances manager</td>
+      <td class="lang">PHP</td>
+      <td class="stars">23,028</td>
+      <td class="delta neutral">0 ⭐</td>
+    </tr>
         </tbody>
       </table>
     </div>
