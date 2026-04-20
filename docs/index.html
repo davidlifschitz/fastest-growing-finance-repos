@@ -5,22 +5,134 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>🚀 Fastest-Growing Finance Repos</title>
   <style>
-    body { background: #0d1117; color: #e6edf3; font-family: -apple-system, sans-serif;
-           display: flex; align-items: center; justify-content: center;
-           min-height: 100vh; text-align: center; padding: 2rem; }
-    h1 { font-size: 2rem; margin-bottom: 1rem; }
-    p { color: #8b949e; margin-bottom: 1.5rem; }
-    a { color: #58a6ff; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:      #0d1117;
+      --surface: #161b22;
+      --border:  #30363d;
+      --text:    #e6edf3;
+      --muted:   #8b949e;
+      --link:    #58a6ff;
+      --green:   #3fb950;
+      --red:     #f85149;
+      --gold:    #d29922;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      min-height: 100vh;
+      padding: 2rem 1rem 4rem;
+    }
+
+    .container { max-width: 1100px; margin: 0 auto; }
+
+    header {
+      text-align: center;
+      padding: 2rem 0 2.5rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 2rem;
+    }
+    header h1 { font-size: clamp(1.4rem, 4vw, 2.2rem); letter-spacing: -0.5px; }
+    header .meta { color: var(--muted); font-size: 0.9rem; margin-top: 0.5rem; }
+    header .meta a { color: var(--link); text-decoration: none; }
+    header .meta a:hover { text-decoration: underline; }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+    th { color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; background: #1c2128; }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: rgba(255,255,255,0.02); }
+
+    td.rank  { font-weight: 700; color: var(--gold); width: 3rem; }
+    td.repo a { color: var(--link); text-decoration: none; font-weight: 600; }
+    td.repo a:hover { text-decoration: underline; }
+    td.desc  { color: var(--muted); font-size: 0.85rem; max-width: 280px; }
+    td.lang  { font-size: 0.85rem; white-space: nowrap; }
+    td.stars { white-space: nowrap; }
+    td.delta { font-weight: 700; white-space: nowrap; }
+    td.delta.positive { color: var(--green); }
+    td.delta.negative { color: var(--red); }
+    td.delta.neutral  { color: var(--muted); }
+
+    @media (max-width: 700px) {
+      td.desc, td.lang { display: none; }
+      th:nth-child(3), th:nth-child(4) { display: none; }
+    }
+
+    .pending {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted);
+    }
+    .pending p { margin-bottom: 0.75rem; font-size: 0.95rem; }
+    .pending a { color: var(--link); text-decoration: none; }
+    .pending a:hover { text-decoration: underline; }
+
+    footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.8rem;
+      margin-top: 2rem;
+    }
+    footer a { color: var(--link); text-decoration: none; }
   </style>
 </head>
 <body>
-  <div>
-    <h1>🚀 Fastest-Growing Finance Repos</h1>
-    <p>The weekly Top 10 list will appear here after the first workflow run.</p>
-    <p>
-      <a href="https://github.com/davidlifschitz/fastest-growing-finance-repos">View on GitHub</a> ·
-      <a href="https://github.com/davidlifschitz/fastest-growing-finance-repos/actions">Trigger Workflow</a>
-    </p>
+  <div class="container">
+    <header>
+      <h1>🚀 Top 10 Fastest-Growing Finance Repos</h1>
+      <p class="meta">
+        Auto-refreshed every Sunday at 00:00 UTC &nbsp;·&nbsp;
+        <a href="https://github.com/davidlifschitz/fastest-growing-finance-repos">GitHub</a> &nbsp;·&nbsp;
+        <a href="https://github.com/davidlifschitz/fastest-growing-finance-repos/actions">Trigger Workflow</a>
+      </p>
+    </header>
+
+    <div class="card">
+      <table>
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Repository</th>
+            <th>Description</th>
+            <th>Language</th>
+            <th>⭐ Stars</th>
+            <th>Δ This Week</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="6">
+              <div class="pending">
+                <p>⏳ <strong>Awaiting first workflow run</strong></p>
+                <p>The Top 10 list will populate here automatically after the workflow runs.</p>
+                <p>
+                  <a href="https://github.com/davidlifschitz/fastest-growing-finance-repos/actions/workflows/weekly-update.yml">→ Trigger it now</a>
+                </p>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <footer>
+      <p>
+        Tracked topics: finance · fintech · quant · algorithmic-trading · cryptocurrency · trading-bot · quantitative-finance · defi …
+        &nbsp;·&nbsp;
+        <a href="https://github.com/davidlifschitz/fastest-growing-finance-repos">Star this repo</a> to stay updated
+      </p>
+    </footer>
   </div>
 </body>
 </html>
