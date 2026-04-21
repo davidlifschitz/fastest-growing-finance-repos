@@ -6,8 +6,8 @@
       "html_url": "https://github.com/OpenBB-finance/OpenBB",
       "language": "Python",
       "stars_last_week": 66116,
-      "stars_current": 66116,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 66199,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "maybe-finance/maybe": {
       "full_name": "maybe-finance/maybe",
@@ -15,8 +15,8 @@
       "html_url": "https://github.com/maybe-finance/maybe",
       "language": "Ruby",
       "stars_last_week": 54085,
-      "stars_current": 54085,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 54089,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "TauricResearch/TradingAgents": {
       "full_name": "TauricResearch/TradingAgents",
@@ -24,8 +24,8 @@
       "html_url": "https://github.com/TauricResearch/TradingAgents",
       "language": "Python",
       "stars_last_week": 51732,
-      "stars_current": 51732,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 51994,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "juspay/hyperswitch": {
       "full_name": "juspay/hyperswitch",
@@ -33,8 +33,8 @@
       "html_url": "https://github.com/juspay/hyperswitch",
       "language": "Rust",
       "stars_last_week": 42483,
-      "stars_current": 42483,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 42494,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "microsoft/qlib": {
       "full_name": "microsoft/qlib",
@@ -42,8 +42,8 @@
       "html_url": "https://github.com/microsoft/qlib",
       "language": "Python",
       "stars_last_week": 40992,
-      "stars_current": 40992,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 41036,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "vnpy/vnpy": {
       "full_name": "vnpy/vnpy",
@@ -51,8 +51,8 @@
       "html_url": "https://github.com/vnpy/vnpy",
       "language": "Python",
       "stars_last_week": 39601,
-      "stars_current": 39601,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 39647,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "actualbudget/actual": {
       "full_name": "actualbudget/actual",
@@ -60,8 +60,8 @@
       "html_url": "https://github.com/actualbudget/actual",
       "language": "TypeScript",
       "stars_last_week": 26000,
-      "stars_current": 26000,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 26011,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "wilsonfreitas/awesome-quant": {
       "full_name": "wilsonfreitas/awesome-quant",
@@ -69,8 +69,8 @@
       "html_url": "https://github.com/wilsonfreitas/awesome-quant",
       "language": "HTML",
       "stars_last_week": 25681,
-      "stars_current": 25681,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 25697,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "plotly/dash": {
       "full_name": "plotly/dash",
@@ -78,8 +78,8 @@
       "html_url": "https://github.com/plotly/dash",
       "language": "Python",
       "stars_last_week": 24197,
-      "stars_current": 24197,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 24199,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "firefly-iii/firefly-iii": {
       "full_name": "firefly-iii/firefly-iii",
@@ -87,8 +87,8 @@
       "html_url": "https://github.com/firefly-iii/firefly-iii",
       "language": "PHP",
       "stars_last_week": 23028,
-      "stars_current": 23028,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 23039,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "AI4Finance-Foundation/FinGPT": {
       "full_name": "AI4Finance-Foundation/FinGPT",
@@ -96,8 +96,8 @@
       "html_url": "https://github.com/AI4Finance-Foundation/FinGPT",
       "language": "Jupyter Notebook",
       "stars_last_week": 19626,
-      "stars_current": 19626,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 19651,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "QuantConnect/Lean": {
       "full_name": "QuantConnect/Lean",
@@ -105,8 +105,8 @@
       "html_url": "https://github.com/QuantConnect/Lean",
       "language": "C#",
       "stars_last_week": 18470,
-      "stars_current": 18470,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 18491,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "akfamily/akshare": {
       "full_name": "akfamily/akshare",
@@ -114,8 +114,8 @@
       "html_url": "https://github.com/akfamily/akshare",
       "language": "Python",
       "stars_last_week": 18401,
-      "stars_current": 18401,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 18433,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "stefan-jansen/machine-learning-for-trading": {
       "full_name": "stefan-jansen/machine-learning-for-trading",
@@ -123,8 +123,8 @@
       "html_url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "language": "Jupyter Notebook",
       "stars_last_week": 17096,
-      "stars_current": 17096,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 17102,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "tradingview/lightweight-charts": {
       "full_name": "tradingview/lightweight-charts",
@@ -132,8 +132,8 @@
       "html_url": "https://github.com/tradingview/lightweight-charts",
       "language": "TypeScript",
       "stars_last_week": 15249,
-      "stars_current": 15249,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 15271,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "AI4Finance-Foundation/FinRL": {
       "full_name": "AI4Finance-Foundation/FinRL",
@@ -141,8 +141,8 @@
       "html_url": "https://github.com/AI4Finance-Foundation/FinRL",
       "language": "Jupyter Notebook",
       "stars_last_week": 14811,
-      "stars_current": 14811,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 14824,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "waditu/tushare": {
       "full_name": "waditu/tushare",
@@ -150,8 +150,8 @@
       "html_url": "https://github.com/waditu/tushare",
       "language": "Python",
       "stars_last_week": 14778,
-      "stars_current": 14778,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 14784,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "midday-ai/midday": {
       "full_name": "midday-ai/midday",
@@ -159,8 +159,8 @@
       "html_url": "https://github.com/midday-ai/midday",
       "language": "TypeScript",
       "stars_last_week": 14169,
-      "stars_current": 14169,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 14170,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "jpmorganchase/python-training": {
       "full_name": "jpmorganchase/python-training",
@@ -168,8 +168,8 @@
       "html_url": "https://github.com/jpmorganchase/python-training",
       "language": "Jupyter Notebook",
       "stars_last_week": 12961,
-      "stars_current": 12961,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 12960,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "TA-Lib/ta-lib-python": {
       "full_name": "TA-Lib/ta-lib-python",
@@ -177,8 +177,8 @@
       "html_url": "https://github.com/TA-Lib/ta-lib-python",
       "language": "Cython",
       "stars_last_week": 11880,
-      "stars_current": 11880,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 11884,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ValueCell-ai/valuecell": {
       "full_name": "ValueCell-ai/valuecell",
@@ -186,8 +186,8 @@
       "html_url": "https://github.com/ValueCell-ai/valuecell",
       "language": "Python",
       "stars_last_week": 10384,
-      "stars_current": 10384,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 10389,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "akaunting/akaunting": {
       "full_name": "akaunting/akaunting",
@@ -195,8 +195,8 @@
       "html_url": "https://github.com/akaunting/akaunting",
       "language": "PHP",
       "stars_last_week": 9746,
-      "stars_current": 9746,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 9750,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "StockSharp/StockSharp": {
       "full_name": "StockSharp/StockSharp",
@@ -204,8 +204,8 @@
       "html_url": "https://github.com/StockSharp/StockSharp",
       "language": "C#",
       "stars_last_week": 9729,
-      "stars_current": 9729,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 9741,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "firmai/financial-machine-learning": {
       "full_name": "firmai/financial-machine-learning",
@@ -213,8 +213,8 @@
       "html_url": "https://github.com/firmai/financial-machine-learning",
       "language": "Python",
       "stars_last_week": 8514,
-      "stars_current": 8514,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 8515,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "kernc/backtesting.py": {
       "full_name": "kernc/backtesting.py",
@@ -222,8 +222,8 @@
       "html_url": "https://github.com/kernc/backtesting.py",
       "language": "Python",
       "stars_last_week": 8212,
-      "stars_current": 8212,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 8220,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ghostfolio/ghostfolio": {
       "full_name": "ghostfolio/ghostfolio",
@@ -231,8 +231,8 @@
       "html_url": "https://github.com/ghostfolio/ghostfolio",
       "language": "TypeScript",
       "stars_last_week": 8170,
-      "stars_current": 8170,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 8173,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "paperswithbacktest/awesome-systematic-trading": {
       "full_name": "paperswithbacktest/awesome-systematic-trading",
@@ -240,8 +240,8 @@
       "html_url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "language": "Python",
       "stars_last_week": 7995,
-      "stars_current": 7995,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 8009,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ellite/Wallos": {
       "full_name": "ellite/Wallos",
@@ -249,8 +249,8 @@
       "html_url": "https://github.com/ellite/Wallos",
       "language": "PHP",
       "stars_last_week": 7707,
-      "stars_current": 7707,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 7713,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "JerBouma/FinanceDatabase": {
       "full_name": "JerBouma/FinanceDatabase",
@@ -258,8 +258,8 @@
       "html_url": "https://github.com/JerBouma/FinanceDatabase",
       "language": "Python",
       "stars_last_week": 7466,
-      "stars_current": 7466,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 7470,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "polakowo/vectorbt": {
       "full_name": "polakowo/vectorbt",
@@ -267,8 +267,8 @@
       "html_url": "https://github.com/polakowo/vectorbt",
       "language": "Python",
       "stars_last_week": 7214,
-      "stars_current": 7214,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 7231,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "UFund-Me/Qbot": {
       "full_name": "UFund-Me/Qbot",
@@ -276,8 +276,8 @@
       "html_url": "https://github.com/UFund-Me/Qbot",
       "language": "Jupyter Notebook",
       "stars_last_week": 17002,
-      "stars_current": 17002,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 17013,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "getlago/lago": {
       "full_name": "getlago/lago",
@@ -285,8 +285,8 @@
       "html_url": "https://github.com/getlago/lago",
       "language": "Go",
       "stars_last_week": 9544,
-      "stars_current": 9544,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 9548,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "yeasy/blockchain_guide": {
       "full_name": "yeasy/blockchain_guide",
@@ -294,8 +294,8 @@
       "html_url": "https://github.com/yeasy/blockchain_guide",
       "language": "Go",
       "stars_last_week": 7064,
-      "stars_current": 7064,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 7065,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "wondertrader/wondertrader": {
       "full_name": "wondertrader/wondertrader",
@@ -303,8 +303,8 @@
       "html_url": "https://github.com/wondertrader/wondertrader",
       "language": "C++",
       "stars_last_week": 6007,
-      "stars_current": 6007,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 6011,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Kaustubh-Natuskar/moreThanFAANGM": {
       "full_name": "Kaustubh-Natuskar/moreThanFAANGM",
@@ -313,7 +313,7 @@
       "language": "",
       "stars_last_week": 5092,
       "stars_current": 5092,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "zvtvz/zvt": {
       "full_name": "zvtvz/zvt",
@@ -321,8 +321,8 @@
       "html_url": "https://github.com/zvtvz/zvt",
       "language": "Python",
       "stars_last_week": 4102,
-      "stars_current": 4102,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4105,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "fasiondog/hikyuu": {
       "full_name": "fasiondog/hikyuu",
@@ -330,8 +330,8 @@
       "html_url": "https://github.com/fasiondog/hikyuu",
       "language": "C++",
       "stars_last_week": 3095,
-      "stars_current": 3095,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3098,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "FISCO-BCOS/FISCO-BCOS": {
       "full_name": "FISCO-BCOS/FISCO-BCOS",
@@ -339,8 +339,8 @@
       "html_url": "https://github.com/FISCO-BCOS/FISCO-BCOS",
       "language": "C++",
       "stars_last_week": 2576,
-      "stars_current": 2576,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2575,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "TradeMaster-NTU/TradeMaster": {
       "full_name": "TradeMaster-NTU/TradeMaster",
@@ -348,8 +348,8 @@
       "html_url": "https://github.com/TradeMaster-NTU/TradeMaster",
       "language": "Jupyter Notebook",
       "stars_last_week": 2571,
-      "stars_current": 2571,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2573,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "peerchemist/finta": {
       "full_name": "peerchemist/finta",
@@ -358,7 +358,7 @@
       "language": "Python",
       "stars_last_week": 2254,
       "stars_current": 2254,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "HKUDS/Vibe-Trading": {
       "full_name": "HKUDS/Vibe-Trading",
@@ -366,8 +366,8 @@
       "html_url": "https://github.com/HKUDS/Vibe-Trading",
       "language": "Python",
       "stars_last_week": 2210,
-      "stars_current": 2210,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2236,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "apache/fineract": {
       "full_name": "apache/fineract",
@@ -376,7 +376,7 @@
       "language": "Java",
       "stars_last_week": 2135,
       "stars_current": 2135,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "openmeterio/openmeter": {
       "full_name": "openmeterio/openmeter",
@@ -385,7 +385,7 @@
       "language": "Go",
       "stars_last_week": 1910,
       "stars_current": 1910,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "cbailes/awesome-deep-trading": {
       "full_name": "cbailes/awesome-deep-trading",
@@ -393,8 +393,8 @@
       "html_url": "https://github.com/cbailes/awesome-deep-trading",
       "language": "",
       "stars_last_week": 1863,
-      "stars_current": 1863,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1865,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "RKiding/Awesome-finance-skills": {
       "full_name": "RKiding/Awesome-finance-skills",
@@ -402,8 +402,8 @@
       "html_url": "https://github.com/RKiding/Awesome-finance-skills",
       "language": "Python",
       "stars_last_week": 1860,
-      "stars_current": 1860,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1872,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "AI4Finance-Foundation/FinRL-Meta": {
       "full_name": "AI4Finance-Foundation/FinRL-Meta",
@@ -412,7 +412,7 @@
       "language": "Python",
       "stars_last_week": 1840,
       "stars_current": 1840,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "dj-stripe/dj-stripe": {
       "full_name": "dj-stripe/dj-stripe",
@@ -421,7 +421,7 @@
       "language": "Python",
       "stars_last_week": 1783,
       "stars_current": 1783,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "sangyx/deep-finance": {
       "full_name": "sangyx/deep-finance",
@@ -430,7 +430,7 @@
       "language": "",
       "stars_last_week": 1497,
       "stars_current": 1497,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "wondertrader/wtpy": {
       "full_name": "wondertrader/wtpy",
@@ -439,7 +439,7 @@
       "language": "Python",
       "stars_last_week": 1456,
       "stars_current": 1456,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "andrewdwallo/erpsaas": {
       "full_name": "andrewdwallo/erpsaas",
@@ -448,7 +448,7 @@
       "language": "PHP",
       "stars_last_week": 1411,
       "stars_current": 1411,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "DemonDamon/FinnewsHunter": {
       "full_name": "DemonDamon/FinnewsHunter",
@@ -456,8 +456,8 @@
       "html_url": "https://github.com/DemonDamon/FinnewsHunter",
       "language": "Python",
       "stars_last_week": 1402,
-      "stars_current": 1402,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1405,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "JoinQuant/jqdatasdk": {
       "full_name": "JoinQuant/jqdatasdk",
@@ -465,8 +465,8 @@
       "html_url": "https://github.com/JoinQuant/jqdatasdk",
       "language": "Python",
       "stars_last_week": 1277,
-      "stars_current": 1277,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1281,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "foolcage/fooltrader": {
       "full_name": "foolcage/fooltrader",
@@ -474,8 +474,8 @@
       "html_url": "https://github.com/foolcage/fooltrader",
       "language": "Python",
       "stars_last_week": 1186,
-      "stars_current": 1186,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1187,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ZhuLinsen/daily_stock_analysis": {
       "full_name": "ZhuLinsen/daily_stock_analysis",
@@ -483,8 +483,8 @@
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "language": "Python",
       "stars_last_week": 30535,
-      "stars_current": 30535,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 30687,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "quantopian/zipline": {
       "full_name": "quantopian/zipline",
@@ -492,8 +492,8 @@
       "html_url": "https://github.com/quantopian/zipline",
       "language": "Python",
       "stars_last_week": 19647,
-      "stars_current": 19647,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 19655,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "bbfamily/abu": {
       "full_name": "bbfamily/abu",
@@ -501,8 +501,8 @@
       "html_url": "https://github.com/bbfamily/abu",
       "language": "Python",
       "stars_last_week": 16897,
-      "stars_current": 16897,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 16915,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "yutiansut/QUANTAXIS": {
       "full_name": "yutiansut/QUANTAXIS",
@@ -510,8 +510,8 @@
       "html_url": "https://github.com/yutiansut/QUANTAXIS",
       "language": "Python",
       "stars_last_week": 10326,
-      "stars_current": 10326,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 10333,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "je-suis-tm/quant-trading": {
       "full_name": "je-suis-tm/quant-trading",
@@ -519,8 +519,8 @@
       "html_url": "https://github.com/je-suis-tm/quant-trading",
       "language": "Python",
       "stars_last_week": 9697,
-      "stars_current": 9697,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 9704,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "timercrack/trader": {
       "full_name": "timercrack/trader",
@@ -528,8 +528,8 @@
       "html_url": "https://github.com/timercrack/trader",
       "language": "C",
       "stars_last_week": 8084,
-      "stars_current": 8084,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 8086,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Rockyzsu/stock": {
       "full_name": "Rockyzsu/stock",
@@ -537,8 +537,8 @@
       "html_url": "https://github.com/Rockyzsu/stock",
       "language": "Python",
       "stars_last_week": 7560,
-      "stars_current": 7560,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 7565,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ranaroussi/quantstats": {
       "full_name": "ranaroussi/quantstats",
@@ -546,8 +546,8 @@
       "html_url": "https://github.com/ranaroussi/quantstats",
       "language": "Python",
       "stars_last_week": 6974,
-      "stars_current": 6974,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 6977,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ricequant/rqalpha": {
       "full_name": "ricequant/rqalpha",
@@ -555,8 +555,8 @@
       "html_url": "https://github.com/ricequant/rqalpha",
       "language": "Python",
       "stars_last_week": 6308,
-      "stars_current": 6308,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 6311,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "georgezouq/awesome-ai-in-finance": {
       "full_name": "georgezouq/awesome-ai-in-finance",
@@ -564,8 +564,8 @@
       "html_url": "https://github.com/georgezouq/awesome-ai-in-finance",
       "language": "",
       "stars_last_week": 5760,
-      "stars_current": 5760,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 5781,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "thuquant/awesome-quant": {
       "full_name": "thuquant/awesome-quant",
@@ -573,8 +573,8 @@
       "html_url": "https://github.com/thuquant/awesome-quant",
       "language": "",
       "stars_last_week": 5218,
-      "stars_current": 5218,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 5222,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "speedyapply/2026-AI-College-Jobs": {
       "full_name": "speedyapply/2026-AI-College-Jobs",
@@ -582,8 +582,8 @@
       "html_url": "https://github.com/speedyapply/2026-AI-College-Jobs",
       "language": "",
       "stars_last_week": 5106,
-      "stars_current": 5106,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 5117,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "waditu/czsc": {
       "full_name": "waditu/czsc",
@@ -591,8 +591,8 @@
       "html_url": "https://github.com/waditu/czsc",
       "language": "Python",
       "stars_last_week": 4889,
-      "stars_current": 4889,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4897,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "hugo2046/QuantsPlaybook": {
       "full_name": "hugo2046/QuantsPlaybook",
@@ -600,8 +600,8 @@
       "html_url": "https://github.com/hugo2046/QuantsPlaybook",
       "language": "Jupyter Notebook",
       "stars_last_week": 4862,
-      "stars_current": 4862,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4865,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "shinnytech/tqsdk-python": {
       "full_name": "shinnytech/tqsdk-python",
@@ -609,8 +609,8 @@
       "html_url": "https://github.com/shinnytech/tqsdk-python",
       "language": "Python",
       "stars_last_week": 4641,
-      "stars_current": 4641,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4643,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "1nchaos/adata": {
       "full_name": "1nchaos/adata",
@@ -618,8 +618,8 @@
       "html_url": "https://github.com/1nchaos/adata",
       "language": "Python",
       "stars_last_week": 4348,
-      "stars_current": 4348,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4352,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "wangzhe3224/awesome-systematic-trading": {
       "full_name": "wangzhe3224/awesome-systematic-trading",
@@ -627,8 +627,8 @@
       "html_url": "https://github.com/wangzhe3224/awesome-systematic-trading",
       "language": "HTML",
       "stars_last_week": 3835,
-      "stars_current": 3835,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3838,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Micro-sheep/efinance": {
       "full_name": "Micro-sheep/efinance",
@@ -636,8 +636,8 @@
       "html_url": "https://github.com/Micro-sheep/efinance",
       "language": "Python",
       "stars_last_week": 3590,
-      "stars_current": 3590,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3593,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "mpquant/Ashare": {
       "full_name": "mpquant/Ashare",
@@ -645,8 +645,8 @@
       "html_url": "https://github.com/mpquant/Ashare",
       "language": "Python",
       "stars_last_week": 3385,
-      "stars_current": 3385,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3391,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "openctp/openctp": {
       "full_name": "openctp/openctp",
@@ -655,7 +655,7 @@
       "language": "C",
       "stars_last_week": 2754,
       "stars_current": 2754,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "mpquant/MyTT": {
       "full_name": "mpquant/MyTT",
@@ -663,8 +663,8 @@
       "html_url": "https://github.com/mpquant/MyTT",
       "language": "Python",
       "stars_last_week": 2680,
-      "stars_current": 2680,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2681,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "freqtrade/freqtrade": {
       "full_name": "freqtrade/freqtrade",
@@ -672,8 +672,8 @@
       "html_url": "https://github.com/freqtrade/freqtrade",
       "language": "Python",
       "stars_last_week": 48997,
-      "stars_current": 48997,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 49060,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "jesse-ai/jesse": {
       "full_name": "jesse-ai/jesse",
@@ -681,8 +681,8 @@
       "html_url": "https://github.com/jesse-ai/jesse",
       "language": "JavaScript",
       "stars_last_week": 7685,
-      "stars_current": 7685,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 7700,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "PyPortfolio/PyPortfolioOpt": {
       "full_name": "PyPortfolio/PyPortfolioOpt",
@@ -690,8 +690,8 @@
       "html_url": "https://github.com/PyPortfolio/PyPortfolioOpt",
       "language": "Jupyter Notebook",
       "stars_last_week": 5655,
-      "stars_current": 5655,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 5658,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "CryptoSignal/Crypto-Signal": {
       "full_name": "CryptoSignal/Crypto-Signal",
@@ -699,8 +699,8 @@
       "html_url": "https://github.com/CryptoSignal/Crypto-Signal",
       "language": "Python",
       "stars_last_week": 5523,
-      "stars_current": 5523,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 5524,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Superalgos/Superalgos": {
       "full_name": "Superalgos/Superalgos",
@@ -709,7 +709,7 @@
       "language": "JavaScript",
       "stars_last_week": 5413,
       "stars_current": 5413,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "hudson-and-thames/mlfinlab": {
       "full_name": "hudson-and-thames/mlfinlab",
@@ -717,8 +717,8 @@
       "html_url": "https://github.com/hudson-and-thames/mlfinlab",
       "language": "Python",
       "stars_last_week": 4682,
-      "stars_current": 4682,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4684,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "quantopian/alphalens": {
       "full_name": "quantopian/alphalens",
@@ -726,8 +726,8 @@
       "html_url": "https://github.com/quantopian/alphalens",
       "language": "Jupyter Notebook",
       "stars_last_week": 4229,
-      "stars_current": 4229,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4231,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "nkaz001/hftbacktest": {
       "full_name": "nkaz001/hftbacktest",
@@ -735,8 +735,8 @@
       "html_url": "https://github.com/nkaz001/hftbacktest",
       "language": "Rust",
       "stars_last_week": 3956,
-      "stars_current": 3956,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3960,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "EliteQuant/EliteQuant": {
       "full_name": "EliteQuant/EliteQuant",
@@ -744,8 +744,8 @@
       "html_url": "https://github.com/EliteQuant/EliteQuant",
       "language": "",
       "stars_last_week": 3798,
-      "stars_current": 3798,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3802,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "shashankvemuri/Finance": {
       "full_name": "shashankvemuri/Finance",
@@ -753,8 +753,8 @@
       "html_url": "https://github.com/shashankvemuri/Finance",
       "language": "Python",
       "stars_last_week": 3785,
-      "stars_current": 3785,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3790,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "thrasher-corp/gocryptotrader": {
       "full_name": "thrasher-corp/gocryptotrader",
@@ -763,7 +763,7 @@
       "language": "Go",
       "stars_last_week": 3425,
       "stars_current": 3425,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "edtechre/pybroker": {
       "full_name": "edtechre/pybroker",
@@ -771,8 +771,8 @@
       "html_url": "https://github.com/edtechre/pybroker",
       "language": "Python",
       "stars_last_week": 3268,
-      "stars_current": 3268,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3271,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "tradytics/eiten": {
       "full_name": "tradytics/eiten",
@@ -781,7 +781,7 @@
       "language": "Python",
       "stars_last_week": 3196,
       "stars_current": 3196,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "cybergeekgyan/Quant-Developers-Resources": {
       "full_name": "cybergeekgyan/Quant-Developers-Resources",
@@ -789,8 +789,8 @@
       "html_url": "https://github.com/cybergeekgyan/Quant-Developers-Resources",
       "language": "",
       "stars_last_week": 3006,
-      "stars_current": 3006,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3011,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "letianzj/QuantResearch": {
       "full_name": "letianzj/QuantResearch",
@@ -798,8 +798,8 @@
       "html_url": "https://github.com/letianzj/QuantResearch",
       "language": "Jupyter Notebook",
       "stars_last_week": 2885,
-      "stars_current": 2885,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2889,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "scrtlabs/catalyst": {
       "full_name": "scrtlabs/catalyst",
@@ -808,7 +808,7 @@
       "language": "Python",
       "stars_last_week": 2555,
       "stars_current": 2555,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy": {
       "full_name": "rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
@@ -816,8 +816,8 @@
       "html_url": "https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
       "language": "Jupyter Notebook",
       "stars_last_week": 2261,
-      "stars_current": 2261,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2262,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "bitcoin/bitcoin": {
       "full_name": "bitcoin/bitcoin",
@@ -825,8 +825,8 @@
       "html_url": "https://github.com/bitcoin/bitcoin",
       "language": "C++",
       "stars_last_week": 88874,
-      "stars_current": 88874,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 88880,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ccxt/ccxt": {
       "full_name": "ccxt/ccxt",
@@ -834,8 +834,8 @@
       "html_url": "https://github.com/ccxt/ccxt",
       "language": "Python",
       "stars_last_week": 41976,
-      "stars_current": 41976,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 41992,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "hummingbot/hummingbot": {
       "full_name": "hummingbot/hummingbot",
@@ -843,8 +843,8 @@
       "html_url": "https://github.com/hummingbot/hummingbot",
       "language": "Python",
       "stars_last_week": 18224,
-      "stars_current": 18224,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 18237,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "dogecoin/dogecoin": {
       "full_name": "dogecoin/dogecoin",
@@ -852,8 +852,8 @@
       "html_url": "https://github.com/dogecoin/dogecoin",
       "language": "C++",
       "stars_last_week": 15128,
-      "stars_current": 15128,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 15127,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "monero-project/monero": {
       "full_name": "monero-project/monero",
@@ -861,8 +861,8 @@
       "html_url": "https://github.com/monero-project/monero",
       "language": "C++",
       "stars_last_week": 10479,
-      "stars_current": 10479,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 10478,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "xmrig/xmrig": {
       "full_name": "xmrig/xmrig",
@@ -870,8 +870,8 @@
       "html_url": "https://github.com/xmrig/xmrig",
       "language": "C",
       "stars_last_week": 9895,
-      "stars_current": 9895,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 9892,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "lightningnetwork/lnd": {
       "full_name": "lightningnetwork/lnd",
@@ -880,7 +880,7 @@
       "language": "Go",
       "stars_last_week": 8133,
       "stars_current": 8133,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "dvf/blockchain": {
       "full_name": "dvf/blockchain",
@@ -888,8 +888,8 @@
       "html_url": "https://github.com/dvf/blockchain",
       "language": "C#",
       "stars_last_week": 8059,
-      "stars_current": 8059,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 8060,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "kroma-network/tachyon": {
       "full_name": "kroma-network/tachyon",
@@ -897,8 +897,8 @@
       "html_url": "https://github.com/kroma-network/tachyon",
       "language": "C++",
       "stars_last_week": 7689,
-      "stars_current": 7689,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 7690,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "lbryio/lbry-sdk": {
       "full_name": "lbryio/lbry-sdk",
@@ -906,8 +906,8 @@
       "html_url": "https://github.com/lbryio/lbry-sdk",
       "language": "Python",
       "stars_last_week": 7180,
-      "stars_current": 7180,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 7181,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "sammchardy/python-binance": {
       "full_name": "sammchardy/python-binance",
@@ -915,8 +915,8 @@
       "html_url": "https://github.com/sammchardy/python-binance",
       "language": "Python",
       "stars_last_week": 7136,
-      "stars_current": 7136,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 7140,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "cosmos/cosmos-sdk": {
       "full_name": "cosmos/cosmos-sdk",
@@ -924,8 +924,8 @@
       "html_url": "https://github.com/cosmos/cosmos-sdk",
       "language": "Go",
       "stars_last_week": 6985,
-      "stars_current": 6985,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 6984,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "tendermint/tendermint": {
       "full_name": "tendermint/tendermint",
@@ -934,7 +934,7 @@
       "language": "Go",
       "stars_last_week": 5861,
       "stars_current": 5861,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "chrisleekr/binance-trading-bot": {
       "full_name": "chrisleekr/binance-trading-bot",
@@ -942,8 +942,8 @@
       "html_url": "https://github.com/chrisleekr/binance-trading-bot",
       "language": "JavaScript",
       "stars_last_week": 5484,
-      "stars_current": 5484,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 5485,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "mimblewimble/grin": {
       "full_name": "mimblewimble/grin",
@@ -952,7 +952,7 @@
       "language": "Rust",
       "stars_last_week": 5088,
       "stars_current": 5088,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "sea-protocol/seaprotocol": {
       "full_name": "sea-protocol/seaprotocol",
@@ -960,8 +960,8 @@
       "html_url": "https://github.com/sea-protocol/seaprotocol",
       "language": "Move",
       "stars_last_week": 5058,
-      "stars_current": 5058,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 5057,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "freqtrade/freqtrade-strategies": {
       "full_name": "freqtrade/freqtrade-strategies",
@@ -969,8 +969,8 @@
       "html_url": "https://github.com/freqtrade/freqtrade-strategies",
       "language": "Python",
       "stars_last_week": 5053,
-      "stars_current": 5053,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 5058,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "RomelTorres/alpha_vantage": {
       "full_name": "RomelTorres/alpha_vantage",
@@ -978,8 +978,8 @@
       "html_url": "https://github.com/RomelTorres/alpha_vantage",
       "language": "Python",
       "stars_last_week": 4784,
-      "stars_current": 4784,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4786,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "itheima1/BlockChain": {
       "full_name": "itheima1/BlockChain",
@@ -988,7 +988,7 @@
       "language": "JavaScript",
       "stars_last_week": 4649,
       "stars_current": 4649,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "coinpride/CryptoList": {
       "full_name": "coinpride/CryptoList",
@@ -997,7 +997,7 @@
       "language": "",
       "stars_last_week": 4461,
       "stars_current": 4461,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "cointop-sh/cointop": {
       "full_name": "cointop-sh/cointop",
@@ -1005,8 +1005,8 @@
       "html_url": "https://github.com/cointop-sh/cointop",
       "language": "Go",
       "stars_last_week": 4388,
-      "stars_current": 4388,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4387,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Jeiwan/blockchain_go": {
       "full_name": "Jeiwan/blockchain_go",
@@ -1014,8 +1014,8 @@
       "html_url": "https://github.com/Jeiwan/blockchain_go",
       "language": "Go",
       "stars_last_week": 4375,
-      "stars_current": 4375,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4376,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "michaelgrosner/tribeca": {
       "full_name": "michaelgrosner/tribeca",
@@ -1024,7 +1024,7 @@
       "language": "TypeScript",
       "stars_last_week": 4106,
       "stars_current": 4106,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "askmike/gekko": {
       "full_name": "askmike/gekko",
@@ -1033,7 +1033,7 @@
       "language": "JavaScript",
       "stars_last_week": 10165,
       "stars_current": 10165,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "huseinzol05/Stock-Prediction-Models": {
       "full_name": "huseinzol05/Stock-Prediction-Models",
@@ -1041,8 +1041,8 @@
       "html_url": "https://github.com/huseinzol05/Stock-Prediction-Models",
       "language": "Jupyter Notebook",
       "stars_last_week": 9306,
-      "stars_current": 9306,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 9309,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Drakkar-Software/OctoBot": {
       "full_name": "Drakkar-Software/OctoBot",
@@ -1050,8 +1050,8 @@
       "html_url": "https://github.com/Drakkar-Software/OctoBot",
       "language": "Python",
       "stars_last_week": 5728,
-      "stars_current": 5728,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 5742,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "charliedream1/ai_quant_trade": {
       "full_name": "charliedream1/ai_quant_trade",
@@ -1059,8 +1059,8 @@
       "html_url": "https://github.com/charliedream1/ai_quant_trade",
       "language": "Jupyter Notebook",
       "stars_last_week": 5479,
-      "stars_current": 5479,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 5489,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ctubio/Krypto-trading-bot": {
       "full_name": "ctubio/Krypto-trading-bot",
@@ -1069,7 +1069,7 @@
       "language": "C++",
       "stars_last_week": 3675,
       "stars_current": 3675,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Haehnchen/crypto-trading-bot": {
       "full_name": "Haehnchen/crypto-trading-bot",
@@ -1077,8 +1077,8 @@
       "html_url": "https://github.com/Haehnchen/crypto-trading-bot",
       "language": "TypeScript",
       "stars_last_week": 3459,
-      "stars_current": 3459,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3458,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "brndnmtthws/thetagang": {
       "full_name": "brndnmtthws/thetagang",
@@ -1086,8 +1086,8 @@
       "html_url": "https://github.com/brndnmtthws/thetagang",
       "language": "Python",
       "stars_last_week": 2541,
-      "stars_current": 2541,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2543,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "blankly-finance/blankly": {
       "full_name": "blankly-finance/blankly",
@@ -1096,7 +1096,7 @@
       "language": "Python",
       "stars_last_week": 2424,
       "stars_current": 2424,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Open-Trader/opentrader": {
       "full_name": "Open-Trader/opentrader",
@@ -1105,7 +1105,7 @@
       "language": "TypeScript",
       "stars_last_week": 2403,
       "stars_current": 2403,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "barter-rs/barter-rs": {
       "full_name": "barter-rs/barter-rs",
@@ -1114,7 +1114,7 @@
       "language": "Rust",
       "stars_last_week": 2080,
       "stars_current": 2080,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "whittlem/pycryptobot": {
       "full_name": "whittlem/pycryptobot",
@@ -1122,8 +1122,8 @@
       "html_url": "https://github.com/whittlem/pycryptobot",
       "language": "Python",
       "stars_last_week": 2053,
-      "stars_current": 2053,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2052,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Yvictor/TradingGym": {
       "full_name": "Yvictor/TradingGym",
@@ -1131,8 +1131,8 @@
       "html_url": "https://github.com/Yvictor/TradingGym",
       "language": "Python",
       "stars_last_week": 1865,
-      "stars_current": 1865,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1867,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "marketcalls/openalgo": {
       "full_name": "marketcalls/openalgo",
@@ -1140,8 +1140,8 @@
       "html_url": "https://github.com/marketcalls/openalgo",
       "language": "Python",
       "stars_last_week": 1669,
-      "stars_current": 1669,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1678,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "CyberPunkMetalHead/Binance-News-Sentiment-Bot": {
       "full_name": "CyberPunkMetalHead/Binance-News-Sentiment-Bot",
@@ -1150,7 +1150,7 @@
       "language": "Python",
       "stars_last_week": 1645,
       "stars_current": 1645,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "c9s/bbgo": {
       "full_name": "c9s/bbgo",
@@ -1159,7 +1159,7 @@
       "language": "Go",
       "stars_last_week": 1630,
       "stars_current": 1630,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "myhhub/stock": {
       "full_name": "myhhub/stock",
@@ -1167,8 +1167,8 @@
       "html_url": "https://github.com/myhhub/stock",
       "language": "Python",
       "stars_last_week": 12311,
-      "stars_current": 12311,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 12331,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "lballabio/QuantLib": {
       "full_name": "lballabio/QuantLib",
@@ -1176,8 +1176,8 @@
       "html_url": "https://github.com/lballabio/QuantLib",
       "language": "C++",
       "stars_last_week": 7044,
-      "stars_current": 7044,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 7048,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Fincept-Corporation/FinceptTerminal": {
       "full_name": "Fincept-Corporation/FinceptTerminal",
@@ -1185,8 +1185,8 @@
       "html_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "language": "Python",
       "stars_last_week": 6897,
-      "stars_current": 6897,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 9848,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "cantaro86/Financial-Models-Numerical-Methods": {
       "full_name": "cantaro86/Financial-Models-Numerical-Methods",
@@ -1194,8 +1194,8 @@
       "html_url": "https://github.com/cantaro86/Financial-Models-Numerical-Methods",
       "language": "Jupyter Notebook",
       "stars_last_week": 6748,
-      "stars_current": 6748,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 6750,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "google/tf-quant-finance": {
       "full_name": "google/tf-quant-finance",
@@ -1203,8 +1203,8 @@
       "html_url": "https://github.com/google/tf-quant-finance",
       "language": "Python",
       "stars_last_week": 5312,
-      "stars_current": 5312,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 5315,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "dcajasn/Riskfolio-Lib": {
       "full_name": "dcajasn/Riskfolio-Lib",
@@ -1212,8 +1212,8 @@
       "html_url": "https://github.com/dcajasn/Riskfolio-Lib",
       "language": "C++",
       "stars_last_week": 4077,
-      "stars_current": 4077,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4082,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "LLMQuant/quant-wiki": {
       "full_name": "LLMQuant/quant-wiki",
@@ -1221,8 +1221,8 @@
       "html_url": "https://github.com/LLMQuant/quant-wiki",
       "language": "",
       "stars_last_week": 3434,
-      "stars_current": 3434,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3443,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "achillesrasquinha/bulbea": {
       "full_name": "achillesrasquinha/bulbea",
@@ -1231,7 +1231,7 @@
       "language": "Python",
       "stars_last_week": 2279,
       "stars_current": 2279,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "smartcontractkit/full-blockchain-solidity-course-js": {
       "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
@@ -1239,8 +1239,8 @@
       "html_url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js",
       "language": "",
       "stars_last_week": 13981,
-      "stars_current": 13981,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 13980,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "OffcierCia/DeFi-Developer-Road-Map": {
       "full_name": "OffcierCia/DeFi-Developer-Road-Map",
@@ -1248,8 +1248,8 @@
       "html_url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
       "language": "JavaScript",
       "stars_last_week": 10719,
-      "stars_current": 10719,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 10717,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "SunWeb3Sec/DeFiHackLabs": {
       "full_name": "SunWeb3Sec/DeFiHackLabs",
@@ -1257,8 +1257,8 @@
       "html_url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
       "language": "Solidity",
       "stars_last_week": 6512,
-      "stars_current": 6512,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 6514,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "rainbow-me/rainbow": {
       "full_name": "rainbow-me/rainbow",
@@ -1266,8 +1266,8 @@
       "html_url": "https://github.com/rainbow-me/rainbow",
       "language": "TypeScript",
       "stars_last_week": 4335,
-      "stars_current": 4335,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 4336,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "OneKeyHQ/app-monorepo": {
       "full_name": "OneKeyHQ/app-monorepo",
@@ -1276,7 +1276,7 @@
       "language": "TypeScript",
       "stars_last_week": 2347,
       "stars_current": 2347,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "OffcierCia/ultimate-defi-research-base": {
       "full_name": "OffcierCia/ultimate-defi-research-base",
@@ -1284,8 +1284,8 @@
       "html_url": "https://github.com/OffcierCia/ultimate-defi-research-base",
       "language": "",
       "stars_last_week": 2197,
-      "stars_current": 2197,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2195,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ccyanxyz/uniswap-arbitrage-analysis": {
       "full_name": "ccyanxyz/uniswap-arbitrage-analysis",
@@ -1294,7 +1294,7 @@
       "language": "Python",
       "stars_last_week": 2114,
       "stars_current": 2114,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "SunWeb3Sec/DeFiVulnLabs": {
       "full_name": "SunWeb3Sec/DeFiVulnLabs",
@@ -1303,7 +1303,7 @@
       "language": "Solidity",
       "stars_last_week": 1922,
       "stars_current": 1922,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "RabbyHub/Rabby": {
       "full_name": "RabbyHub/Rabby",
@@ -1312,7 +1312,7 @@
       "language": "TypeScript",
       "stars_last_week": 1827,
       "stars_current": 1827,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap": {
       "full_name": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
@@ -1321,7 +1321,7 @@
       "language": "",
       "stars_last_week": 1765,
       "stars_current": 1765,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "rango-exchange/rango-sdk": {
       "full_name": "rango-exchange/rango-sdk",
@@ -1330,7 +1330,7 @@
       "language": "TypeScript",
       "stars_last_week": 1658,
       "stars_current": 1658,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ong/awesome-decentralized-finance": {
       "full_name": "ong/awesome-decentralized-finance",
@@ -1339,7 +1339,7 @@
       "language": "",
       "stars_last_week": 1633,
       "stars_current": 1633,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "DimensionDev/Maskbook": {
       "full_name": "DimensionDev/Maskbook",
@@ -1348,7 +1348,7 @@
       "language": "TypeScript",
       "stars_last_week": 1578,
       "stars_current": 1578,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "frankiefab100/Blockchain-Development-Resources": {
       "full_name": "frankiefab100/Blockchain-Development-Resources",
@@ -1356,8 +1356,8 @@
       "html_url": "https://github.com/frankiefab100/Blockchain-Development-Resources",
       "language": "Markdown",
       "stars_last_week": 1514,
-      "stars_current": 1514,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1515,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "JumpCrypto/crypto-reading-list": {
       "full_name": "JumpCrypto/crypto-reading-list",
@@ -1365,8 +1365,8 @@
       "html_url": "https://github.com/JumpCrypto/crypto-reading-list",
       "language": "",
       "stars_last_week": 1386,
-      "stars_current": 1386,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1385,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "horizontalsystems/unstoppable-wallet-android": {
       "full_name": "horizontalsystems/unstoppable-wallet-android",
@@ -1375,7 +1375,7 @@
       "language": "Kotlin",
       "stars_last_week": 1182,
       "stars_current": 1182,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "rango-exchange/rango-client": {
       "full_name": "rango-exchange/rango-client",
@@ -1384,7 +1384,7 @@
       "language": "TypeScript",
       "stars_last_week": 1129,
       "stars_current": 1129,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "cypherpunk-symposium/dark-forest-toolkit": {
       "full_name": "cypherpunk-symposium/dark-forest-toolkit",
@@ -1393,7 +1393,7 @@
       "language": "Shell",
       "stars_last_week": 1107,
       "stars_current": 1107,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "curvefi/curve-contract": {
       "full_name": "curvefi/curve-contract",
@@ -1402,7 +1402,7 @@
       "language": "Python",
       "stars_last_week": 1100,
       "stars_current": 1100,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "aave/aave-v3-core": {
       "full_name": "aave/aave-v3-core",
@@ -1411,7 +1411,7 @@
       "language": "TypeScript",
       "stars_last_week": 1082,
       "stars_current": 1082,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "berachain/polaris": {
       "full_name": "berachain/polaris",
@@ -1420,7 +1420,7 @@
       "language": "Go",
       "stars_last_week": 1077,
       "stars_current": 1077,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "WaykiChain/WaykiChain": {
       "full_name": "WaykiChain/WaykiChain",
@@ -1429,7 +1429,7 @@
       "language": "C++",
       "stars_last_week": 1044,
       "stars_current": 1044,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ApeWorX/ape": {
       "full_name": "ApeWorX/ape",
@@ -1437,8 +1437,8 @@
       "html_url": "https://github.com/ApeWorX/ape",
       "language": "Python",
       "stars_last_week": 1034,
-      "stars_current": 1034,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1033,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "studydefi/money-legos": {
       "full_name": "studydefi/money-legos",
@@ -1447,7 +1447,7 @@
       "language": "Solidity",
       "stars_last_week": 1028,
       "stars_current": 1028,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "uniswap-python/uniswap-python": {
       "full_name": "uniswap-python/uniswap-python",
@@ -1456,7 +1456,7 @@
       "language": "Python",
       "stars_last_week": 1009,
       "stars_current": 1009,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "PaulRBerg/prb-math": {
       "full_name": "PaulRBerg/prb-math",
@@ -1465,7 +1465,7 @@
       "language": "Solidity",
       "stars_last_week": 996,
       "stars_current": 996,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "osmosis-labs/osmosis": {
       "full_name": "osmosis-labs/osmosis",
@@ -1474,7 +1474,7 @@
       "language": "Go",
       "stars_last_week": 962,
       "stars_current": 962,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "bekatom/awesome-ethereum": {
       "full_name": "bekatom/awesome-ethereum",
@@ -1483,7 +1483,7 @@
       "language": "",
       "stars_last_week": 912,
       "stars_current": 912,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "superfluid-org/protocol-monorepo": {
       "full_name": "superfluid-org/protocol-monorepo",
@@ -1492,7 +1492,7 @@
       "language": "TypeScript",
       "stars_last_week": 901,
       "stars_current": 901,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Open-Dev-Society/OpenStock": {
       "full_name": "Open-Dev-Society/OpenStock",
@@ -1500,8 +1500,8 @@
       "html_url": "https://github.com/Open-Dev-Society/OpenStock",
       "language": "TypeScript",
       "stars_last_week": 10554,
-      "stars_current": 10554,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 10619,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "achannarasappa/ticker": {
       "full_name": "achannarasappa/ticker",
@@ -1510,7 +1510,7 @@
       "language": "Go",
       "stars_last_week": 6053,
       "stars_current": 6053,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "exchange-core/exchange-core": {
       "full_name": "exchange-core/exchange-core",
@@ -1518,8 +1518,8 @@
       "html_url": "https://github.com/exchange-core/exchange-core",
       "language": "Java",
       "stars_last_week": 2479,
-      "stars_current": 2479,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2488,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "shirosaidev/stocksight": {
       "full_name": "shirosaidev/stocksight",
@@ -1528,7 +1528,7 @@
       "language": "Python",
       "stars_last_week": 2469,
       "stars_current": 2469,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "anandanand84/technicalindicators": {
       "full_name": "anandanand84/technicalindicators",
@@ -1537,7 +1537,7 @@
       "language": "JavaScript",
       "stars_last_week": 2423,
       "stars_current": 2423,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "mr-karan/awesome-investing": {
       "full_name": "mr-karan/awesome-investing",
@@ -1546,7 +1546,7 @@
       "language": "",
       "stars_last_week": 2349,
       "stars_current": 2349,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "mop-tracker/mop": {
       "full_name": "mop-tracker/mop",
@@ -1555,7 +1555,7 @@
       "language": "Go",
       "stars_last_week": 2182,
       "stars_current": 2182,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "jmfernandes/robin_stocks": {
       "full_name": "jmfernandes/robin_stocks",
@@ -1564,7 +1564,7 @@
       "language": "Python",
       "stars_last_week": 2044,
       "stars_current": 2044,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "atilaahmettaner/tradingview-mcp": {
       "full_name": "atilaahmettaner/tradingview-mcp",
@@ -1572,8 +1572,8 @@
       "html_url": "https://github.com/atilaahmettaner/tradingview-mcp",
       "language": "Python",
       "stars_last_week": 2017,
-      "stars_current": 2017,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2055,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "LastAncientOne/Stock_Analysis_For_Quant": {
       "full_name": "LastAncientOne/Stock_Analysis_For_Quant",
@@ -1581,8 +1581,8 @@
       "html_url": "https://github.com/LastAncientOne/Stock_Analysis_For_Quant",
       "language": "Jupyter Notebook",
       "stars_last_week": 1999,
-      "stars_current": 1999,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 2000,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "alpacahq/alpaca-trade-api-python": {
       "full_name": "alpacahq/alpaca-trade-api-python",
@@ -1591,7 +1591,7 @@
       "language": "Python",
       "stars_last_week": 1867,
       "stars_current": 1867,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "sanko/Robinhood": {
       "full_name": "sanko/Robinhood",
@@ -1599,8 +1599,8 @@
       "html_url": "https://github.com/sanko/Robinhood",
       "language": "",
       "stars_last_week": 1761,
-      "stars_current": 1761,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1762,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "LastAncientOne/Deep_Learning_Machine_Learning_Stock": {
       "full_name": "LastAncientOne/Deep_Learning_Machine_Learning_Stock",
@@ -1608,8 +1608,8 @@
       "html_url": "https://github.com/LastAncientOne/Deep_Learning_Machine_Learning_Stock",
       "language": "Jupyter Notebook",
       "stars_last_week": 1740,
-      "stars_current": 1740,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1743,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "austin-starks/NextTrade": {
       "full_name": "austin-starks/NextTrade",
@@ -1617,8 +1617,8 @@
       "html_url": "https://github.com/austin-starks/NextTrade",
       "language": "TypeScript",
       "stars_last_week": 1722,
-      "stars_current": 1722,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1721,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "thinh-vu/vnstock": {
       "full_name": "thinh-vu/vnstock",
@@ -1626,8 +1626,8 @@
       "html_url": "https://github.com/thinh-vu/vnstock",
       "language": "Python",
       "stars_last_week": 1253,
-      "stars_current": 1253,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1254,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "DaveSkender/Stock.Indicators": {
       "full_name": "DaveSkender/Stock.Indicators",
@@ -1635,8 +1635,8 @@
       "html_url": "https://github.com/DaveSkender/Stock.Indicators",
       "language": "C#",
       "stars_last_week": 1194,
-      "stars_current": 1194,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1193,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "santoshlite/EigenLedger": {
       "full_name": "santoshlite/EigenLedger",
@@ -1645,7 +1645,7 @@
       "language": "Python",
       "stars_last_week": 1060,
       "stars_current": 1060,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "nautechsystems/nautilus_trader": {
       "full_name": "nautechsystems/nautilus_trader",
@@ -1653,8 +1653,8 @@
       "html_url": "https://github.com/nautechsystems/nautilus_trader",
       "language": "Rust",
       "stars_last_week": 22111,
-      "stars_current": 22111,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 22134,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "jasonstrimpel/volatility-trading": {
       "full_name": "jasonstrimpel/volatility-trading",
@@ -1662,8 +1662,8 @@
       "html_url": "https://github.com/jasonstrimpel/volatility-trading",
       "language": "Python",
       "stars_last_week": 1889,
-      "stars_current": 1889,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1890,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "goldspanlabs/optopsy": {
       "full_name": "goldspanlabs/optopsy",
@@ -1671,8 +1671,8 @@
       "html_url": "https://github.com/goldspanlabs/optopsy",
       "language": "Python",
       "stars_last_week": 1324,
-      "stars_current": 1324,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1326,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "PyPatel/Options-Trading-Strategies-in-Python": {
       "full_name": "PyPatel/Options-Trading-Strategies-in-Python",
@@ -1681,7 +1681,7 @@
       "language": "Python",
       "stars_last_week": 985,
       "stars_current": 985,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "guanquann/Stocksera": {
       "full_name": "guanquann/Stocksera",
@@ -1690,7 +1690,7 @@
       "language": "JavaScript",
       "stars_last_week": 763,
       "stars_current": 763,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "rburkholder/trade-frame": {
       "full_name": "rburkholder/trade-frame",
@@ -1699,7 +1699,7 @@
       "language": "C++",
       "stars_last_week": 653,
       "stars_current": 653,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "rgaveiga/optionlab": {
       "full_name": "rgaveiga/optionlab",
@@ -1708,7 +1708,7 @@
       "language": "Python",
       "stars_last_week": 494,
       "stars_current": 494,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "mcf-long-short/ibkr-options-volatility-trading": {
       "full_name": "mcf-long-short/ibkr-options-volatility-trading",
@@ -1716,8 +1716,8 @@
       "html_url": "https://github.com/mcf-long-short/ibkr-options-volatility-trading",
       "language": "Python",
       "stars_last_week": 340,
-      "stars_current": 340,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 342,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Open-Lemma/options-implied-probability": {
       "full_name": "Open-Lemma/options-implied-probability",
@@ -1726,7 +1726,7 @@
       "language": "Python",
       "stars_last_week": 333,
       "stars_current": 333,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "stoqey/ib": {
       "full_name": "stoqey/ib",
@@ -1735,7 +1735,7 @@
       "language": "TypeScript",
       "stars_last_week": 308,
       "stars_current": 308,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "rahuljoshi44/GraphVega": {
       "full_name": "rahuljoshi44/GraphVega",
@@ -1744,7 +1744,7 @@
       "language": "JavaScript",
       "stars_last_week": 297,
       "stars_current": 297,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "philipodonnell/paperbroker": {
       "full_name": "philipodonnell/paperbroker",
@@ -1753,7 +1753,7 @@
       "language": "Python",
       "stars_last_week": 278,
       "stars_current": 278,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "namuan/trading-utils": {
       "full_name": "namuan/trading-utils",
@@ -1761,8 +1761,8 @@
       "html_url": "https://github.com/namuan/trading-utils",
       "language": "Python",
       "stars_last_week": 269,
-      "stars_current": 269,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 271,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "devfinwiz/Fin-Maestro-Web": {
       "full_name": "devfinwiz/Fin-Maestro-Web",
@@ -1771,7 +1771,7 @@
       "language": "Python",
       "stars_last_week": 260,
       "stars_current": 260,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "AnthonyBradford/optionmatrix": {
       "full_name": "AnthonyBradford/optionmatrix",
@@ -1780,7 +1780,7 @@
       "language": "C++",
       "stars_last_week": 238,
       "stars_current": 238,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "randomwalkhan/Short-Term-Reversal-Strategy": {
       "full_name": "randomwalkhan/Short-Term-Reversal-Strategy",
@@ -1788,8 +1788,8 @@
       "html_url": "https://github.com/randomwalkhan/Short-Term-Reversal-Strategy",
       "language": "Jupyter Notebook",
       "stars_last_week": 226,
-      "stars_current": 226,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 240,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "srikar-kodakandla/fully-automated-nifty-options-trading": {
       "full_name": "srikar-kodakandla/fully-automated-nifty-options-trading",
@@ -1797,8 +1797,8 @@
       "html_url": "https://github.com/srikar-kodakandla/fully-automated-nifty-options-trading",
       "language": "Python",
       "stars_last_week": 223,
-      "stars_current": 223,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 224,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "tastyware/tastytrade": {
       "full_name": "tastyware/tastytrade",
@@ -1806,8 +1806,8 @@
       "html_url": "https://github.com/tastyware/tastytrade",
       "language": "Python",
       "stars_last_week": 219,
-      "stars_current": 219,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 220,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "joaquinbejar/OptionStratLib": {
       "full_name": "joaquinbejar/OptionStratLib",
@@ -1816,7 +1816,7 @@
       "language": "Rust",
       "stars_last_week": 192,
       "stars_current": 192,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "massive-com/client-go": {
       "full_name": "massive-com/client-go",
@@ -1825,7 +1825,7 @@
       "language": "Go",
       "stars_last_week": 192,
       "stars_current": 192,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "evdubs/renegade-way": {
       "full_name": "evdubs/renegade-way",
@@ -1834,7 +1834,7 @@
       "language": "Racket",
       "stars_last_week": 145,
       "stars_current": 145,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "SC4RECOIN/FlowAlgo-Options-Trader": {
       "full_name": "SC4RECOIN/FlowAlgo-Options-Trader",
@@ -1843,7 +1843,7 @@
       "language": "Python",
       "stars_last_week": 141,
       "stars_current": 141,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "yzoz/python-option-calculator": {
       "full_name": "yzoz/python-option-calculator",
@@ -1852,7 +1852,7 @@
       "language": "Python",
       "stars_last_week": 134,
       "stars_current": 134,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Della38840/Robinhood": {
       "full_name": "Della38840/Robinhood",
@@ -1861,7 +1861,7 @@
       "language": "Python",
       "stars_last_week": 126,
       "stars_current": 126,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "staskh/trading_skills": {
       "full_name": "staskh/trading_skills",
@@ -1869,8 +1869,8 @@
       "html_url": "https://github.com/staskh/trading_skills",
       "language": "Python",
       "stars_last_week": 108,
-      "stars_current": 108,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 109,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "TechfaneTechnologies/QtsApp": {
       "full_name": "TechfaneTechnologies/QtsApp",
@@ -1879,7 +1879,7 @@
       "language": "Python",
       "stars_last_week": 102,
       "stars_current": 102,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "nataliaburrey/Options_Trading_ML": {
       "full_name": "nataliaburrey/Options_Trading_ML",
@@ -1888,7 +1888,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 103,
       "stars_current": 103,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "xiao81/AllYouNeedIsWheel": {
       "full_name": "xiao81/AllYouNeedIsWheel",
@@ -1897,7 +1897,7 @@
       "language": "JavaScript",
       "stars_last_week": 101,
       "stars_current": 101,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "fmilthaler/FinQuant": {
       "full_name": "fmilthaler/FinQuant",
@@ -1905,8 +1905,8 @@
       "html_url": "https://github.com/fmilthaler/FinQuant",
       "language": "Python",
       "stars_last_week": 1751,
-      "stars_current": 1751,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1750,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "whchien/ai-trader": {
       "full_name": "whchien/ai-trader",
@@ -1915,7 +1915,7 @@
       "language": "Python",
       "stars_last_week": 597,
       "stars_current": 597,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "51bitquant/ai-hedge-fund-crypto": {
       "full_name": "51bitquant/ai-hedge-fund-crypto",
@@ -1923,8 +1923,8 @@
       "html_url": "https://github.com/51bitquant/ai-hedge-fund-crypto",
       "language": "Python",
       "stars_last_week": 568,
-      "stars_current": 568,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 569,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "wassname/rl-portfolio-management": {
       "full_name": "wassname/rl-portfolio-management",
@@ -1933,7 +1933,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 561,
       "stars_current": 561,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "fbertram/TuringTrader": {
       "full_name": "fbertram/TuringTrader",
@@ -1942,7 +1942,7 @@
       "language": "C#",
       "stars_last_week": 507,
       "stars_current": 507,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "VivekPa/OptimalPortfolio": {
       "full_name": "VivekPa/OptimalPortfolio",
@@ -1951,7 +1951,7 @@
       "language": "Python",
       "stars_last_week": 371,
       "stars_current": 371,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "yuriak/RLQuant": {
       "full_name": "yuriak/RLQuant",
@@ -1960,7 +1960,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 354,
       "stars_current": 354,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "spacious-team/investbook": {
       "full_name": "spacious-team/investbook",
@@ -1969,7 +1969,7 @@
       "language": "Java",
       "stars_last_week": 310,
       "stars_current": 310,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "mckelvin/beancount-boilerplate-cn": {
       "full_name": "mckelvin/beancount-boilerplate-cn",
@@ -1978,7 +1978,7 @@
       "language": "Python",
       "stars_last_week": 224,
       "stars_current": 224,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "hudson-and-thames/portfoliolab": {
       "full_name": "hudson-and-thames/portfoliolab",
@@ -1987,7 +1987,7 @@
       "language": "",
       "stars_last_week": 178,
       "stars_current": 178,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "vermouth1992/drl-portfolio-management": {
       "full_name": "vermouth1992/drl-portfolio-management",
@@ -1996,7 +1996,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 154,
       "stars_current": 154,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "brookswoolf/Trading-Algorithms": {
       "full_name": "brookswoolf/Trading-Algorithms",
@@ -2004,8 +2004,8 @@
       "html_url": "https://github.com/brookswoolf/Trading-Algorithms",
       "language": "Jupyter Notebook",
       "stars_last_week": 135,
-      "stars_current": 135,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 136,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "gabrielepompa88/pyBlackScholesAnalytics": {
       "full_name": "gabrielepompa88/pyBlackScholesAnalytics",
@@ -2014,7 +2014,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 125,
       "stars_current": 125,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "MarcelBeining/EazeBot": {
       "full_name": "MarcelBeining/EazeBot",
@@ -2023,7 +2023,7 @@
       "language": "Python",
       "stars_last_week": 123,
       "stars_current": 123,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "mementum/backtrader": {
       "full_name": "mementum/backtrader",
@@ -2031,8 +2031,8 @@
       "html_url": "https://github.com/mementum/backtrader",
       "language": "Python",
       "stars_last_week": 21200,
-      "stars_current": 21200,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 21211,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Mathieu2301/TradingView-API": {
       "full_name": "Mathieu2301/TradingView-API",
@@ -2040,8 +2040,8 @@
       "html_url": "https://github.com/Mathieu2301/TradingView-API",
       "language": "JavaScript",
       "stars_last_week": 3013,
-      "stars_current": 3013,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 3015,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "enzoampil/fastquant": {
       "full_name": "enzoampil/fastquant",
@@ -2050,7 +2050,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 1750,
       "stars_current": 1750,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ScottfreeLLC/AlphaPy": {
       "full_name": "ScottfreeLLC/AlphaPy",
@@ -2059,7 +2059,7 @@
       "language": "Python",
       "stars_last_week": 1716,
       "stars_current": 1716,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Lumiwealth/lumibot": {
       "full_name": "Lumiwealth/lumibot",
@@ -2067,8 +2067,8 @@
       "html_url": "https://github.com/Lumiwealth/lumibot",
       "language": "Python",
       "stars_last_week": 1352,
-      "stars_current": 1352,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1354,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "AlgoTraders/stock-analysis-engine": {
       "full_name": "AlgoTraders/stock-analysis-engine",
@@ -2077,7 +2077,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 1212,
       "stars_current": 1212,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "TreborNamor/TradingView-Machine-Learning-GUI": {
       "full_name": "TreborNamor/TradingView-Machine-Learning-GUI",
@@ -2086,7 +2086,7 @@
       "language": "Python",
       "stars_last_week": 936,
       "stars_current": 936,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "quarkfin/qf-lib": {
       "full_name": "quarkfin/qf-lib",
@@ -2095,7 +2095,7 @@
       "language": "Python",
       "stars_last_week": 924,
       "stars_current": 924,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "idanya/algo-trader": {
       "full_name": "idanya/algo-trader",
@@ -2104,7 +2104,7 @@
       "language": "Python",
       "stars_last_week": 866,
       "stars_current": 866,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "coding-kitties/investing-algorithm-framework": {
       "full_name": "coding-kitties/investing-algorithm-framework",
@@ -2112,8 +2112,8 @@
       "html_url": "https://github.com/coding-kitties/investing-algorithm-framework",
       "language": "Python",
       "stars_last_week": 841,
-      "stars_current": 841,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 867,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "gbeced/basana": {
       "full_name": "gbeced/basana",
@@ -2122,7 +2122,7 @@
       "language": "Python",
       "stars_last_week": 823,
       "stars_current": 823,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Heerozh/spectre": {
       "full_name": "Heerozh/spectre",
@@ -2131,7 +2131,7 @@
       "language": "Python",
       "stars_last_week": 793,
       "stars_current": 793,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "constverum/Quantdom": {
       "full_name": "constverum/Quantdom",
@@ -2140,7 +2140,7 @@
       "language": "Python",
       "stars_last_week": 764,
       "stars_current": 764,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Leo4815162342/dukascopy-node": {
       "full_name": "Leo4815162342/dukascopy-node",
@@ -2148,8 +2148,8 @@
       "html_url": "https://github.com/Leo4815162342/dukascopy-node",
       "language": "TypeScript",
       "stars_last_week": 731,
-      "stars_current": 731,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 733,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ivopetiz/algotrading": {
       "full_name": "ivopetiz/algotrading",
@@ -2158,7 +2158,7 @@
       "language": "Python",
       "stars_last_week": 1541,
       "stars_current": 1541,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Crypto-toolbox/HFT-Orderbook": {
       "full_name": "Crypto-toolbox/HFT-Orderbook",
@@ -2167,7 +2167,7 @@
       "language": "C",
       "stars_last_week": 1341,
       "stars_current": 1341,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "51bitquant/bitquant": {
       "full_name": "51bitquant/bitquant",
@@ -2176,7 +2176,7 @@
       "language": "Python",
       "stars_last_week": 1130,
       "stars_current": 1130,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "visualHFT/VisualHFT": {
       "full_name": "visualHFT/VisualHFT",
@@ -2185,7 +2185,7 @@
       "language": "C#",
       "stars_last_week": 1119,
       "stars_current": 1119,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "AlexWan/OsEngine": {
       "full_name": "AlexWan/OsEngine",
@@ -2193,8 +2193,8 @@
       "html_url": "https://github.com/AlexWan/OsEngine",
       "language": "C#",
       "stars_last_week": 970,
-      "stars_current": 970,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 971,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ttggs/hummingbot_chinese": {
       "full_name": "ttggs/hummingbot_chinese",
@@ -2203,7 +2203,7 @@
       "language": "",
       "stars_last_week": 784,
       "stars_current": 784,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "0b01/tectonicdb": {
       "full_name": "0b01/tectonicdb",
@@ -2212,7 +2212,7 @@
       "language": "Rust",
       "stars_last_week": 748,
       "stars_current": 748,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "outsmartchad/outsmart-cli": {
       "full_name": "outsmartchad/outsmart-cli",
@@ -2221,7 +2221,7 @@
       "language": "TypeScript",
       "stars_last_week": 577,
       "stars_current": 577,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "bradleyboyuyang/ML-HFT": {
       "full_name": "bradleyboyuyang/ML-HFT",
@@ -2230,7 +2230,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 571,
       "stars_current": 571,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "billpwchan/futu_algo": {
       "full_name": "billpwchan/futu_algo",
@@ -2238,8 +2238,8 @@
       "html_url": "https://github.com/billpwchan/futu_algo",
       "language": "Python",
       "stars_last_week": 572,
-      "stars_current": 572,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 573,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Elenchev/order-book-heatmap": {
       "full_name": "Elenchev/order-book-heatmap",
@@ -2248,7 +2248,7 @@
       "language": "JavaScript",
       "stars_last_week": 499,
       "stars_current": 499,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "joaquinbejar/OrderBook-rs": {
       "full_name": "joaquinbejar/OrderBook-rs",
@@ -2257,7 +2257,7 @@
       "language": "Rust",
       "stars_last_week": 441,
       "stars_current": 441,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "javifalces/HFTFramework": {
       "full_name": "javifalces/HFTFramework",
@@ -2266,7 +2266,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 290,
       "stars_current": 290,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "bradleyboyuyang/Statistical-Arbitrage": {
       "full_name": "bradleyboyuyang/Statistical-Arbitrage",
@@ -2274,8 +2274,8 @@
       "html_url": "https://github.com/bradleyboyuyang/Statistical-Arbitrage",
       "language": "Jupyter Notebook",
       "stars_last_week": 259,
-      "stars_current": 259,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 260,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "featherenvy/botvana": {
       "full_name": "featherenvy/botvana",
@@ -2284,7 +2284,7 @@
       "language": "Rust",
       "stars_last_week": 248,
       "stars_current": 248,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "hzjken/HFT-price-prediction": {
       "full_name": "hzjken/HFT-price-prediction",
@@ -2293,7 +2293,7 @@
       "language": "Python",
       "stars_last_week": 181,
       "stars_current": 181,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "muditbhargava66/High-Frequency-Trading-FPGA-System": {
       "full_name": "muditbhargava66/High-Frequency-Trading-FPGA-System",
@@ -2302,7 +2302,7 @@
       "language": "Verilog",
       "stars_last_week": 179,
       "stars_current": 179,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "zbarge/stocklook": {
       "full_name": "zbarge/stocklook",
@@ -2311,7 +2311,7 @@
       "language": "Python",
       "stars_last_week": 173,
       "stars_current": 173,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "brprojects/Limit-Order-Book": {
       "full_name": "brprojects/Limit-Order-Book",
@@ -2319,8 +2319,8 @@
       "html_url": "https://github.com/brprojects/Limit-Order-Book",
       "language": "C++",
       "stars_last_week": 158,
-      "stars_current": 158,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 159,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ChuaCheowHuan/gym-continuousDoubleAuction": {
       "full_name": "ChuaCheowHuan/gym-continuousDoubleAuction",
@@ -2329,7 +2329,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 152,
       "stars_current": 152,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Jeonghwan-Cheon/lob-deep-learning": {
       "full_name": "Jeonghwan-Cheon/lob-deep-learning",
@@ -2338,7 +2338,7 @@
       "language": "Python",
       "stars_last_week": 148,
       "stars_current": 148,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Manudecara/Algo-Trading": {
       "full_name": "Manudecara/Algo-Trading",
@@ -2347,7 +2347,7 @@
       "language": "R",
       "stars_last_week": 140,
       "stars_current": 140,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "nelso0/barbotine-scalping-bot": {
       "full_name": "nelso0/barbotine-scalping-bot",
@@ -2356,7 +2356,7 @@
       "language": "",
       "stars_last_week": 126,
       "stars_current": 126,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "jialuechen/trademind": {
       "full_name": "jialuechen/trademind",
@@ -2365,7 +2365,7 @@
       "language": "C++",
       "stars_last_week": 125,
       "stars_current": 125,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "HujiaYuYoyo/448Project": {
       "full_name": "HujiaYuYoyo/448Project",
@@ -2374,7 +2374,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 109,
       "stars_current": 109,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "ivopetiz/crypto-database": {
       "full_name": "ivopetiz/crypto-database",
@@ -2383,7 +2383,7 @@
       "language": "Go",
       "stars_last_week": 107,
       "stars_current": 107,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "asavinov/intelligent-trading-bot": {
       "full_name": "asavinov/intelligent-trading-bot",
@@ -2391,8 +2391,8 @@
       "html_url": "https://github.com/asavinov/intelligent-trading-bot",
       "language": "Python",
       "stars_last_week": 1665,
-      "stars_current": 1665,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 1666,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "gazbert/bxbot": {
       "full_name": "gazbert/bxbot",
@@ -2401,7 +2401,7 @@
       "language": "Java",
       "stars_last_week": 864,
       "stars_current": 864,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "cassandre-tech/cassandre-trading-bot": {
       "full_name": "cassandre-tech/cassandre-trading-bot",
@@ -2410,7 +2410,7 @@
       "language": "Java",
       "stars_last_week": 652,
       "stars_current": 652,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "fremantle-industries/tai": {
       "full_name": "fremantle-industries/tai",
@@ -2418,8 +2418,8 @@
       "html_url": "https://github.com/fremantle-industries/tai",
       "language": "Elixir",
       "stars_last_week": 493,
-      "stars_current": 493,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 494,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "LuxAlgo/PineTS": {
       "full_name": "LuxAlgo/PineTS",
@@ -2427,8 +2427,8 @@
       "html_url": "https://github.com/LuxAlgo/PineTS",
       "language": "TypeScript",
       "stars_last_week": 325,
-      "stars_current": 325,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 326,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "okx/agent-trade-kit": {
       "full_name": "okx/agent-trade-kit",
@@ -2436,8 +2436,8 @@
       "html_url": "https://github.com/okx/agent-trade-kit",
       "language": "TypeScript",
       "stars_last_week": 194,
-      "stars_current": 194,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 202,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "SpiralDevelopment/Awesome-Crypto-Trading": {
       "full_name": "SpiralDevelopment/Awesome-Crypto-Trading",
@@ -2446,7 +2446,7 @@
       "language": "",
       "stars_last_week": 190,
       "stars_current": 190,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "Omar-Karimov/ChartScanAI": {
       "full_name": "Omar-Karimov/ChartScanAI",
@@ -2455,7 +2455,7 @@
       "language": "Python",
       "stars_last_week": 146,
       "stars_current": 146,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "diogomatoschaves/MyCryptoBot": {
       "full_name": "diogomatoschaves/MyCryptoBot",
@@ -2464,7 +2464,7 @@
       "language": "Python",
       "stars_last_week": 135,
       "stars_current": 135,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "huweihua123/stock-mcp": {
       "full_name": "huweihua123/stock-mcp",
@@ -2472,8 +2472,8 @@
       "html_url": "https://github.com/huweihua123/stock-mcp",
       "language": "Python",
       "stars_last_week": 133,
-      "stars_current": 133,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 132,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "jordantete/grid_trading_bot": {
       "full_name": "jordantete/grid_trading_bot",
@@ -2482,7 +2482,7 @@
       "language": "Python",
       "stars_last_week": 129,
       "stars_current": 129,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "sanzol-tech/ai-trader": {
       "full_name": "sanzol-tech/ai-trader",
@@ -2491,7 +2491,7 @@
       "language": "Java",
       "stars_last_week": 123,
       "stars_current": 123,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "CodonoTeam/cryptocurrency-exchange-script": {
       "full_name": "CodonoTeam/cryptocurrency-exchange-script",
@@ -2499,8 +2499,8 @@
       "html_url": "https://github.com/CodonoTeam/cryptocurrency-exchange-script",
       "language": "Shell",
       "stars_last_week": 122,
-      "stars_current": 122,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "stars_current": 121,
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "fremantle-industries/workbench": {
       "full_name": "fremantle-industries/workbench",
@@ -2509,7 +2509,7 @@
       "language": "Elixir",
       "stars_last_week": 121,
       "stars_current": 121,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "shrimpy-dev/shrimpy-python": {
       "full_name": "shrimpy-dev/shrimpy-python",
@@ -2518,7 +2518,7 @@
       "language": "Python",
       "stars_last_week": 121,
       "stars_current": 121,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "aitradingbotspro/cryto-trading-ai-assistant": {
       "full_name": "aitradingbotspro/cryto-trading-ai-assistant",
@@ -2527,7 +2527,7 @@
       "language": "Python",
       "stars_last_week": 118,
       "stars_current": 118,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "jaimindp/Twitter_Activated_Crypto_Trading_Bot": {
       "full_name": "jaimindp/Twitter_Activated_Crypto_Trading_Bot",
@@ -2536,7 +2536,7 @@
       "language": "Python",
       "stars_last_week": 115,
       "stars_current": 115,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     },
     "SpiralDevelopment/RSI-divergence-detector": {
       "full_name": "SpiralDevelopment/RSI-divergence-detector",
@@ -2545,9 +2545,9 @@
       "language": "Python",
       "stars_last_week": 112,
       "stars_current": 112,
-      "last_updated": "2026-04-20T02:51:56.811640+00:00"
+      "last_updated": "2026-04-21T03:19:39.797417+00:00"
     }
   },
   "last_discovery": "2026-04-20T02:51:56.809204+00:00",
-  "last_run": "2026-04-20T02:51:56.811640+00:00"
+  "last_run": "2026-04-21T03:19:39.797417+00:00"
 }
