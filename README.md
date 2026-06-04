@@ -1,25 +1,42 @@
 <!-- AUTO-GENERATED — DO NOT EDIT MANUALLY -->
 # 🚀 Top 10 Fastest-Growing Finance Repos This Week
 
-> Updated **2026-06-03** · Tracks 10 repos this week  
+> Updated **2026-06-04** · Tracks 10 repos this week  
 > Full list: [GitHub Pages site](https://davidlifschitz.github.io/fastest-growing-finance-repos/)
 
 | # | Repo | Description | Lang | Stars | Δ This Week |
 |---|------|-------------|------|-------|-------------|
-| 1 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Code for Machine Learning for Algorithmic Trading, 2nd edition. | `Jupyter Notebook` | 18,585 | +629 ⭐ |
-| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 82,391 | +498 ⭐ |
-| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 9,586 | +210 ⭐ |
-| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stoc | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 39,952 | +150 ⭐ |
-| 5 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analyti | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | 25,120 | +132 ⭐ |
-| 6 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 68,470 | +73 ⭐ |
-| 7 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | OpenStock is an open-source alternative to expensive market platforms. Track rea | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | 12,950 | +64 ⭐ |
-| 8 | [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) | This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 7,786 | +56 ⭐ |
-| 9 | [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) | AI quantitative trading platform for crypto, stocks, and forex with backtesting, | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 7,153 | +46 ⭐ |
-| 10 | [microsoft/qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to emp | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 43,957 | +44 ⭐ |
+| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 10,142 | +556 ⭐ |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stoc | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 40,434 | +482 ⭐ |
+| 3 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Code for Machine Learning for Algorithmic Trading, 2nd edition. | `Jupyter Notebook` | 19,002 | +417 ⭐ |
+| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 82,743 | +352 ⭐ |
+| 5 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analyti | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | 25,248 | +128 ⭐ |
+| 6 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 68,563 | +93 ⭐ |
+| 7 | [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager | `PHP` | 23,590 | +59 ⭐ |
+| 8 | [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) | AI quantitative trading platform for crypto, stocks, and forex with backtesting, | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 7,204 | +51 ⭐ |
+| 9 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | OpenStock is an open-source alternative to expensive market platforms. Track rea | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | 12,997 | +47 ⭐ |
+| 10 | [microsoft/qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to emp | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 43,999 | +42 ⭐ |
 
 ---
 
 ## 📚 Archive
+
+### Week of 2026-06-04
+
+| # | Repo | Description | Lang | Stars | Δ This Week |
+|---|------|-------------|------|-------|-------------|
+| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 10,142 | +556 ⭐ |
+| 2 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stoc | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 40,434 | +482 ⭐ |
+| 3 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Code for Machine Learning for Algorithmic Trading, 2nd edition. | `Jupyter Notebook` | 19,002 | +417 ⭐ |
+| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 82,743 | +352 ⭐ |
+| 5 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analyti | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | 25,248 | +128 ⭐ |
+| 6 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 68,563 | +93 ⭐ |
+| 7 | [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager | `PHP` | 23,590 | +59 ⭐ |
+| 8 | [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) | AI quantitative trading platform for crypto, stocks, and forex with backtesting, | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 7,204 | +51 ⭐ |
+| 9 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | OpenStock is an open-source alternative to expensive market platforms. Track rea | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | 12,997 | +47 ⭐ |
+| 10 | [microsoft/qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to emp | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 43,999 | +42 ⭐ |
+
+---
 
 ### Week of 2026-06-03
 
