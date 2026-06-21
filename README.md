@@ -1,25 +1,42 @@
 <!-- AUTO-GENERATED — DO NOT EDIT MANUALLY -->
 # 🚀 Top 10 Fastest-Growing Finance Repos This Week
 
-> Updated **2026-06-20** · Tracks 10 repos this week  
+> Updated **2026-06-21** · Tracks 10 repos this week  
 > Full list: [GitHub Pages site](https://davidlifschitz.github.io/fastest-growing-finance-repos/)
 
 | # | Repo | Description | Lang | Stars | Δ This Week |
 |---|------|-------------|------|-------|-------------|
-| 1 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 87,483 | +201 ⭐ |
-| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 12,683 | +92 ⭐ |
-| 3 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stoc | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 43,217 | +83 ⭐ |
-| 4 | [microsoft/qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to emp | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 44,838 | +57 ⭐ |
-| 5 | [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 51,643 | +47 ⭐ |
-| 6 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | A vector index built on TurboQuant, written in Rust with Python bindings | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 11,983 | +47 ⭐ |
-| 7 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analyti | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | 27,153 | +45 ⭐ |
-| 8 | [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) | AI quantitative trading platform for crypto, stocks, and forex with backtesting, | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 8,272 | +41 ⭐ |
-| 9 | [vnpy/vnpy](https://github.com/vnpy/vnpy) | 基于Python的开源量化交易平台开发框架 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 41,836 | +38 ⭐ |
-| 10 | [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | A curated list of insanely awesome libraries, packages and resources for Quants  | `HTML` | 26,910 | +37 ⭐ |
+| 1 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stoc | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 43,633 | +416 ⭐ |
+| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 87,668 | +185 ⭐ |
+| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 12,794 | +111 ⭐ |
+| 4 | [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) | AI quantitative trading platform for crypto, stocks, and forex with backtesting, | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 8,366 | +94 ⭐ |
+| 5 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | The personal finance app for everyone | `Ruby` | 54,230 | +70 ⭐ |
+| 6 | [microsoft/qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to emp | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 44,881 | +43 ⭐ |
+| 7 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analyti | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | 27,196 | +43 ⭐ |
+| 8 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 69,477 | +41 ⭐ |
+| 9 | [vnpy/vnpy](https://github.com/vnpy/vnpy) | 基于Python的开源量化交易平台开发框架 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 41,877 | +41 ⭐ |
+| 10 | [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 51,683 | +40 ⭐ |
 
 ---
 
 ## 📚 Archive
+
+### Week of 2026-06-21
+
+| # | Repo | Description | Lang | Stars | Δ This Week |
+|---|------|-------------|------|-------|-------------|
+| 1 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stoc | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 43,633 | +416 ⭐ |
+| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 87,668 | +185 ⭐ |
+| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 12,794 | +111 ⭐ |
+| 4 | [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) | AI quantitative trading platform for crypto, stocks, and forex with backtesting, | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 8,366 | +94 ⭐ |
+| 5 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | The personal finance app for everyone | `Ruby` | 54,230 | +70 ⭐ |
+| 6 | [microsoft/qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to emp | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 44,881 | +43 ⭐ |
+| 7 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analyti | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | 27,196 | +43 ⭐ |
+| 8 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Financial data platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 69,477 | +41 ⭐ |
+| 9 | [vnpy/vnpy](https://github.com/vnpy/vnpy) | 基于Python的开源量化交易平台开发框架 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 41,877 | +41 ⭐ |
+| 10 | [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 51,683 | +40 ⭐ |
+
+---
 
 ### Week of 2026-06-20
 
