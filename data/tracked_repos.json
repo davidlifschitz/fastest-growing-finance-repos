@@ -5,180 +5,180 @@
       "description": "Open Data Platform for analysts, quants and AI agents.",
       "html_url": "https://github.com/OpenBB-finance/OpenBB",
       "language": "Python",
-      "stars_last_week": 70630,
-      "stars_current": 70679,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 70679,
+      "stars_current": 70708,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "maybe-finance/maybe": {
       "full_name": "maybe-finance/maybe",
       "description": "The personal finance app for everyone",
       "html_url": "https://github.com/maybe-finance/maybe",
       "language": "Ruby",
-      "stars_last_week": 54340,
-      "stars_current": 54339,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 54339,
+      "stars_current": 54343,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "TauricResearch/TradingAgents": {
       "full_name": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "html_url": "https://github.com/TauricResearch/TradingAgents",
       "language": "Python",
-      "stars_last_week": 93183,
-      "stars_current": 93344,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 93344,
+      "stars_current": 93438,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "juspay/hyperswitch": {
       "full_name": "juspay/hyperswitch",
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati",
       "html_url": "https://github.com/juspay/hyperswitch",
       "language": "Rust",
-      "stars_last_week": 43291,
-      "stars_current": 43320,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 43320,
+      "stars_current": 43327,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "microsoft/qlib": {
       "full_name": "microsoft/qlib",
       "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl",
       "html_url": "https://github.com/microsoft/qlib",
       "language": "Python",
-      "stars_last_week": 46268,
-      "stars_current": 46319,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 46319,
+      "stars_current": 46357,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "vnpy/vnpy": {
       "full_name": "vnpy/vnpy",
       "description": "\u57fa\u4e8ePython\u7684\u5f00\u6e90\u91cf\u5316\u4ea4\u6613\u5e73\u53f0\u5f00\u53d1\u6846\u67b6",
       "html_url": "https://github.com/vnpy/vnpy",
       "language": "Python",
-      "stars_last_week": 43007,
-      "stars_current": 43040,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 43040,
+      "stars_current": 43074,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "actualbudget/actual": {
       "full_name": "actualbudget/actual",
       "description": "A local-first personal finance app",
       "html_url": "https://github.com/actualbudget/actual",
       "language": "TypeScript",
-      "stars_last_week": 27559,
-      "stars_current": 27575,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 27575,
+      "stars_current": 27589,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "wilsonfreitas/awesome-quant": {
       "full_name": "wilsonfreitas/awesome-quant",
       "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
       "html_url": "https://github.com/wilsonfreitas/awesome-quant",
       "language": "HTML",
-      "stars_last_week": 27888,
-      "stars_current": 27919,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 27919,
+      "stars_current": 27956,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "plotly/dash": {
       "full_name": "plotly/dash",
       "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
       "html_url": "https://github.com/plotly/dash",
       "language": "Python",
-      "stars_last_week": 24318,
-      "stars_current": 24321,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 24321,
+      "stars_current": 24325,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "firefly-iii/firefly-iii": {
       "full_name": "firefly-iii/firefly-iii",
       "description": "Firefly III: a personal finances manager",
       "html_url": "https://github.com/firefly-iii/firefly-iii",
       "language": "PHP",
-      "stars_last_week": 24045,
-      "stars_current": 24055,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 24055,
+      "stars_current": 24063,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "AI4Finance-Foundation/FinGPT": {
       "full_name": "AI4Finance-Foundation/FinGPT",
       "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize \ud83d\udd25    We release the trained model on HuggingFace.",
       "html_url": "https://github.com/AI4Finance-Foundation/FinGPT",
       "language": "Jupyter Notebook",
-      "stars_last_week": 20884,
-      "stars_current": 20892,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 20892,
+      "stars_current": 20898,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "QuantConnect/Lean": {
       "full_name": "QuantConnect/Lean",
       "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
       "html_url": "https://github.com/QuantConnect/Lean",
       "language": "C#",
-      "stars_last_week": 20545,
-      "stars_current": 20563,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 20563,
+      "stars_current": 20574,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "akfamily/akshare": {
       "full_name": "akfamily/akshare",
       "description": "AKShare is an elegant and simple financial data interface library for Python, built for human beings! \u5f00\u6e90\u8d22\u7ecf\u6570\u636e\u63a5\u53e3\u5e93",
       "html_url": "https://github.com/akfamily/akshare",
       "language": "Python",
-      "stars_last_week": 21326,
-      "stars_current": 21357,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 21357,
+      "stars_current": 21376,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "stefan-jansen/machine-learning-for-trading": {
       "full_name": "stefan-jansen/machine-learning-for-trading",
       "description": "Code for Machine Learning for Trading, 3rd edition \u2014 from data sourcing to live execution.",
       "html_url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "language": "Jupyter Notebook",
-      "stars_last_week": 19892,
-      "stars_current": 19916,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 19916,
+      "stars_current": 19938,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "tradingview/lightweight-charts": {
       "full_name": "tradingview/lightweight-charts",
       "description": "Performant financial charts built with HTML5 canvas",
       "html_url": "https://github.com/tradingview/lightweight-charts",
       "language": "TypeScript",
-      "stars_last_week": 16603,
-      "stars_current": 16612,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 16612,
+      "stars_current": 16620,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "AI4Finance-Foundation/FinRL": {
       "full_name": "AI4Finance-Foundation/FinRL",
       "description": "FinRL\u00ae:  Financial Reinforcement Learning. \ud83d\udd25",
       "html_url": "https://github.com/AI4Finance-Foundation/FinRL",
       "language": "Jupyter Notebook",
-      "stars_last_week": 15738,
-      "stars_current": 15744,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 15744,
+      "stars_current": 15751,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "waditu/tushare": {
       "full_name": "waditu/tushare",
       "description": "TuShare is a utility for crawling historical data of China stocks",
       "html_url": "https://github.com/waditu/tushare",
       "language": "Python",
-      "stars_last_week": 15263,
-      "stars_current": 15270,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 15270,
+      "stars_current": 15272,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "midday-ai/midday": {
       "full_name": "midday-ai/midday",
       "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
       "html_url": "https://github.com/midday-ai/midday",
       "language": "TypeScript",
-      "stars_last_week": 14584,
+      "stars_last_week": 14589,
       "stars_current": 14589,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "jpmorganchase/python-training": {
       "full_name": "jpmorganchase/python-training",
       "description": "Python training for business analysts and traders",
       "html_url": "https://github.com/jpmorganchase/python-training",
       "language": "Jupyter Notebook",
-      "stars_last_week": 13687,
+      "stars_last_week": 13690,
       "stars_current": 13690,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "TA-Lib/ta-lib-python": {
       "full_name": "TA-Lib/ta-lib-python",
       "description": "Python wrapper for TA-Lib (http://ta-lib.org/).",
       "html_url": "https://github.com/TA-Lib/ta-lib-python",
       "language": "Cython",
-      "stars_last_week": 12123,
+      "stars_last_week": 12125,
       "stars_current": 12125,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ValueCell-ai/valuecell": {
       "full_name": "ValueCell-ai/valuecell",
@@ -186,152 +186,152 @@
       "html_url": "https://github.com/ValueCell-ai/valuecell",
       "language": "Python",
       "stars_last_week": 10935,
-      "stars_current": 10935,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 10936,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "akaunting/akaunting": {
       "full_name": "akaunting/akaunting",
       "description": "Online Accounting Software",
       "html_url": "https://github.com/akaunting/akaunting",
       "language": "PHP",
-      "stars_last_week": 9960,
-      "stars_current": 9959,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 9959,
+      "stars_current": 9962,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "StockSharp/StockSharp": {
       "full_name": "StockSharp/StockSharp",
       "description": "Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).",
       "html_url": "https://github.com/StockSharp/StockSharp",
       "language": "C#",
-      "stars_last_week": 10331,
-      "stars_current": 10336,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 10336,
+      "stars_current": 10346,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "firmai/financial-machine-learning": {
       "full_name": "firmai/financial-machine-learning",
       "description": "A curated list of practical financial machine learning tools and applications.",
       "html_url": "https://github.com/firmai/financial-machine-learning",
       "language": "Python",
-      "stars_last_week": 8689,
-      "stars_current": 8690,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 8690,
+      "stars_current": 8692,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "kernc/backtesting.py": {
       "full_name": "kernc/backtesting.py",
       "description": "\ud83d\udd0e \ud83d\udcc8 \ud83d\udc0d \ud83d\udcb0  Backtest trading strategies in Python.",
       "html_url": "https://github.com/kernc/backtesting.py",
       "language": "Python",
-      "stars_last_week": 8677,
-      "stars_current": 8679,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 8679,
+      "stars_current": 8682,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ghostfolio/ghostfolio": {
       "full_name": "ghostfolio/ghostfolio",
       "description": "Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript \ud83e\udd0d",
       "html_url": "https://github.com/ghostfolio/ghostfolio",
       "language": "TypeScript",
-      "stars_last_week": 8964,
-      "stars_current": 8968,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 8968,
+      "stars_current": 8972,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "paperswithbacktest/awesome-systematic-trading": {
       "full_name": "paperswithbacktest/awesome-systematic-trading",
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
       "html_url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "language": "Python",
-      "stars_last_week": 8558,
-      "stars_current": 8563,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 8563,
+      "stars_current": 8572,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ellite/Wallos": {
       "full_name": "ellite/Wallos",
       "description": "Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.",
       "html_url": "https://github.com/ellite/Wallos",
       "language": "PHP",
-      "stars_last_week": 8199,
-      "stars_current": 8203,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 8203,
+      "stars_current": 8214,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "JerBouma/FinanceDatabase": {
       "full_name": "JerBouma/FinanceDatabase",
       "description": "This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.",
       "html_url": "https://github.com/JerBouma/FinanceDatabase",
       "language": "Python",
-      "stars_last_week": 8111,
-      "stars_current": 8142,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 8142,
+      "stars_current": 8158,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "polakowo/vectorbt": {
       "full_name": "polakowo/vectorbt",
       "description": "The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.",
       "html_url": "https://github.com/polakowo/vectorbt",
       "language": "Python",
-      "stars_last_week": 8321,
-      "stars_current": 8338,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 8338,
+      "stars_current": 8347,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "UFund-Me/Qbot": {
       "full_name": "UFund-Me/Qbot",
       "description": "[\ud83d\udd25updating ...] AI \u81ea\u52a8\u91cf\u5316\u4ea4\u6613\u673a\u5668\u4eba(\u5b8c\u5168\u672c\u5730\u90e8\u7f72) AI-powered Quantitative Investment Research Platform. \ud83d\udcc3 online docs: https://ufund-me.github.io/Qbot   \u2728 :news: qbot-mini: https://github.com/Charmve/iQuant",
       "html_url": "https://github.com/UFund-Me/Qbot",
       "language": "Jupyter Notebook",
-      "stars_last_week": 18073,
-      "stars_current": 18083,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 18083,
+      "stars_current": 18092,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "getlago/lago": {
       "full_name": "getlago/lago",
       "description": "Open Source Metering and Usage Based Billing API \u2b50\ufe0f Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
       "html_url": "https://github.com/getlago/lago",
       "language": "Go",
-      "stars_last_week": 10218,
-      "stars_current": 10222,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 10222,
+      "stars_current": 10226,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "yeasy/blockchain_guide": {
       "full_name": "yeasy/blockchain_guide",
       "description": "Introduce technologies on blockchain and distributed ledger, from theory to practice with bitcoin, ethereum and hyperledger.",
       "html_url": "https://github.com/yeasy/blockchain_guide",
       "language": "Python",
-      "stars_last_week": 7073,
-      "stars_current": 7072,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 7072,
+      "stars_current": 7071,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "wondertrader/wondertrader": {
       "full_name": "wondertrader/wondertrader",
       "description": "WonderTrader\u2014\u2014\u91cf\u5316\u7814\u53d1\u4ea4\u6613\u4e00\u7ad9\u5f0f\u6846\u67b6",
       "html_url": "https://github.com/wondertrader/wondertrader",
       "language": "C++",
-      "stars_last_week": 6203,
-      "stars_current": 6206,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 6206,
+      "stars_current": 6208,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Kaustubh-Natuskar/moreThanFAANGM": {
       "full_name": "Kaustubh-Natuskar/moreThanFAANGM",
       "description": "This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.",
       "html_url": "https://github.com/Kaustubh-Natuskar/moreThanFAANGM",
       "language": "",
-      "stars_last_week": 5180,
-      "stars_current": 5184,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5184,
+      "stars_current": 5186,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "zvtvz/zvt": {
       "full_name": "zvtvz/zvt",
       "description": "modular quant framework.",
       "html_url": "https://github.com/zvtvz/zvt",
       "language": "Python",
-      "stars_last_week": 4229,
+      "stars_last_week": 4232,
       "stars_current": 4232,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "fasiondog/hikyuu": {
       "full_name": "fasiondog/hikyuu",
       "description": "Hikyuu Quant Framework \u57fa\u4e8eC++/Python\u7684\u8d85\u9ad8\u901f\u5f00\u6e90\u91cf\u5316\u4ea4\u6613\u7814\u7a76\u6846\u67b6\uff0c\u540c\u65f6\u53ef\u57fa\u4e8e\u7b56\u7565\u90e8\u4ef6\u8fdb\u884c\u8d44\u4ea7\u91cd\u7528\uff0c\u5feb\u901f\u7d2f\u79ef\u7b56\u7565\u8d44\u4ea7\u3002",
       "html_url": "https://github.com/fasiondog/hikyuu",
       "language": "C++",
-      "stars_last_week": 3356,
-      "stars_current": 3357,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 3357,
+      "stars_current": 3360,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "FISCO-BCOS/FISCO-BCOS": {
       "full_name": "FISCO-BCOS/FISCO-BCOS",
@@ -339,62 +339,62 @@
       "html_url": "https://github.com/FISCO-BCOS/FISCO-BCOS",
       "language": "C++",
       "stars_last_week": 2588,
-      "stars_current": 2588,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 2589,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "TradeMaster-NTU/TradeMaster": {
       "full_name": "TradeMaster-NTU/TradeMaster",
       "description": "TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:",
       "html_url": "https://github.com/TradeMaster-NTU/TradeMaster",
       "language": "Jupyter Notebook",
-      "stars_last_week": 2917,
-      "stars_current": 2921,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 2921,
+      "stars_current": 2927,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "peerchemist/finta": {
       "full_name": "peerchemist/finta",
       "description": "Common financial technical indicators implemented in Pandas.",
       "html_url": "https://github.com/peerchemist/finta",
       "language": "Python",
-      "stars_last_week": 2261,
+      "stars_last_week": 2262,
       "stars_current": 2262,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "HKUDS/Vibe-Trading": {
       "full_name": "HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "html_url": "https://github.com/HKUDS/Vibe-Trading",
       "language": "Python",
-      "stars_last_week": 23776,
-      "stars_current": 24338,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 24338,
+      "stars_current": 24651,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "apache/fineract": {
       "full_name": "apache/fineract",
       "description": "Apache Fineract",
       "html_url": "https://github.com/apache/fineract",
       "language": "Java",
-      "stars_last_week": 2310,
-      "stars_current": 2311,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 2311,
+      "stars_current": 2315,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "openmeterio/openmeter": {
       "full_name": "openmeterio/openmeter",
       "description": "Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.",
       "html_url": "https://github.com/openmeterio/openmeter",
       "language": "Go",
-      "stars_last_week": 2117,
-      "stars_current": 2124,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 2124,
+      "stars_current": 2125,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "cbailes/awesome-deep-trading": {
       "full_name": "cbailes/awesome-deep-trading",
       "description": "List of awesome resources for machine learning-based algorithmic trading",
       "html_url": "https://github.com/cbailes/awesome-deep-trading",
       "language": "",
-      "stars_last_week": 2011,
-      "stars_current": 2010,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 2010,
+      "stars_current": 2011,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "RKiding/Awesome-finance-skills": {
       "full_name": "RKiding/Awesome-finance-skills",
@@ -402,8 +402,8 @@
       "html_url": "https://github.com/RKiding/Awesome-finance-skills",
       "language": "Python",
       "stars_last_week": 2698,
-      "stars_current": 2698,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 2700,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "AI4Finance-Foundation/FinRL-Meta": {
       "full_name": "AI4Finance-Foundation/FinRL-Meta",
@@ -412,7 +412,7 @@
       "language": "Python",
       "stars_last_week": 1908,
       "stars_current": 1908,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "dj-stripe/dj-stripe": {
       "full_name": "dj-stripe/dj-stripe",
@@ -421,7 +421,7 @@
       "language": "Python",
       "stars_last_week": 1786,
       "stars_current": 1786,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "sangyx/deep-finance": {
       "full_name": "sangyx/deep-finance",
@@ -430,7 +430,7 @@
       "language": "",
       "stars_last_week": 1508,
       "stars_current": 1508,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "wondertrader/wtpy": {
       "full_name": "wondertrader/wtpy",
@@ -439,7 +439,7 @@
       "language": "Python",
       "stars_last_week": 1478,
       "stars_current": 1478,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "andrewdwallo/erpsaas": {
       "full_name": "andrewdwallo/erpsaas",
@@ -448,25 +448,25 @@
       "language": "PHP",
       "stars_last_week": 1449,
       "stars_current": 1449,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "DemonDamon/FinnewsHunter": {
       "full_name": "DemonDamon/FinnewsHunter",
       "description": "FinnewsHunter: Multi-agent financial intelligence platform powered by AgenticX. Real-time news analysis, sentiment fusion, and alpha factor mining.",
       "html_url": "https://github.com/DemonDamon/FinnewsHunter",
       "language": "Python",
-      "stars_last_week": 1468,
+      "stars_last_week": 1469,
       "stars_current": 1469,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "JoinQuant/jqdatasdk": {
       "full_name": "JoinQuant/jqdatasdk",
       "description": "\u7b80\u5355\u6613\u7528\u7684\u91cf\u5316\u91d1\u878d\u6570\u636e\u5305(easy utility for getting financial market data of China)",
       "html_url": "https://github.com/JoinQuant/jqdatasdk",
       "language": "Python",
-      "stars_last_week": 1346,
+      "stars_last_week": 1348,
       "stars_current": 1348,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "foolcage/fooltrader": {
       "full_name": "foolcage/fooltrader",
@@ -475,88 +475,88 @@
       "language": "Python",
       "stars_last_week": 1196,
       "stars_current": 1196,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ZhuLinsen/daily_stock_analysis": {
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "language": "Python",
-      "stars_last_week": 57392,
-      "stars_current": 57548,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 57548,
+      "stars_current": 57668,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "quantopian/zipline": {
       "full_name": "quantopian/zipline",
       "description": "Zipline, a Pythonic Algorithmic Trading Library",
       "html_url": "https://github.com/quantopian/zipline",
       "language": "Python",
-      "stars_last_week": 19978,
-      "stars_current": 19981,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 19981,
+      "stars_current": 19984,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "bbfamily/abu": {
       "full_name": "bbfamily/abu",
       "description": "\u963f\u5e03\u91cf\u5316\u4ea4\u6613\u7cfb\u7edf(\u80a1\u7968\uff0c\u671f\u6743\uff0c\u671f\u8d27\uff0c\u6bd4\u7279\u5e01\uff0c\u673a\u5668\u5b66\u4e60) \u57fa\u4e8epython\u7684\u5f00\u6e90\u91cf\u5316\u4ea4\u6613\uff0c\u91cf\u5316\u6295\u8d44\u67b6\u6784",
       "html_url": "https://github.com/bbfamily/abu",
       "language": "Python",
-      "stars_last_week": 17835,
-      "stars_current": 17845,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 17845,
+      "stars_current": 17855,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "yutiansut/QUANTAXIS": {
       "full_name": "yutiansut/QUANTAXIS",
       "description": "QUANTAXIS \u652f\u6301\u4efb\u52a1\u8c03\u5ea6 \u5206\u5e03\u5f0f\u90e8\u7f72\u7684 \u80a1\u7968/\u671f\u8d27/\u671f\u6743  \u6570\u636e/\u56de\u6d4b/\u6a21\u62df/\u4ea4\u6613/\u53ef\u89c6\u5316/\u591a\u8d26\u6237 \u7eaf\u672c\u5730\u91cf\u5316\u89e3\u51b3\u65b9\u6848",
       "html_url": "https://github.com/yutiansut/QUANTAXIS",
       "language": "Python",
-      "stars_last_week": 10881,
-      "stars_current": 10882,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 10882,
+      "stars_current": 10889,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "je-suis-tm/quant-trading": {
       "full_name": "je-suis-tm/quant-trading",
       "description": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Tradin",
       "html_url": "https://github.com/je-suis-tm/quant-trading",
       "language": "Python",
-      "stars_last_week": 10312,
-      "stars_current": 10327,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 10327,
+      "stars_current": 10337,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "timercrack/trader": {
       "full_name": "timercrack/trader",
       "description": "\u671f\u8d27\u81ea\u52a8\u4ea4\u6613",
       "html_url": "https://github.com/timercrack/trader",
       "language": "C",
-      "stars_last_week": 8332,
+      "stars_last_week": 8338,
       "stars_current": 8338,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Rockyzsu/stock": {
       "full_name": "Rockyzsu/stock",
       "description": "30\u5929\u638c\u63e1\u91cf\u5316\u4ea4\u6613 (\u6301\u7eed\u66f4\u65b0)",
       "html_url": "https://github.com/Rockyzsu/stock",
       "language": "Python",
-      "stars_last_week": 7878,
-      "stars_current": 7881,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 7881,
+      "stars_current": 7885,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ranaroussi/quantstats": {
       "full_name": "ranaroussi/quantstats",
       "description": "Portfolio analytics for quants, written in Python",
       "html_url": "https://github.com/ranaroussi/quantstats",
       "language": "Python",
-      "stars_last_week": 7448,
-      "stars_current": 7452,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 7452,
+      "stars_current": 7453,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ricequant/rqalpha": {
       "full_name": "ricequant/rqalpha",
       "description": "A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities",
       "html_url": "https://github.com/ricequant/rqalpha",
       "language": "Python",
-      "stars_last_week": 6579,
-      "stars_current": 6581,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 6581,
+      "stars_current": 6584,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "georgezouq/awesome-ai-in-finance": {
       "full_name": "georgezouq/awesome-ai-in-finance",
@@ -565,160 +565,160 @@
       "language": "",
       "stars_last_week": 6259,
       "stars_current": 6259,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "thuquant/awesome-quant": {
       "full_name": "thuquant/awesome-quant",
       "description": "\u4e2d\u56fd\u7684Quant\u76f8\u5173\u8d44\u6e90\u7d22\u5f15",
       "html_url": "https://github.com/thuquant/awesome-quant",
       "language": "",
-      "stars_last_week": 5481,
-      "stars_current": 5482,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5482,
+      "stars_current": 5484,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "speedyapply/2026-AI-College-Jobs": {
       "full_name": "speedyapply/2026-AI-College-Jobs",
       "description": "2027 AI/ML internship & new graduate job list updated daily",
       "html_url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "language": "",
-      "stars_last_week": 5816,
-      "stars_current": 5820,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5820,
+      "stars_current": 5826,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "waditu/czsc": {
       "full_name": "waditu/czsc",
       "description": "\u7f20\u4e2d\u8bf4\u7985\u6280\u672f\u5206\u6790\u5de5\u5177\uff1b\u7f20\u8bba\uff1b\u80a1\u7968\uff1b\u671f\u8d27\uff1bQuant\uff1b\u91cf\u5316\u4ea4\u6613",
       "html_url": "https://github.com/waditu/czsc",
       "language": "Rust",
-      "stars_last_week": 5548,
-      "stars_current": 5557,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5557,
+      "stars_current": 5560,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "hugo2046/QuantsPlaybook": {
       "full_name": "hugo2046/QuantsPlaybook",
       "description": "\u91cf\u5316\u7814\u7a76-\u5238\u5546\u91d1\u5de5\u7814\u62a5\u590d\u73b0",
       "html_url": "https://github.com/hugo2046/QuantsPlaybook",
       "language": "Jupyter Notebook",
-      "stars_last_week": 5607,
-      "stars_current": 5612,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5612,
+      "stars_current": 5619,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "shinnytech/tqsdk-python": {
       "full_name": "shinnytech/tqsdk-python",
       "description": "\u5929\u52e4\u91cf\u5316\u5f00\u53d1\u5305, \u671f\u8d27\u91cf\u5316, \u5b9e\u65f6\u884c\u60c5/\u5386\u53f2\u6570\u636e/\u5b9e\u76d8\u4ea4\u6613",
       "html_url": "https://github.com/shinnytech/tqsdk-python",
       "language": "Python",
-      "stars_last_week": 4867,
-      "stars_current": 4872,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 4872,
+      "stars_current": 4873,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "1nchaos/adata": {
       "full_name": "1nchaos/adata",
       "description": "\u514d\u8d39\u5f00\u6e90A\u80a1\u91cf\u5316\u4ea4\u6613\u6570\u636e\u5e93\uff1b \u4e13\u6ce8A\u80a1\uff0c\u4e13\u6ce8\u91cf\u5316\uff0c\u5411\u9633\u800c\u751f\uff1b \u5f00\u653e\u3001\u7eaf\u51c0\u3001\u6301\u7eed\u3001\u4e3aAi(\u7231)\u53d1\u7535\u3002\u4e3a\u4e2a\u4eba\u91cf\u5316\u4ea4\u6613\u800c\u751f\uff0c\u4fdd\u536b3000\u70b9\uff0c\u73cd\u60dc\u5e95\u90e8\u673a\u4f1a......\u3010\u80a1\u7968\u6570\u636e\uff0c\u80a1\u7968\u884c\u60c5\u6570\u636e\uff0c\u80a1\u7968\u91cf\u5316\u6570\u636e\uff0c\u80a1\u7968\u4ea4\u6613\u6570\u636e\uff0ck\u7ebf\u884c\u60c5\u6570\u636e\uff0c\u80a1\u7968\u6982\u5ff5\u6570\u636e\uff0c\u80a1\u7968\u6570\u636e\u63a5\u53e3\uff0c\u884c\u60c5\u6570\u636e\u63a5\u53e3\uff0c\u91cf\u5316\u4ea4\u6613\u6570\u636e\u3011\u3010\u591a\u6570\u636e\u6e90\u878d\u5408\uff0c\u52a8\u6001\u8bbe\u7f6e\u4ee3\u7406\uff0c\u4fdd\u969c\u6570\u636e\u9ad8\u53ef\u7528\u6027\u3011",
       "html_url": "https://github.com/1nchaos/adata",
       "language": "Python",
-      "stars_last_week": 4960,
-      "stars_current": 4965,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 4965,
+      "stars_current": 4969,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "wangzhe3224/awesome-systematic-trading": {
       "full_name": "wangzhe3224/awesome-systematic-trading",
       "description": "A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | \u91cf\u5316\u4ea4\u6613 | \u91cf\u5316\u6295\u8d44",
       "html_url": "https://github.com/wangzhe3224/awesome-systematic-trading",
       "language": "HTML",
-      "stars_last_week": 4472,
-      "stars_current": 4476,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 4476,
+      "stars_current": 4479,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Micro-sheep/efinance": {
       "full_name": "Micro-sheep/efinance",
       "description": "efinance \u662f\u4e00\u4e2a\u53ef\u4ee5\u5feb\u901f\u83b7\u53d6\u57fa\u91d1\u3001\u80a1\u7968\u3001\u503a\u5238\u3001\u671f\u8d27\u6570\u636e\u7684 Python \u5e93\uff0c\u56de\u6d4b\u4ee5\u53ca\u91cf\u5316\u4ea4\u6613\u7684\u597d\u5e2e\u624b\uff01\ud83d\ude80\ud83d\ude80\ud83d\ude80",
       "html_url": "https://github.com/Micro-sheep/efinance",
       "language": "Python",
-      "stars_last_week": 3875,
-      "stars_current": 3879,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 3879,
+      "stars_current": 3881,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "mpquant/Ashare": {
       "full_name": "mpquant/Ashare",
       "description": "\u80a1\u7968\u884c\u60c5\u5b9e\u65f6\u6570\u636e\u63a5\u53e3-A\u80a1,\u5b8c\u5168\u514d\u8d39\u7684\u6caa\u6df1\u8bc1\u5238\u80a1\u7968\u6570\u636e-\u4e2d\u56fd\u80a1\u5e02,python\u6700\u7b80\u5c01\u88c5\u7684API\u63a5\u53e3,\u5305\u542b\u65e5\u7ebf,\u5386\u53f2K\u7ebf,\u5206\u65f6\u7ebf,\u5206\u949f\u7ebf,\u5168\u90e8\u5b9e\u65f6\u91c7\u96c6\uff0c\u7cfb\u7edf\u5305\u62ec\u65b0\u6d6a\u817e\u8baf\u53cc\u6570\u636e\u6838\u5fc3\u91c7\u96c6\u83b7\u53d6\uff0c\u81ea\u52a8\u6545\u969c\u5207\u6362\uff0cSTOCK\u6570\u636e\u683c\u5f0f\u6210DataFrame\u683c\u5f0f,\u53ef\u7528\u6765\u67e5\u8be2\u7814\u7a76\u91cf\u5316\u5206\u6790\uff0c\u80a1\u7968\u7a0b\u5e8f\u81ea\u52a8\u5316\u4ea4\u6613\u7cfb\u7edf.\u4e3a\u91cf\u5316\u7814\u7a76\u8005\u5728\u6570\u636e\u83b7\u53d6\u65b9\u9762\u6781\u5927\u5730\u51cf\u8f7b\u5de5\u4f5c\u91cf\uff0c\u66f4\u52a0\u4e13\u6ce8\u4e8e\u7b56\u7565\u548c\u6a21\u578b\u7684\u7814\u7a76\u4e0e\u5b9e\u73b0\u3002",
       "html_url": "https://github.com/mpquant/Ashare",
       "language": "Python",
-      "stars_last_week": 3696,
-      "stars_current": 3699,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 3699,
+      "stars_current": 3701,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "openctp/openctp": {
       "full_name": "openctp/openctp",
       "description": "openctp\u63d0\u4f9bCTP\u80a1\u7968\u671f\u6743\u3001\u4e2d\u6cf0\u8bc1\u5238XTP\u3001\u534e\u946b\u8bc1\u5238\u5947\u70b9TORA\u3001\u4e1c\u65b9\u8bc1\u5238OST\u3001\u4e1c\u65b9\u8d22\u5bcc\u8bc1\u5238EMT\u3001\u76c8\u900f\u8bc1\u5238TWS\u3001\u6613\u76dbTAP\u3001\u91cf\u6295QDP\u7b49\u5404\u901a\u9053\u7684CTPAPI\u517c\u5bb9\u63a5\u53e3\uff0cCTP\u7a0b\u5e8f\u53ef\u4ee5\u65e0\u7f1d\u5bf9\u63a5\u5404\u80a1\u7968\u67dc\u53f0\u3002openctp\u4e5f\u63d0\u4f9b\u4e86\u4e00\u5957\u57fa\u4e8eTTS\u4ea4\u6613\u7cfb\u7edf\u7684\u6a21\u62df\u73af\u5883\uff0c\u540c\u6837\u63d0\u4f9b\u4e86CTPAPI\u517c\u5bb9\u63a5\u53e3\uff0c\u4e0d\u4ec5\u652f\u6301\u56fd\u5185\u671f\u8d27\u4e0e\u671f\u6743\u5168\u54c1\u79cd\uff0c\u4e5f\u652f\u6301A\u80a1\u80a1\u7968\u3001\u57fa\u91d1\u3001\u503a\u5238\u4ee5\u53ca\u80a1\u7968\u671f\u6743\u6a21\u62df\u4ea4\u6613\uff0c\u53ef\u4ee5\u66ff\u4ee3Simnow\uff0c",
       "html_url": "https://github.com/openctp/openctp",
       "language": "C",
-      "stars_last_week": 2855,
+      "stars_last_week": 2856,
       "stars_current": 2856,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "mpquant/MyTT": {
       "full_name": "mpquant/MyTT",
       "description": "MyTT\u5c06\u901a\u8fbe\u4fe1,\u540c\u82b1\u987a,\u6587\u534e\u9ea6\u8bed\u8a00\u7b49\u6307\u6807\u516c\u5f0f,\u6700\u7b80\u79fb\u690d\u5230Python\u4e2d,\u6838\u5fc3\u5e93\u5355\u4e2a\u6587\u4ef6\uff0c\u4ec5\u767e\u884c\u4ee3\u7801,\u5341\u51e0\u4e2a\u6838\u5fc3\u51fd\u6570\uff0c\u795e\u5947\u7684\u5b9e\u73b0\u6240\u6709\u5e38\u89c1\u6280\u672f\u6307\u6807\u7b97\u6cd5\uff08\u4e0d\u4f9d\u8d56talib\u5e93\uff09\u7684\u7eafpython\u5b9e\u73b0\u548c\u8f6c\u6362\u901a\u8fbe\u4fe1MACD,RSI,BOLL,ATR,KDJ,CCI,PSY\u7b49\u516c\u5f0f,\u5168\u90e8\u57fa\u4e8epandas\u51fd\u6570\u8ba1\u7b97\u65b9\u6cd5\u5c01\u88c5\uff0c\u7b80\u6d01\u4e14\u9ad8\u6027\u80fd\uff0c\u80fd\u975e\u5e38\u65b9\u4fbf\u7684\u5e94\u7528\u5728\u80a1\u7968\u6307\u6807\u516c\u5f0f,\u80a1\u5e02\u671f\u8d27\u91cf\u5316\u6846\u67b6\u5206\u6790,\u81ea\u52a8\u7a0b\u5e8f\u5316\u4ea4\u6613,\u6570\u5b57\u8d27\u5e01\u91cf",
       "html_url": "https://github.com/mpquant/MyTT",
       "language": "Python",
-      "stars_last_week": 2801,
-      "stars_current": 2804,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 2804,
+      "stars_current": 2805,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "freqtrade/freqtrade": {
       "full_name": "freqtrade/freqtrade",
       "description": "Free, open source crypto trading bot",
       "html_url": "https://github.com/freqtrade/freqtrade",
       "language": "Python",
-      "stars_last_week": 52346,
-      "stars_current": 52384,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 52384,
+      "stars_current": 52396,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "jesse-ai/jesse": {
       "full_name": "jesse-ai/jesse",
       "description": "An advanced crypto trading bot written in Python",
       "html_url": "https://github.com/jesse-ai/jesse",
       "language": "JavaScript",
-      "stars_last_week": 8169,
+      "stars_last_week": 8175,
       "stars_current": 8175,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "PyPortfolio/PyPortfolioOpt": {
       "full_name": "PyPortfolio/PyPortfolioOpt",
       "description": "Financial portfolio optimization in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity",
       "html_url": "https://github.com/PyPortfolio/PyPortfolioOpt",
       "language": "Jupyter Notebook",
-      "stars_last_week": 5857,
-      "stars_current": 5862,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5862,
+      "stars_current": 5864,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "CryptoSignal/Crypto-Signal": {
       "full_name": "CryptoSignal/Crypto-Signal",
       "description": "Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks",
       "html_url": "https://github.com/CryptoSignal/Crypto-Signal",
       "language": "Python",
-      "stars_last_week": 5597,
-      "stars_current": 5598,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5598,
+      "stars_current": 5599,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Superalgos/Superalgos": {
       "full_name": "Superalgos/Superalgos",
       "description": "Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, ",
       "html_url": "https://github.com/Superalgos/Superalgos",
       "language": "JavaScript",
-      "stars_last_week": 5571,
+      "stars_last_week": 5570,
       "stars_current": 5570,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "hudson-and-thames/mlfinlab": {
       "full_name": "hudson-and-thames/mlfinlab",
       "description": "MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools. ",
       "html_url": "https://github.com/hudson-and-thames/mlfinlab",
       "language": "Python",
-      "stars_last_week": 4864,
-      "stars_current": 4866,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 4866,
+      "stars_current": 4867,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "quantopian/alphalens": {
       "full_name": "quantopian/alphalens",
@@ -726,35 +726,35 @@
       "html_url": "https://github.com/quantopian/alphalens",
       "language": "Jupyter Notebook",
       "stars_last_week": 4380,
-      "stars_current": 4380,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 4381,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "nkaz001/hftbacktest": {
       "full_name": "nkaz001/hftbacktest",
       "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and orde",
       "html_url": "https://github.com/nkaz001/hftbacktest",
       "language": "Rust",
-      "stars_last_week": 4275,
-      "stars_current": 4278,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 4278,
+      "stars_current": 4281,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "EliteQuant/EliteQuant": {
       "full_name": "EliteQuant/EliteQuant",
       "description": "A list of online resources for quantitative modeling, trading, portfolio management",
       "html_url": "https://github.com/EliteQuant/EliteQuant",
       "language": "",
-      "stars_last_week": 3994,
-      "stars_current": 4000,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 4000,
+      "stars_current": 4004,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "shashankvemuri/Finance": {
       "full_name": "shashankvemuri/Finance",
       "description": "150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data",
       "html_url": "https://github.com/shashankvemuri/Finance",
       "language": "Python",
-      "stars_last_week": 4067,
+      "stars_last_week": 4068,
       "stars_current": 4068,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "thrasher-corp/gocryptotrader": {
       "full_name": "thrasher-corp/gocryptotrader",
@@ -763,7 +763,7 @@
       "language": "Go",
       "stars_last_week": 3450,
       "stars_current": 3450,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "edtechre/pybroker": {
       "full_name": "edtechre/pybroker",
@@ -771,26 +771,26 @@
       "html_url": "https://github.com/edtechre/pybroker",
       "language": "Python",
       "stars_last_week": 3450,
-      "stars_current": 3450,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 3451,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "tradytics/eiten": {
       "full_name": "tradytics/eiten",
       "description": "Statistical and Algorithmic Investing Strategies for Everyone",
       "html_url": "https://github.com/tradytics/eiten",
       "language": "Python",
-      "stars_last_week": 3252,
+      "stars_last_week": 3253,
       "stars_current": 3253,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "cybergeekgyan/Quant-Developers-Resources": {
       "full_name": "cybergeekgyan/Quant-Developers-Resources",
       "description": "Resources to Prepare for Quant Developers/ Quantitative Researcher/ Quantitative Trader/ Quant Analyst/ Software Engineers in Quant Trading Firms, HFTs and Hedge Funds",
       "html_url": "https://github.com/cybergeekgyan/Quant-Developers-Resources",
       "language": "",
-      "stars_last_week": 3436,
-      "stars_current": 3441,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 3441,
+      "stars_current": 3462,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "letianzj/QuantResearch": {
       "full_name": "letianzj/QuantResearch",
@@ -799,7 +799,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 2972,
       "stars_current": 2972,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "scrtlabs/catalyst": {
       "full_name": "scrtlabs/catalyst",
@@ -807,8 +807,8 @@
       "html_url": "https://github.com/scrtlabs/catalyst",
       "language": "Python",
       "stars_last_week": 2562,
-      "stars_current": 2562,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 2561,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy": {
       "full_name": "rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy",
@@ -817,61 +817,61 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 2305,
       "stars_current": 2305,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "bitcoin/bitcoin": {
       "full_name": "bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
       "html_url": "https://github.com/bitcoin/bitcoin",
       "language": "C++",
-      "stars_last_week": 89760,
-      "stars_current": 89622,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 89622,
+      "stars_current": 89635,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ccxt/ccxt": {
       "full_name": "ccxt/ccxt",
       "description": "A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java ",
       "html_url": "https://github.com/ccxt/ccxt",
       "language": "Python",
-      "stars_last_week": 43304,
-      "stars_current": 43316,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 43316,
+      "stars_current": 43323,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "hummingbot/hummingbot": {
       "full_name": "hummingbot/hummingbot",
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "html_url": "https://github.com/hummingbot/hummingbot",
       "language": "Python",
-      "stars_last_week": 19144,
-      "stars_current": 19147,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 19147,
+      "stars_current": 19150,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "dogecoin/dogecoin": {
       "full_name": "dogecoin/dogecoin",
       "description": "very currency",
       "html_url": "https://github.com/dogecoin/dogecoin",
       "language": "C++",
-      "stars_last_week": 15295,
-      "stars_current": 15225,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 15225,
+      "stars_current": 15222,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "monero-project/monero": {
       "full_name": "monero-project/monero",
       "description": "Monero: the secure, private, untraceable cryptocurrency",
       "html_url": "https://github.com/monero-project/monero",
       "language": "C++",
-      "stars_last_week": 10686,
-      "stars_current": 10687,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 10687,
+      "stars_current": 10690,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "xmrig/xmrig": {
       "full_name": "xmrig/xmrig",
       "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
       "html_url": "https://github.com/xmrig/xmrig",
       "language": "C",
-      "stars_last_week": 10039,
-      "stars_current": 10044,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 10044,
+      "stars_current": 10046,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "lightningnetwork/lnd": {
       "full_name": "lightningnetwork/lnd",
@@ -880,7 +880,7 @@
       "language": "Go",
       "stars_last_week": 8162,
       "stars_current": 8162,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "dvf/blockchain": {
       "full_name": "dvf/blockchain",
@@ -889,16 +889,16 @@
       "language": "C#",
       "stars_last_week": 8046,
       "stars_current": 8046,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "kroma-network/tachyon": {
       "full_name": "kroma-network/tachyon",
       "description": "Modular ZK(Zero Knowledge) backend accelerated by GPU",
       "html_url": "https://github.com/kroma-network/tachyon",
       "language": "C++",
-      "stars_last_week": 7661,
+      "stars_last_week": 7659,
       "stars_current": 7659,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "lbryio/lbry-sdk": {
       "full_name": "lbryio/lbry-sdk",
@@ -907,7 +907,7 @@
       "language": "Python",
       "stars_last_week": 7171,
       "stars_current": 7171,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "sammchardy/python-binance": {
       "full_name": "sammchardy/python-binance",
@@ -915,17 +915,17 @@
       "html_url": "https://github.com/sammchardy/python-binance",
       "language": "Python",
       "stars_last_week": 7189,
-      "stars_current": 7189,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 7193,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "cosmos/cosmos-sdk": {
       "full_name": "cosmos/cosmos-sdk",
       "description": "Framework for building performant, customizable blockchains with native interoperability",
       "html_url": "https://github.com/cosmos/cosmos-sdk",
       "language": "Go",
-      "stars_last_week": 7024,
-      "stars_current": 7026,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 7026,
+      "stars_current": 7027,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "tendermint/tendermint": {
       "full_name": "tendermint/tendermint",
@@ -934,16 +934,16 @@
       "language": "Go",
       "stars_last_week": 5865,
       "stars_current": 5865,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "chrisleekr/binance-trading-bot": {
       "full_name": "chrisleekr/binance-trading-bot",
       "description": "Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis",
       "html_url": "https://github.com/chrisleekr/binance-trading-bot",
       "language": "JavaScript",
-      "stars_last_week": 5530,
+      "stars_last_week": 5531,
       "stars_current": 5531,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "mimblewimble/grin": {
       "full_name": "mimblewimble/grin",
@@ -951,8 +951,8 @@
       "html_url": "https://github.com/mimblewimble/grin",
       "language": "Rust",
       "stars_last_week": 5091,
-      "stars_current": 5091,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 5092,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "sea-protocol/seaprotocol": {
       "full_name": "sea-protocol/seaprotocol",
@@ -961,16 +961,16 @@
       "language": "Move",
       "stars_last_week": 5040,
       "stars_current": 5040,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "freqtrade/freqtrade-strategies": {
       "full_name": "freqtrade/freqtrade-strategies",
       "description": "Free trading strategies for Freqtrade bot",
       "html_url": "https://github.com/freqtrade/freqtrade-strategies",
       "language": "Python",
-      "stars_last_week": 5305,
-      "stars_current": 5307,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5307,
+      "stars_current": 5311,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "RomelTorres/alpha_vantage": {
       "full_name": "RomelTorres/alpha_vantage",
@@ -978,8 +978,8 @@
       "html_url": "https://github.com/RomelTorres/alpha_vantage",
       "language": "Python",
       "stars_last_week": 4860,
-      "stars_current": 4860,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 4861,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "itheima1/BlockChain": {
       "full_name": "itheima1/BlockChain",
@@ -987,8 +987,8 @@
       "html_url": "https://github.com/itheima1/BlockChain",
       "language": "JavaScript",
       "stars_last_week": 4647,
-      "stars_current": 4647,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 4648,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "coinpride/CryptoList": {
       "full_name": "coinpride/CryptoList",
@@ -997,7 +997,7 @@
       "language": "",
       "stars_last_week": 4470,
       "stars_current": 4470,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "cointop-sh/cointop": {
       "full_name": "cointop-sh/cointop",
@@ -1006,7 +1006,7 @@
       "language": "Go",
       "stars_last_week": 4400,
       "stars_current": 4400,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Jeiwan/blockchain_go": {
       "full_name": "Jeiwan/blockchain_go",
@@ -1015,7 +1015,7 @@
       "language": "Go",
       "stars_last_week": 4374,
       "stars_current": 4374,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "michaelgrosner/tribeca": {
       "full_name": "michaelgrosner/tribeca",
@@ -1024,7 +1024,7 @@
       "language": "TypeScript",
       "stars_last_week": 4113,
       "stars_current": 4113,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "askmike/gekko": {
       "full_name": "askmike/gekko",
@@ -1033,34 +1033,34 @@
       "language": "JavaScript",
       "stars_last_week": 10186,
       "stars_current": 10186,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "huseinzol05/Stock-Prediction-Models": {
       "full_name": "huseinzol05/Stock-Prediction-Models",
       "description": "Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations",
       "html_url": "https://github.com/huseinzol05/Stock-Prediction-Models",
       "language": "Jupyter Notebook",
-      "stars_last_week": 9447,
-      "stars_current": 9450,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 9450,
+      "stars_current": 9455,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Drakkar-Software/OctoBot": {
       "full_name": "Drakkar-Software/OctoBot",
       "description": "Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface.",
       "html_url": "https://github.com/Drakkar-Software/OctoBot",
       "language": "Python",
-      "stars_last_week": 6227,
-      "stars_current": 6231,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 6231,
+      "stars_current": 6230,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "charliedream1/ai_quant_trade": {
       "full_name": "charliedream1/ai_quant_trade",
       "description": "\u80a1\u7968AI\u64cd\u76d8\u624b\uff1a\u4ece\u5b66\u4e60\u3001\u6a21\u62df\u5230\u5b9e\u76d8\uff0c\u4e00\u7ad9\u5f0f\u5e73\u53f0\u3002\u5305\u542b\u80a1\u7968\u77e5\u8bc6\u3001\u7b56\u7565\u5b9e\u4f8b\u3001\u5927\u6a21\u578b\u3001\u56e0\u5b50\u6316\u6398\u3001\u4f20\u7edf\u7b56\u7565\u3001\u673a\u5668\u5b66\u4e60\u3001\u6df1\u5ea6\u5b66\u4e60\u3001\u5f3a\u5316\u5b66\u4e60\u3001\u56fe\u7f51\u7edc\u3001\u9ad8\u9891\u4ea4\u6613\u3001C++\u90e8\u7f72\u548c\u805a\u5bbd\u5b9e\u4f8b\u4ee3\u7801\u7b49\uff0c\u53ef\u4ee5\u65b9\u4fbf\u5b66\u4e60\u3001\u6a21\u62df\u53ca\u5b9e\u76d8\u4ea4\u6613",
       "html_url": "https://github.com/charliedream1/ai_quant_trade",
       "language": "Jupyter Notebook",
-      "stars_last_week": 5957,
-      "stars_current": 5965,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5965,
+      "stars_current": 5968,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ctubio/Krypto-trading-bot": {
       "full_name": "ctubio/Krypto-trading-bot",
@@ -1068,35 +1068,35 @@
       "html_url": "https://github.com/ctubio/Krypto-trading-bot",
       "language": "C++",
       "stars_last_week": 3705,
-      "stars_current": 3705,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 3706,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Haehnchen/crypto-trading-bot": {
       "full_name": "Haehnchen/crypto-trading-bot",
       "description": "Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)",
       "html_url": "https://github.com/Haehnchen/crypto-trading-bot",
       "language": "TypeScript",
-      "stars_last_week": 3503,
-      "stars_current": 3505,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 3505,
+      "stars_current": 3504,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "brndnmtthws/thetagang": {
       "full_name": "brndnmtthws/thetagang",
       "description": "ThetaGang is an IBKR bot for collecting money",
       "html_url": "https://github.com/brndnmtthws/thetagang",
       "language": "Python",
-      "stars_last_week": 2670,
-      "stars_current": 2671,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 2671,
+      "stars_current": 2672,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "blankly-finance/blankly": {
       "full_name": "blankly-finance/blankly",
       "description": "\ud83d\ude80 \ud83d\udcb8  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.",
       "html_url": "https://github.com/blankly-finance/blankly",
       "language": "Python",
-      "stars_last_week": 2461,
+      "stars_last_week": 2462,
       "stars_current": 2462,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Open-Trader/opentrader": {
       "full_name": "Open-Trader/opentrader",
@@ -1104,8 +1104,8 @@
       "html_url": "https://github.com/Open-Trader/opentrader",
       "language": "TypeScript",
       "stars_last_week": 2759,
-      "stars_current": 2759,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 2761,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "barter-rs/barter-rs": {
       "full_name": "barter-rs/barter-rs",
@@ -1114,16 +1114,16 @@
       "language": "Rust",
       "stars_last_week": 2202,
       "stars_current": 2202,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "whittlem/pycryptobot": {
       "full_name": "whittlem/pycryptobot",
       "description": "Python Crypto Bot (PyCryptoBot)",
       "html_url": "https://github.com/whittlem/pycryptobot",
       "language": "Python",
-      "stars_last_week": 2054,
+      "stars_last_week": 2053,
       "stars_current": 2053,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Yvictor/TradingGym": {
       "full_name": "Yvictor/TradingGym",
@@ -1131,17 +1131,17 @@
       "html_url": "https://github.com/Yvictor/TradingGym",
       "language": "Python",
       "stars_last_week": 1899,
-      "stars_current": 1899,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 1900,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "marketcalls/openalgo": {
       "full_name": "marketcalls/openalgo",
       "description": "Open Source Algo Trading Platform for Everyone",
       "html_url": "https://github.com/marketcalls/openalgo",
       "language": "Python",
-      "stars_last_week": 2265,
-      "stars_current": 2272,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 2272,
+      "stars_current": 2279,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "CyberPunkMetalHead/Binance-News-Sentiment-Bot": {
       "full_name": "CyberPunkMetalHead/Binance-News-Sentiment-Bot",
@@ -1150,7 +1150,7 @@
       "language": "Python",
       "stars_last_week": 1646,
       "stars_current": 1646,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "c9s/bbgo": {
       "full_name": "c9s/bbgo",
@@ -1159,70 +1159,70 @@
       "language": "Go",
       "stars_last_week": 1662,
       "stars_current": 1662,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "myhhub/stock": {
       "full_name": "myhhub/stock",
       "description": "stock\u80a1\u7968.\u83b7\u53d6\u80a1\u7968\u6570\u636e,\u8ba1\u7b97\u80a1\u7968\u6307\u6807,\u7b79\u7801\u5206\u5e03,\u8bc6\u522b\u80a1\u7968\u5f62\u6001,\u7efc\u5408\u9009\u80a1,\u9009\u80a1\u7b56\u7565,\u80a1\u7968\u9a8c\u8bc1\u56de\u6d4b,\u80a1\u7968\u81ea\u52a8\u4ea4\u6613,\u652f\u6301PC\u53ca\u79fb\u52a8\u8bbe\u5907\u3002",
       "html_url": "https://github.com/myhhub/stock",
       "language": "Python",
-      "stars_last_week": 13361,
-      "stars_current": 13375,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 13375,
+      "stars_current": 13381,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "lballabio/QuantLib": {
       "full_name": "lballabio/QuantLib",
       "description": "The QuantLib C++ library",
       "html_url": "https://github.com/lballabio/QuantLib",
       "language": "C++",
-      "stars_last_week": 7350,
-      "stars_current": 7353,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 7353,
+      "stars_current": 7356,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Fincept-Corporation/FinceptTerminal": {
       "full_name": "Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
       "html_url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "language": "C++",
-      "stars_last_week": 28479,
-      "stars_current": 28549,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 28549,
+      "stars_current": 28588,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "cantaro86/Financial-Models-Numerical-Methods": {
       "full_name": "cantaro86/Financial-Models-Numerical-Methods",
       "description": "Collection of notebooks about quantitative finance, with interactive python code.",
       "html_url": "https://github.com/cantaro86/Financial-Models-Numerical-Methods",
       "language": "Jupyter Notebook",
-      "stars_last_week": 7130,
-      "stars_current": 7138,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 7138,
+      "stars_current": 7153,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "google/tf-quant-finance": {
       "full_name": "google/tf-quant-finance",
       "description": "High-performance TensorFlow library for quantitative finance.",
       "html_url": "https://github.com/google/tf-quant-finance",
       "language": "Python",
-      "stars_last_week": 5432,
-      "stars_current": 5436,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5436,
+      "stars_current": 5437,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "dcajasn/Riskfolio-Lib": {
       "full_name": "dcajasn/Riskfolio-Lib",
       "description": "Portfolio Optimization in Python",
       "html_url": "https://github.com/dcajasn/Riskfolio-Lib",
       "language": "C++",
-      "stars_last_week": 4354,
-      "stars_current": 4361,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 4361,
+      "stars_current": 4365,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "LLMQuant/quant-wiki": {
       "full_name": "LLMQuant/quant-wiki",
       "description": "We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. \u6211\u4eec\u81f4\u529b\u4e8e\u91cf\u5316\u77e5\u8bc6\u7684\u5f00\u6e90\u4e0e\u6c49\u5316\uff0c\u6253\u7834\u56fd\u5185\u5916\u91cf\u5316\u91d1\u878d\u884c\u4e1a\u4fe1\u606f",
       "html_url": "https://github.com/LLMQuant/quant-wiki",
       "language": "",
-      "stars_last_week": 3905,
-      "stars_current": 3910,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 3910,
+      "stars_current": 3918,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "achillesrasquinha/bulbea": {
       "full_name": "achillesrasquinha/bulbea",
@@ -1231,25 +1231,25 @@
       "language": "Python",
       "stars_last_week": 2312,
       "stars_current": 2312,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "smartcontractkit/full-blockchain-solidity-course-js": {
       "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
       "description": "Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript",
       "html_url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js",
       "language": "",
-      "stars_last_week": 14023,
-      "stars_current": 14022,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 14022,
+      "stars_current": 14021,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "OffcierCia/DeFi-Developer-Road-Map": {
       "full_name": "OffcierCia/DeFi-Developer-Road-Map",
       "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
       "html_url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
       "language": "JavaScript",
-      "stars_last_week": 10787,
-      "stars_current": 10786,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 10786,
+      "stars_current": 10785,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "SunWeb3Sec/DeFiHackLabs": {
       "full_name": "SunWeb3Sec/DeFiHackLabs",
@@ -1257,8 +1257,8 @@
       "html_url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
       "language": "Solidity",
       "stars_last_week": 6637,
-      "stars_current": 6637,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 6638,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "rainbow-me/rainbow": {
       "full_name": "rainbow-me/rainbow",
@@ -1266,17 +1266,17 @@
       "html_url": "https://github.com/rainbow-me/rainbow",
       "language": "TypeScript",
       "stars_last_week": 4368,
-      "stars_current": 4368,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 4369,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "OneKeyHQ/app-monorepo": {
       "full_name": "OneKeyHQ/app-monorepo",
       "description": "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.",
       "html_url": "https://github.com/OneKeyHQ/app-monorepo",
       "language": "TypeScript",
-      "stars_last_week": 2393,
+      "stars_last_week": 2392,
       "stars_current": 2392,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "OffcierCia/ultimate-defi-research-base": {
       "full_name": "OffcierCia/ultimate-defi-research-base",
@@ -1285,7 +1285,7 @@
       "language": "",
       "stars_last_week": 2199,
       "stars_current": 2199,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ccyanxyz/uniswap-arbitrage-analysis": {
       "full_name": "ccyanxyz/uniswap-arbitrage-analysis",
@@ -1294,16 +1294,16 @@
       "language": "Python",
       "stars_last_week": 2115,
       "stars_current": 2115,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "SunWeb3Sec/DeFiVulnLabs": {
       "full_name": "SunWeb3Sec/DeFiVulnLabs",
       "description": "To learn common smart contract vulnerabilities using Foundry!",
       "html_url": "https://github.com/SunWeb3Sec/DeFiVulnLabs",
       "language": "Solidity",
-      "stars_last_week": 1956,
-      "stars_current": 1957,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 1957,
+      "stars_current": 1958,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "RabbyHub/Rabby": {
       "full_name": "RabbyHub/Rabby",
@@ -1311,8 +1311,8 @@
       "html_url": "https://github.com/RabbyHub/Rabby",
       "language": "TypeScript",
       "stars_last_week": 1861,
-      "stars_current": 1861,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 1862,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap": {
       "full_name": "OffcierCia/Crypto-OpSec-SelfGuard-RoadMap",
@@ -1321,7 +1321,7 @@
       "language": "",
       "stars_last_week": 1776,
       "stars_current": 1776,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "rango-exchange/rango-sdk": {
       "full_name": "rango-exchange/rango-sdk",
@@ -1329,8 +1329,8 @@
       "html_url": "https://github.com/rango-exchange/rango-sdk",
       "language": "TypeScript",
       "stars_last_week": 1656,
-      "stars_current": 1656,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 1655,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ong/awesome-decentralized-finance": {
       "full_name": "ong/awesome-decentralized-finance",
@@ -1339,7 +1339,7 @@
       "language": "",
       "stars_last_week": 1655,
       "stars_current": 1655,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "DimensionDev/Maskbook": {
       "full_name": "DimensionDev/Maskbook",
@@ -1347,17 +1347,17 @@
       "html_url": "https://github.com/DimensionDev/Maskbook",
       "language": "TypeScript",
       "stars_last_week": 1580,
-      "stars_current": 1580,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 1581,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "frankiefab100/Blockchain-Development-Resources": {
       "full_name": "frankiefab100/Blockchain-Development-Resources",
       "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",
       "html_url": "https://github.com/frankiefab100/Blockchain-Development-Resources",
       "language": "Markdown",
-      "stars_last_week": 1555,
-      "stars_current": 1556,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 1556,
+      "stars_current": 1558,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "JumpCrypto/crypto-reading-list": {
       "full_name": "JumpCrypto/crypto-reading-list",
@@ -1366,7 +1366,7 @@
       "language": "",
       "stars_last_week": 1398,
       "stars_current": 1398,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "horizontalsystems/unstoppable-wallet-android": {
       "full_name": "horizontalsystems/unstoppable-wallet-android",
@@ -1374,8 +1374,8 @@
       "html_url": "https://github.com/horizontalsystems/unstoppable-wallet-android",
       "language": "Kotlin",
       "stars_last_week": 1215,
-      "stars_current": 1215,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 1216,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "rango-exchange/rango-client": {
       "full_name": "rango-exchange/rango-client",
@@ -1384,7 +1384,7 @@
       "language": "TypeScript",
       "stars_last_week": 1127,
       "stars_current": 1127,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "cypherpunk-symposium/dark-forest-toolkit": {
       "full_name": "cypherpunk-symposium/dark-forest-toolkit",
@@ -1393,7 +1393,7 @@
       "language": "Shell",
       "stars_last_week": 1118,
       "stars_current": 1118,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "curvefi/curve-contract": {
       "full_name": "curvefi/curve-contract",
@@ -1402,7 +1402,7 @@
       "language": "Python",
       "stars_last_week": 1112,
       "stars_current": 1112,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "aave/aave-v3-core": {
       "full_name": "aave/aave-v3-core",
@@ -1410,8 +1410,8 @@
       "html_url": "https://github.com/aave/aave-v3-core",
       "language": "TypeScript",
       "stars_last_week": 1116,
-      "stars_current": 1116,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 1115,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "berachain/polaris": {
       "full_name": "berachain/polaris",
@@ -1420,7 +1420,7 @@
       "language": "Go",
       "stars_last_week": 1074,
       "stars_current": 1074,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "WaykiChain/WaykiChain": {
       "full_name": "WaykiChain/WaykiChain",
@@ -1429,7 +1429,7 @@
       "language": "C++",
       "stars_last_week": 1046,
       "stars_current": 1046,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ApeWorX/ape": {
       "full_name": "ApeWorX/ape",
@@ -1438,7 +1438,7 @@
       "language": "Python",
       "stars_last_week": 1050,
       "stars_current": 1050,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "studydefi/money-legos": {
       "full_name": "studydefi/money-legos",
@@ -1447,7 +1447,7 @@
       "language": "Solidity",
       "stars_last_week": 1026,
       "stars_current": 1026,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "uniswap-python/uniswap-python": {
       "full_name": "uniswap-python/uniswap-python",
@@ -1456,7 +1456,7 @@
       "language": "Python",
       "stars_last_week": 1008,
       "stars_current": 1008,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "PaulRBerg/prb-math": {
       "full_name": "PaulRBerg/prb-math",
@@ -1465,7 +1465,7 @@
       "language": "Solidity",
       "stars_last_week": 1006,
       "stars_current": 1006,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "osmosis-labs/osmosis": {
       "full_name": "osmosis-labs/osmosis",
@@ -1474,7 +1474,7 @@
       "language": "Go",
       "stars_last_week": 964,
       "stars_current": 964,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "bekatom/awesome-ethereum": {
       "full_name": "bekatom/awesome-ethereum",
@@ -1483,7 +1483,7 @@
       "language": "",
       "stars_last_week": 911,
       "stars_current": 911,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "superfluid-org/protocol-monorepo": {
       "full_name": "superfluid-org/protocol-monorepo",
@@ -1492,61 +1492,61 @@
       "language": "TypeScript",
       "stars_last_week": 906,
       "stars_current": 906,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Open-Dev-Society/OpenStock": {
       "full_name": "Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free",
       "html_url": "https://github.com/Open-Dev-Society/OpenStock",
       "language": "TypeScript",
-      "stars_last_week": 13833,
-      "stars_current": 13840,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 13840,
+      "stars_current": 13846,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "achannarasappa/ticker": {
       "full_name": "achannarasappa/ticker",
       "description": "Track stocks, crypto, and derivatives prices and positions in real time from your terminal",
       "html_url": "https://github.com/achannarasappa/ticker",
       "language": "Go",
-      "stars_last_week": 6146,
-      "stars_current": 6149,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 6149,
+      "stars_current": 6151,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "exchange-core/exchange-core": {
       "full_name": "exchange-core/exchange-core",
       "description": "Ultra-fast matching engine written in Java based on LMAX Disruptor, Eclipse Collections, Real Logic Agrona, OpenHFT, LZ4 Java, and Adaptive Radix Trees.",
       "html_url": "https://github.com/exchange-core/exchange-core",
       "language": "Java",
-      "stars_last_week": 2573,
+      "stars_last_week": 2575,
       "stars_current": 2575,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "shirosaidev/stocksight": {
       "full_name": "shirosaidev/stocksight",
       "description": "Stock market analyzer and predictor using Elasticsearch, Twitter, News headlines and Python natural language processing and sentiment analysis",
       "html_url": "https://github.com/shirosaidev/stocksight",
       "language": "Python",
-      "stars_last_week": 2514,
+      "stars_last_week": 2516,
       "stars_current": 2516,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "anandanand84/technicalindicators": {
       "full_name": "anandanand84/technicalindicators",
       "description": "A javascript technical indicators written in typescript with pattern recognition right in the browser",
       "html_url": "https://github.com/anandanand84/technicalindicators",
       "language": "JavaScript",
-      "stars_last_week": 2448,
+      "stars_last_week": 2449,
       "stars_current": 2449,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "mr-karan/awesome-investing": {
       "full_name": "mr-karan/awesome-investing",
       "description": " \ud83d\udcb8\ud83d\udcb8 Curated list of investment & finance related resources ",
       "html_url": "https://github.com/mr-karan/awesome-investing",
       "language": "",
-      "stars_last_week": 2437,
+      "stars_last_week": 2438,
       "stars_current": 2438,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "mop-tracker/mop": {
       "full_name": "mop-tracker/mop",
@@ -1555,7 +1555,7 @@
       "language": "Go",
       "stars_last_week": 2196,
       "stars_current": 2196,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "jmfernandes/robin_stocks": {
       "full_name": "jmfernandes/robin_stocks",
@@ -1564,16 +1564,16 @@
       "language": "Python",
       "stars_last_week": 2104,
       "stars_current": 2104,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "atilaahmettaner/tradingview-mcp": {
       "full_name": "atilaahmettaner/tradingview-mcp",
       "description": "TradingView MCP server \u2014 real-time market data, technical analysis, screeners & backtesting for Claude, ChatGPT, Cursor & any MCP client. Stocks, crypto, forex & futures across global exchanges. Hoste",
       "html_url": "https://github.com/atilaahmettaner/tradingview-mcp",
       "language": "Python",
-      "stars_last_week": 3545,
-      "stars_current": 3557,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 3557,
+      "stars_current": 3565,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "LastAncientOne/Stock_Analysis_For_Quant": {
       "full_name": "LastAncientOne/Stock_Analysis_For_Quant",
@@ -1582,7 +1582,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 2038,
       "stars_current": 2038,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "alpacahq/alpaca-trade-api-python": {
       "full_name": "alpacahq/alpaca-trade-api-python",
@@ -1591,7 +1591,7 @@
       "language": "Python",
       "stars_last_week": 1881,
       "stars_current": 1881,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "sanko/Robinhood": {
       "full_name": "sanko/Robinhood",
@@ -1600,16 +1600,16 @@
       "language": "",
       "stars_last_week": 1772,
       "stars_current": 1772,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "LastAncientOne/Deep_Learning_Machine_Learning_Stock": {
       "full_name": "LastAncientOne/Deep_Learning_Machine_Learning_Stock",
       "description": "Deep Learning and Machine Learning stocks represent promising opportunities for both long-term and short-term investors and traders.",
       "html_url": "https://github.com/LastAncientOne/Deep_Learning_Machine_Learning_Stock",
       "language": "Jupyter Notebook",
-      "stars_last_week": 1773,
+      "stars_last_week": 1774,
       "stars_current": 1774,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "austin-starks/NextTrade": {
       "full_name": "austin-starks/NextTrade",
@@ -1618,7 +1618,7 @@
       "language": "TypeScript",
       "stars_last_week": 1774,
       "stars_current": 1774,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "thinh-vu/vnstock": {
       "full_name": "thinh-vu/vnstock",
@@ -1626,8 +1626,8 @@
       "html_url": "https://github.com/thinh-vu/vnstock",
       "language": "Python",
       "stars_last_week": 1351,
-      "stars_current": 1351,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 1352,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "DaveSkender/Stock.Indicators": {
       "full_name": "DaveSkender/Stock.Indicators",
@@ -1636,25 +1636,25 @@
       "language": "C#",
       "stars_last_week": 1224,
       "stars_current": 1224,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "santoshlite/EigenLedger": {
       "full_name": "santoshlite/EigenLedger",
       "description": "An Open Source Portfolio Backtesting Engine for Everyone | \u9762\u5411\u6240\u6709\u4eba\u7684\u5f00\u6e90\u6295\u8d44\u7ec4\u5408\u56de\u6d4b\u5f15\u64ce",
       "html_url": "https://github.com/santoshlite/EigenLedger",
       "language": "Python",
-      "stars_last_week": 1072,
-      "stars_current": 1073,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 1073,
+      "stars_current": 1072,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "nautechsystems/nautilus_trader": {
       "full_name": "nautechsystems/nautilus_trader",
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "html_url": "https://github.com/nautechsystems/nautilus_trader",
       "language": "Rust",
-      "stars_last_week": 24718,
-      "stars_current": 24736,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 24736,
+      "stars_current": 24768,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "jasonstrimpel/volatility-trading": {
       "full_name": "jasonstrimpel/volatility-trading",
@@ -1663,7 +1663,7 @@
       "language": "Python",
       "stars_last_week": 1934,
       "stars_current": 1934,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "goldspanlabs/optopsy": {
       "full_name": "goldspanlabs/optopsy",
@@ -1671,17 +1671,17 @@
       "html_url": "https://github.com/goldspanlabs/optopsy",
       "language": "Python",
       "stars_last_week": 1417,
-      "stars_current": 1417,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 1418,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "PyPatel/Options-Trading-Strategies-in-Python": {
       "full_name": "PyPatel/Options-Trading-Strategies-in-Python",
       "description": "Developing Options Trading Strategies using Technical Indicators and Quantitative Methods",
       "html_url": "https://github.com/PyPatel/Options-Trading-Strategies-in-Python",
       "language": "Python",
-      "stars_last_week": 1031,
-      "stars_current": 1033,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 1033,
+      "stars_current": 1037,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "guanquann/Stocksera": {
       "full_name": "guanquann/Stocksera",
@@ -1689,26 +1689,26 @@
       "html_url": "https://github.com/guanquann/Stocksera",
       "language": "JavaScript",
       "stars_last_week": 774,
-      "stars_current": 774,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 775,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "rburkholder/trade-frame": {
       "full_name": "rburkholder/trade-frame",
       "description": "C++ 17 based library (with sample applications) for testing equities, futures, currencies, etfs & options based automated trading ideas using DTN IQFeed real time data feed and Interactive Brokers (IB",
       "html_url": "https://github.com/rburkholder/trade-frame",
       "language": "C++",
-      "stars_last_week": 668,
+      "stars_last_week": 669,
       "stars_current": 669,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "rgaveiga/optionlab": {
       "full_name": "rgaveiga/optionlab",
       "description": "A Python library for evaluating option trading strategies.",
       "html_url": "https://github.com/rgaveiga/optionlab",
       "language": "Python",
-      "stars_last_week": 536,
+      "stars_last_week": 537,
       "stars_current": 537,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "mcf-long-short/ibkr-options-volatility-trading": {
       "full_name": "mcf-long-short/ibkr-options-volatility-trading",
@@ -1717,7 +1717,7 @@
       "language": "Python",
       "stars_last_week": 362,
       "stars_current": 362,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Open-Lemma/options-implied-probability": {
       "full_name": "Open-Lemma/options-implied-probability",
@@ -1726,7 +1726,7 @@
       "language": "Python",
       "stars_last_week": 352,
       "stars_current": 352,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "stoqey/ib": {
       "full_name": "stoqey/ib",
@@ -1735,7 +1735,7 @@
       "language": "TypeScript",
       "stars_last_week": 328,
       "stars_current": 328,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "rahuljoshi44/GraphVega": {
       "full_name": "rahuljoshi44/GraphVega",
@@ -1744,7 +1744,7 @@
       "language": "JavaScript",
       "stars_last_week": 295,
       "stars_current": 295,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "philipodonnell/paperbroker": {
       "full_name": "philipodonnell/paperbroker",
@@ -1753,7 +1753,7 @@
       "language": "Python",
       "stars_last_week": 280,
       "stars_current": 280,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "namuan/trading-utils": {
       "full_name": "namuan/trading-utils",
@@ -1762,7 +1762,7 @@
       "language": "Python",
       "stars_last_week": 306,
       "stars_current": 306,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "devfinwiz/Fin-Maestro-Web": {
       "full_name": "devfinwiz/Fin-Maestro-Web",
@@ -1771,7 +1771,7 @@
       "language": "Python",
       "stars_last_week": 262,
       "stars_current": 262,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "AnthonyBradford/optionmatrix": {
       "full_name": "AnthonyBradford/optionmatrix",
@@ -1780,7 +1780,7 @@
       "language": "C++",
       "stars_last_week": 247,
       "stars_current": 247,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "randomwalkhan/Short-Term-Reversal-Strategy": {
       "full_name": "randomwalkhan/Short-Term-Reversal-Strategy",
@@ -1789,7 +1789,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 256,
       "stars_current": 256,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "srikar-kodakandla/fully-automated-nifty-options-trading": {
       "full_name": "srikar-kodakandla/fully-automated-nifty-options-trading",
@@ -1798,7 +1798,7 @@
       "language": "Python",
       "stars_last_week": 239,
       "stars_current": 239,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "tastyware/tastytrade": {
       "full_name": "tastyware/tastytrade",
@@ -1807,7 +1807,7 @@
       "language": "Python",
       "stars_last_week": 247,
       "stars_current": 247,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "joaquinbejar/OptionStratLib": {
       "full_name": "joaquinbejar/OptionStratLib",
@@ -1816,7 +1816,7 @@
       "language": "Rust",
       "stars_last_week": 231,
       "stars_current": 231,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "massive-com/client-go": {
       "full_name": "massive-com/client-go",
@@ -1825,7 +1825,7 @@
       "language": "Go",
       "stars_last_week": 195,
       "stars_current": 195,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "evdubs/renegade-way": {
       "full_name": "evdubs/renegade-way",
@@ -1834,7 +1834,7 @@
       "language": "Racket",
       "stars_last_week": 146,
       "stars_current": 146,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "SC4RECOIN/FlowAlgo-Options-Trader": {
       "full_name": "SC4RECOIN/FlowAlgo-Options-Trader",
@@ -1843,7 +1843,7 @@
       "language": "Python",
       "stars_last_week": 148,
       "stars_current": 148,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "yzoz/python-option-calculator": {
       "full_name": "yzoz/python-option-calculator",
@@ -1852,7 +1852,7 @@
       "language": "Python",
       "stars_last_week": 136,
       "stars_current": 136,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Della38840/Robinhood": {
       "full_name": "Della38840/Robinhood",
@@ -1868,9 +1868,9 @@
       "description": "Claude powered advisor system for option traders",
       "html_url": "https://github.com/staskh/trading_skills",
       "language": "Python",
-      "stars_last_week": 289,
+      "stars_last_week": 290,
       "stars_current": 290,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "TechfaneTechnologies/QtsApp": {
       "full_name": "TechfaneTechnologies/QtsApp",
@@ -1879,7 +1879,7 @@
       "language": "Python",
       "stars_last_week": 102,
       "stars_current": 102,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "nataliaburrey/Options_Trading_ML": {
       "full_name": "nataliaburrey/Options_Trading_ML",
@@ -1888,7 +1888,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 110,
       "stars_current": 110,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "xiao81/AllYouNeedIsWheel": {
       "full_name": "xiao81/AllYouNeedIsWheel",
@@ -1897,7 +1897,7 @@
       "language": "JavaScript",
       "stars_last_week": 112,
       "stars_current": 112,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "fmilthaler/FinQuant": {
       "full_name": "fmilthaler/FinQuant",
@@ -1905,17 +1905,17 @@
       "html_url": "https://github.com/fmilthaler/FinQuant",
       "language": "Python",
       "stars_last_week": 1791,
-      "stars_current": 1791,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 1792,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "whchien/ai-trader": {
       "full_name": "whchien/ai-trader",
       "description": "Backtrader-powered backtesting framework for algorithmic trading, featuring 20+ strategies, multi-market support, CLI tools, and an integrated MCP server for professional traders.",
       "html_url": "https://github.com/whchien/ai-trader",
       "language": "Python",
-      "stars_last_week": 883,
-      "stars_current": 884,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 884,
+      "stars_current": 885,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "51bitquant/ai-hedge-fund-crypto": {
       "full_name": "51bitquant/ai-hedge-fund-crypto",
@@ -1924,7 +1924,7 @@
       "language": "Python",
       "stars_last_week": 604,
       "stars_current": 604,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "wassname/rl-portfolio-management": {
       "full_name": "wassname/rl-portfolio-management",
@@ -1933,7 +1933,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 562,
       "stars_current": 562,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "fbertram/TuringTrader": {
       "full_name": "fbertram/TuringTrader",
@@ -1942,7 +1942,7 @@
       "language": "C#",
       "stars_last_week": 523,
       "stars_current": 523,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "VivekPa/OptimalPortfolio": {
       "full_name": "VivekPa/OptimalPortfolio",
@@ -1951,7 +1951,7 @@
       "language": "Python",
       "stars_last_week": 372,
       "stars_current": 372,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "yuriak/RLQuant": {
       "full_name": "yuriak/RLQuant",
@@ -1960,16 +1960,16 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 356,
       "stars_current": 356,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "spacious-team/investbook": {
       "full_name": "spacious-team/investbook",
       "description": "\u041e\u0446\u0435\u043d\u043a\u0430 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0439 \u0438 \u0442\u0440\u0435\u0439\u0434\u0438\u043d\u0433\u0430 \u0441 \u0443\u0447\u0435\u0442\u043e\u043c \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0439, \u043d\u0430\u043b\u043e\u0433\u043e\u0432 (\u0443\u0434\u0435\u0440\u0436\u0430\u043d\u043d\u044b\u0445 \u0438 \u043e\u0436\u0438\u0434\u0430\u044e\u0449\u0438\u0445\u0441\u044f), \u0434\u0438\u0432\u0438\u0434\u0435\u043d\u0434\u043e\u0432 \u0438 \u043a\u0443\u043f\u043e\u043d\u043e\u0432.",
       "html_url": "https://github.com/spacious-team/investbook",
       "language": "Java",
-      "stars_last_week": 323,
+      "stars_last_week": 324,
       "stars_current": 324,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "mckelvin/beancount-boilerplate-cn": {
       "full_name": "mckelvin/beancount-boilerplate-cn",
@@ -1978,7 +1978,7 @@
       "language": "Python",
       "stars_last_week": 223,
       "stars_current": 223,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "hudson-and-thames/portfoliolab": {
       "full_name": "hudson-and-thames/portfoliolab",
@@ -1987,7 +1987,7 @@
       "language": "",
       "stars_last_week": 182,
       "stars_current": 182,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "vermouth1992/drl-portfolio-management": {
       "full_name": "vermouth1992/drl-portfolio-management",
@@ -1996,7 +1996,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 156,
       "stars_current": 156,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "brookswoolf/Trading-Algorithms": {
       "full_name": "brookswoolf/Trading-Algorithms",
@@ -2005,7 +2005,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 137,
       "stars_current": 137,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "gabrielepompa88/pyBlackScholesAnalytics": {
       "full_name": "gabrielepompa88/pyBlackScholesAnalytics",
@@ -2014,7 +2014,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 126,
       "stars_current": 126,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "MarcelBeining/EazeBot": {
       "full_name": "MarcelBeining/EazeBot",
@@ -2023,25 +2023,25 @@
       "language": "Python",
       "stars_last_week": 125,
       "stars_current": 125,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "mementum/backtrader": {
       "full_name": "mementum/backtrader",
       "description": "Python Backtesting library for trading strategies",
       "html_url": "https://github.com/mementum/backtrader",
       "language": "Python",
-      "stars_last_week": 22455,
-      "stars_current": 22467,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 22467,
+      "stars_current": 22474,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Mathieu2301/TradingView-API": {
       "full_name": "Mathieu2301/TradingView-API",
       "description": "\ud83d\udcc8 Get real-time stocks from TradingView",
       "html_url": "https://github.com/Mathieu2301/TradingView-API",
       "language": "JavaScript",
-      "stars_last_week": 4164,
-      "stars_current": 4168,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 4168,
+      "stars_current": 4167,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "enzoampil/fastquant": {
       "full_name": "enzoampil/fastquant",
@@ -2050,7 +2050,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 1750,
       "stars_current": 1750,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ScottfreeLLC/AlphaPy": {
       "full_name": "ScottfreeLLC/AlphaPy",
@@ -2059,25 +2059,25 @@
       "language": "Python",
       "stars_last_week": 1736,
       "stars_current": 1736,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Lumiwealth/lumibot": {
       "full_name": "Lumiwealth/lumibot",
       "description": "Backtestable AI trading agents and Python algorithmic trading strategies for stocks, options, crypto, futures, forex, SEC filings, FRED macro data, and real brokers.",
       "html_url": "https://github.com/Lumiwealth/lumibot",
       "language": "Python",
-      "stars_last_week": 1812,
-      "stars_current": 1815,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 1815,
+      "stars_current": 1821,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "AlgoTraders/stock-analysis-engine": {
       "full_name": "AlgoTraders/stock-analysis-engine",
       "description": "Backtest 1000s of minute-by-minute trading algorithms for training AI with automated pricing data from: IEX, Tradier and FinViz. Datasets and trading performance automatically published to S3 for buil",
       "html_url": "https://github.com/AlgoTraders/stock-analysis-engine",
       "language": "Jupyter Notebook",
-      "stars_last_week": 1231,
-      "stars_current": 1230,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 1230,
+      "stars_current": 1229,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "TreborNamor/TradingView-Machine-Learning-GUI": {
       "full_name": "TreborNamor/TradingView-Machine-Learning-GUI",
@@ -2086,7 +2086,7 @@
       "language": "Python",
       "stars_last_week": 967,
       "stars_current": 967,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "quarkfin/qf-lib": {
       "full_name": "quarkfin/qf-lib",
@@ -2095,7 +2095,7 @@
       "language": "Python",
       "stars_last_week": 950,
       "stars_current": 950,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "idanya/algo-trader": {
       "full_name": "idanya/algo-trader",
@@ -2104,34 +2104,34 @@
       "language": "Python",
       "stars_last_week": 866,
       "stars_current": 866,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "coding-kitties/investing-algorithm-framework": {
       "full_name": "coding-kitties/investing-algorithm-framework",
       "description": "Framework for quantitative trading. Complete framework for development, backtesting, and deploying automated trading algorithms and trading bots.",
       "html_url": "https://github.com/coding-kitties/investing-algorithm-framework",
       "language": "Python",
-      "stars_last_week": 1404,
+      "stars_last_week": 1409,
       "stars_current": 1409,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "gbeced/basana": {
       "full_name": "gbeced/basana",
       "description": "A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.",
       "html_url": "https://github.com/gbeced/basana",
       "language": "Python",
-      "stars_last_week": 852,
+      "stars_last_week": 853,
       "stars_current": 853,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Heerozh/spectre": {
       "full_name": "Heerozh/spectre",
       "description": "GPU-accelerated Factors analysis library and Backtester",
       "html_url": "https://github.com/Heerozh/spectre",
       "language": "Python",
-      "stars_last_week": 811,
+      "stars_last_week": 813,
       "stars_current": 813,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "constverum/Quantdom": {
       "full_name": "constverum/Quantdom",
@@ -2140,25 +2140,25 @@
       "language": "Python",
       "stars_last_week": 771,
       "stars_current": 771,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Leo4815162342/dukascopy-node": {
       "full_name": "Leo4815162342/dukascopy-node",
       "description": "\u2728 Download historical and real-time price tick data for Crypto, Stocks, ETFs, CFDs, Forex via CLI and Node.js \u2728",
       "html_url": "https://github.com/Leo4815162342/dukascopy-node",
       "language": "TypeScript",
-      "stars_last_week": 818,
-      "stars_current": 819,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 819,
+      "stars_current": 820,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ivopetiz/algotrading": {
       "full_name": "ivopetiz/algotrading",
       "description": "Algorithmic trading framework for cryptocurrencies.",
       "html_url": "https://github.com/ivopetiz/algotrading",
       "language": "Python",
-      "stars_last_week": 1630,
-      "stars_current": 1632,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 1632,
+      "stars_current": 1634,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Crypto-toolbox/HFT-Orderbook": {
       "full_name": "Crypto-toolbox/HFT-Orderbook",
@@ -2167,7 +2167,7 @@
       "language": "C",
       "stars_last_week": 1379,
       "stars_current": 1379,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "51bitquant/bitquant": {
       "full_name": "51bitquant/bitquant",
@@ -2175,8 +2175,8 @@
       "html_url": "https://github.com/51bitquant/bitquant",
       "language": "Python",
       "stars_last_week": 1152,
-      "stars_current": 1152,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 1151,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "visualHFT/VisualHFT": {
       "full_name": "visualHFT/VisualHFT",
@@ -2185,7 +2185,7 @@
       "language": "C#",
       "stars_last_week": 1157,
       "stars_current": 1157,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "AlexWan/OsEngine": {
       "full_name": "AlexWan/OsEngine",
@@ -2194,34 +2194,34 @@
       "language": "C#",
       "stars_last_week": 1002,
       "stars_current": 1002,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ttggs/hummingbot_chinese": {
       "full_name": "ttggs/hummingbot_chinese",
       "description": "hummingbot\u4e2d\u6587\u8d44\u6e90",
       "html_url": "https://github.com/ttggs/hummingbot_chinese",
       "language": "",
-      "stars_last_week": 793,
+      "stars_last_week": 792,
       "stars_current": 792,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "0b01/tectonicdb": {
       "full_name": "0b01/tectonicdb",
       "description": "Database for L2 orderbook",
       "html_url": "https://github.com/0b01/tectonicdb",
       "language": "Rust",
-      "stars_last_week": 750,
+      "stars_last_week": 751,
       "stars_current": 751,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "outsmartchad/outsmart-cli": {
       "full_name": "outsmartchad/outsmart-cli",
       "description": "Agent-first CLI for trading on Solana \u2014 18 DEX adapters, 12 SWQoS TX landing processors. Buy, sell, lp, snipe, create pool, launch coin, and stream real-time onchain events from your terminal.",
       "html_url": "https://github.com/outsmartchad/outsmart-cli",
       "language": "TypeScript",
-      "stars_last_week": 579,
+      "stars_last_week": 578,
       "stars_current": 578,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "bradleyboyuyang/ML-HFT": {
       "full_name": "bradleyboyuyang/ML-HFT",
@@ -2230,16 +2230,16 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 597,
       "stars_current": 597,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "billpwchan/futu_algo": {
       "full_name": "billpwchan/futu_algo",
       "description": "Futu Algorithmic Trading Solution (Python) \u57fa\u65bc\u5bcc\u9014OpenAPI\u6240\u958b\u767c\u91cf\u5316\u4ea4\u6613\u7a0b\u5e8f",
       "html_url": "https://github.com/billpwchan/futu_algo",
       "language": "Python",
-      "stars_last_week": 587,
+      "stars_last_week": 586,
       "stars_current": 586,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Elenchev/order-book-heatmap": {
       "full_name": "Elenchev/order-book-heatmap",
@@ -2248,34 +2248,34 @@
       "language": "JavaScript",
       "stars_last_week": 510,
       "stars_current": 510,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "joaquinbejar/OrderBook-rs": {
       "full_name": "joaquinbejar/OrderBook-rs",
       "description": "A high-performance, thread-safe limit order book implementation written in Rust. This project provides a comprehensive order matching engine designed for low-latency trading systems, with a focus on c",
       "html_url": "https://github.com/joaquinbejar/OrderBook-rs",
       "language": "Rust",
-      "stars_last_week": 491,
-      "stars_current": 492,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 492,
+      "stars_current": 493,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "javifalces/HFTFramework": {
       "full_name": "javifalces/HFTFramework",
       "description": "HFTFramework utilized  for research on \" A reinforcement learning approach to improve the performance of the Avellaneda-Stoikov market-making algorithm \" ",
       "html_url": "https://github.com/javifalces/HFTFramework",
       "language": "Jupyter Notebook",
-      "stars_last_week": 302,
+      "stars_last_week": 303,
       "stars_current": 303,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "bradleyboyuyang/Statistical-Arbitrage": {
       "full_name": "bradleyboyuyang/Statistical-Arbitrage",
       "description": "High-frequency statistical arbitrage",
       "html_url": "https://github.com/bradleyboyuyang/Statistical-Arbitrage",
       "language": "Jupyter Notebook",
-      "stars_last_week": 270,
+      "stars_last_week": 271,
       "stars_current": 271,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "featherenvy/botvana": {
       "full_name": "featherenvy/botvana",
@@ -2284,7 +2284,7 @@
       "language": "Rust",
       "stars_last_week": 250,
       "stars_current": 250,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "hzjken/HFT-price-prediction": {
       "full_name": "hzjken/HFT-price-prediction",
@@ -2293,7 +2293,7 @@
       "language": "Python",
       "stars_last_week": 188,
       "stars_current": 188,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "muditbhargava66/High-Frequency-Trading-FPGA-System": {
       "full_name": "muditbhargava66/High-Frequency-Trading-FPGA-System",
@@ -2302,7 +2302,7 @@
       "language": "Verilog",
       "stars_last_week": 186,
       "stars_current": 186,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "zbarge/stocklook": {
       "full_name": "zbarge/stocklook",
@@ -2311,16 +2311,16 @@
       "language": "Python",
       "stars_last_week": 173,
       "stars_current": 173,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "brprojects/Limit-Order-Book": {
       "full_name": "brprojects/Limit-Order-Book",
       "description": "Low latency Limit Order Book and Matching Engine created in C++, able to handle over 1.4 million transactions per second.",
       "html_url": "https://github.com/brprojects/Limit-Order-Book",
       "language": "C++",
-      "stars_last_week": 190,
+      "stars_last_week": 189,
       "stars_current": 189,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ChuaCheowHuan/gym-continuousDoubleAuction": {
       "full_name": "ChuaCheowHuan/gym-continuousDoubleAuction",
@@ -2329,7 +2329,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 154,
       "stars_current": 154,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Jeonghwan-Cheon/lob-deep-learning": {
       "full_name": "Jeonghwan-Cheon/lob-deep-learning",
@@ -2338,7 +2338,7 @@
       "language": "Python",
       "stars_last_week": 158,
       "stars_current": 158,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Manudecara/Algo-Trading": {
       "full_name": "Manudecara/Algo-Trading",
@@ -2347,16 +2347,16 @@
       "language": "R",
       "stars_last_week": 149,
       "stars_current": 149,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "nelso0/barbotine-scalping-bot": {
       "full_name": "nelso0/barbotine-scalping-bot",
       "description": "Powered by Bitfinex's orderbooks data, Barbotine Scalping is a medium-frequency trading bot capable of taking successful trades without worrying about trends or market direction.",
       "html_url": "https://github.com/nelso0/barbotine-scalping-bot",
       "language": "",
-      "stars_last_week": 127,
+      "stars_last_week": 128,
       "stars_current": 128,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "jialuechen/trademind": {
       "full_name": "jialuechen/trademind",
@@ -2365,7 +2365,7 @@
       "language": "C++",
       "stars_last_week": 129,
       "stars_current": 129,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "HujiaYuYoyo/448Project": {
       "full_name": "HujiaYuYoyo/448Project",
@@ -2374,7 +2374,7 @@
       "language": "Jupyter Notebook",
       "stars_last_week": 110,
       "stars_current": 110,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "ivopetiz/crypto-database": {
       "full_name": "ivopetiz/crypto-database",
@@ -2383,16 +2383,16 @@
       "language": "Go",
       "stars_last_week": 107,
       "stars_current": 107,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "asavinov/intelligent-trading-bot": {
       "full_name": "asavinov/intelligent-trading-bot",
       "description": "Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering",
       "html_url": "https://github.com/asavinov/intelligent-trading-bot",
       "language": "Python",
-      "stars_last_week": 1788,
-      "stars_current": 1793,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 1793,
+      "stars_current": 1810,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "gazbert/bxbot": {
       "full_name": "gazbert/bxbot",
@@ -2401,7 +2401,7 @@
       "language": "Java",
       "stars_last_week": 863,
       "stars_current": 863,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "cassandre-tech/cassandre-trading-bot": {
       "full_name": "cassandre-tech/cassandre-trading-bot",
@@ -2410,7 +2410,7 @@
       "language": "Java",
       "stars_last_week": 659,
       "stars_current": 659,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "fremantle-industries/tai": {
       "full_name": "fremantle-industries/tai",
@@ -2419,25 +2419,25 @@
       "language": "Elixir",
       "stars_last_week": 499,
       "stars_current": 499,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "LuxAlgo/PineTS": {
       "full_name": "LuxAlgo/PineTS",
       "description": "Run Pine Script\u00ae anywhere. PineTS is an open-source transpiler and runtime that brings Pine Script\u00ae logic to Node.js and the browser with 1:1 syntax compatibility. Reliably write, port, and run indica",
       "html_url": "https://github.com/LuxAlgo/PineTS",
       "language": "TypeScript",
-      "stars_last_week": 430,
-      "stars_current": 432,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 432,
+      "stars_current": 433,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "okx/agent-trade-kit": {
       "full_name": "okx/agent-trade-kit",
       "description": "OKX trading MCP server \u2014 connect AI agents to spot, swap, futures, options & grid bots via the Model Context Protocol.  ",
       "html_url": "https://github.com/okx/agent-trade-kit",
       "language": "TypeScript",
-      "stars_last_week": 366,
-      "stars_current": 367,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 367,
+      "stars_current": 368,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "SpiralDevelopment/Awesome-Crypto-Trading": {
       "full_name": "SpiralDevelopment/Awesome-Crypto-Trading",
@@ -2446,7 +2446,7 @@
       "language": "",
       "stars_last_week": 193,
       "stars_current": 193,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Omar-Karimov/ChartScanAI": {
       "full_name": "Omar-Karimov/ChartScanAI",
@@ -2455,7 +2455,7 @@
       "language": "Python",
       "stars_last_week": 164,
       "stars_current": 164,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "diogomatoschaves/MyCryptoBot": {
       "full_name": "diogomatoschaves/MyCryptoBot",
@@ -2464,7 +2464,7 @@
       "language": "Python",
       "stars_last_week": 140,
       "stars_current": 140,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "huweihua123/stock-mcp": {
       "full_name": "huweihua123/stock-mcp",
@@ -2473,16 +2473,16 @@
       "language": "Python",
       "stars_last_week": 164,
       "stars_current": 164,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "jordantete/grid_trading_bot": {
       "full_name": "jordantete/grid_trading_bot",
       "description": "\ud83e\udd16 Open-source cryptocurrency trading bot designed to perform grid trading strategies using historical data for backtesting",
       "html_url": "https://github.com/jordantete/grid_trading_bot",
       "language": "Python",
-      "stars_last_week": 140,
+      "stars_last_week": 142,
       "stars_current": 142,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "sanzol-tech/ai-trader": {
       "full_name": "sanzol-tech/ai-trader",
@@ -2491,7 +2491,7 @@
       "language": "Java",
       "stars_last_week": 126,
       "stars_current": 126,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "CodonoTeam/cryptocurrency-exchange-script": {
       "full_name": "CodonoTeam/cryptocurrency-exchange-script",
@@ -2500,7 +2500,7 @@
       "language": "Shell",
       "stars_last_week": 124,
       "stars_current": 124,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "fremantle-industries/workbench": {
       "full_name": "fremantle-industries/workbench",
@@ -2509,7 +2509,7 @@
       "language": "Elixir",
       "stars_last_week": 121,
       "stars_current": 121,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "shrimpy-dev/shrimpy-python": {
       "full_name": "shrimpy-dev/shrimpy-python",
@@ -2518,7 +2518,7 @@
       "language": "Python",
       "stars_last_week": 121,
       "stars_current": 121,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "aitradingbotspro/cryto-trading-ai-assistant": {
       "full_name": "aitradingbotspro/cryto-trading-ai-assistant",
@@ -2527,7 +2527,7 @@
       "language": "Python",
       "stars_last_week": 109,
       "stars_current": 109,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "jaimindp/Twitter_Activated_Crypto_Trading_Bot": {
       "full_name": "jaimindp/Twitter_Activated_Crypto_Trading_Bot",
@@ -2536,7 +2536,7 @@
       "language": "Python",
       "stars_last_week": 115,
       "stars_current": 115,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "SpiralDevelopment/RSI-divergence-detector": {
       "full_name": "SpiralDevelopment/RSI-divergence-detector",
@@ -2545,16 +2545,16 @@
       "language": "Python",
       "stars_last_week": 115,
       "stars_current": 115,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "brokermr810/QuantDinger": {
       "full_name": "brokermr810/QuantDinger",
       "description": "AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading",
       "html_url": "https://github.com/brokermr810/QuantDinger",
       "language": "Python",
-      "stars_last_week": 9655,
-      "stars_current": 9691,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 9691,
+      "stars_current": 9722,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "huygiatrng/AlpacaTradingAgent": {
       "full_name": "huygiatrng/AlpacaTradingAgent",
@@ -2563,16 +2563,16 @@
       "language": "Python",
       "stars_last_week": 241,
       "stars_current": 241,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "evan-kolberg/prediction-market-backtesting": {
       "full_name": "evan-kolberg/prediction-market-backtesting",
       "description": "An extension for Nautilus Trader",
       "html_url": "https://github.com/evan-kolberg/prediction-market-backtesting",
       "language": "Python",
-      "stars_last_week": 1023,
-      "stars_current": 1028,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 1028,
+      "stars_current": 1031,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "arbitrageBot-group/Polymarket-trading-bot": {
       "full_name": "arbitrageBot-group/Polymarket-trading-bot",
@@ -2589,8 +2589,8 @@
       "html_url": "https://github.com/PlaceNL2026/best-of-algorithmic-trading",
       "language": "TypeScript",
       "stars_last_week": 273,
-      "stars_current": 273,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 274,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "POLYMARKET-TRADER-LAB/Polymarket-trading-bot": {
       "full_name": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
@@ -2633,45 +2633,45 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "html_url": "https://github.com/RyanCodrai/turbovec",
       "language": "Python",
-      "stars_last_week": 12804,
-      "stars_current": 13071,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 13071,
+      "stars_current": 13344,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "The-Swarm-Corporation/AutoHedge": {
       "full_name": "The-Swarm-Corporation/AutoHedge",
       "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "html_url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "language": "Python",
-      "stars_last_week": 3823,
-      "stars_current": 3831,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 3831,
+      "stars_current": 3840,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "wquguru/nof0": {
       "full_name": "wquguru/nof0",
       "description": "NOF0 - \u5f00\u6e90\u7684 AI \u4ea4\u6613\u7ade\u6280\u573a",
       "html_url": "https://github.com/wquguru/nof0",
       "language": "Go",
-      "stars_last_week": 2752,
+      "stars_last_week": 2751,
       "stars_current": 2751,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "chengzuopeng/stock-sdk": {
       "full_name": "chengzuopeng/stock-sdk",
       "description": "\u4e3a\u524d\u7aef\u8bbe\u8ba1\u7684\u65e0\u9700 Python\u3001\u65e0\u9700\u540e\u7aef\u670d\u52a1\u3001\u96f6\u4f9d\u8d56\u7684\u83b7\u53d6\u80a1\u7968\u6570\u636e JavaScript SDK\u3002",
       "html_url": "https://github.com/chengzuopeng/stock-sdk",
       "language": "TypeScript",
-      "stars_last_week": 1710,
-      "stars_current": 1717,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 1717,
+      "stars_current": 1723,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "LLMQuant/skills": {
       "full_name": "LLMQuant/skills",
       "description": "Reusable Skills for LLMQuant Agent, Claude Code, Claude.ai, Cursor, Hermes Agent, OpenClaw and Codex, grounded in LLMQuant Data",
       "html_url": "https://github.com/LLMQuant/skills",
       "language": "Shell",
-      "stars_last_week": 166,
-      "stars_current": 167,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 167,
+      "stars_current": 168,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "byteseek/Mira": {
       "full_name": "byteseek/Mira",
@@ -2680,52 +2680,52 @@
       "language": "Python",
       "stars_last_week": 241,
       "stars_current": 241,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "TradingGoose/TradingGoose-Studio": {
       "full_name": "TradingGoose/TradingGoose-Studio",
       "description": "Build your own AI investment system",
       "html_url": "https://github.com/TradingGoose/TradingGoose-Studio",
       "language": "TypeScript",
-      "stars_last_week": 126,
+      "stars_last_week": 127,
       "stars_current": 127,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "moss-site/moss-trade-bot-skills": {
       "full_name": "moss-site/moss-trade-bot-skills",
       "description": "LLM-powered trading agents that turn plain natural language into a five-pillar strategy: Trend, Mean-Reversion, Momentum, Volume, and Risk. Each strategy is hosted, self-evolving, configurable through",
       "html_url": "https://github.com/moss-site/moss-trade-bot-skills",
       "language": "Python",
-      "stars_last_week": 356,
+      "stars_last_week": 377,
       "stars_current": 377,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "xbtlin/ai-berkshire": {
       "full_name": "xbtlin/ai-berkshire",
       "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code / Codex \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
       "html_url": "https://github.com/xbtlin/ai-berkshire",
       "language": "Python",
-      "stars_last_week": 13233,
-      "stars_current": 13226,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 13226,
+      "stars_current": 13290,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "speedyapply/2027-AI-College-Jobs": {
       "full_name": "speedyapply/2027-AI-College-Jobs",
       "description": "2027 AI/ML internship & new graduate job list updated daily",
       "html_url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "language": "",
-      "stars_last_week": 5816,
-      "stars_current": 5820,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5820,
+      "stars_current": 5826,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "JerBouma/FinanceToolkit": {
       "full_name": "JerBouma/FinanceToolkit",
       "description": "Transparent and Efficient Financial Analysis",
       "html_url": "https://github.com/JerBouma/FinanceToolkit",
       "language": "Python",
-      "stars_last_week": 5109,
-      "stars_current": 5116,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 5116,
+      "stars_current": 5120,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "facioquo/stock-indicators-dotnet": {
       "full_name": "facioquo/stock-indicators-dotnet",
@@ -2734,7 +2734,7 @@
       "language": "C#",
       "stars_last_week": 1224,
       "stars_current": 1224,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "monarchjuno/tradingcodex": {
       "full_name": "monarchjuno/tradingcodex",
@@ -2742,8 +2742,8 @@
       "html_url": "https://github.com/monarchjuno/tradingcodex",
       "language": "Python",
       "stars_last_week": 302,
-      "stars_current": 302,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_current": 303,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "Syed-Imran88/MT5-Exposure-Mesh-Analyzer": {
       "full_name": "Syed-Imran88/MT5-Exposure-Mesh-Analyzer",
@@ -2752,27 +2752,27 @@
       "language": "HTML",
       "stars_last_week": 151,
       "stars_current": 151,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "shy3130/tickflow-stock-panel": {
       "full_name": "shy3130/tickflow-stock-panel",
       "description": "\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u9009\u80a1 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0 | \u57fa\u4e8e TickFlow \u6570\u636e\u6e90  | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u6570\u636e\u6e90\u4e0e\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e | \u4e2a\u4eba\u5f00\u6e90 ,\u975eTickFlow\u5b98\u65b9\u9879\u76ee",
       "html_url": "https://github.com/shy3130/tickflow-stock-panel",
       "language": "Python",
-      "stars_last_week": 2184,
-      "stars_current": 2222,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 2222,
+      "stars_current": 2246,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     },
     "QuantiaAI/grid-pilot": {
       "full_name": "QuantiaAI/grid-pilot",
       "description": "\u8d85\u8d8a\u4ea4\u6613\u6240\u539f\u751f\u7f51\u683c\u673a\u5668\u4eba\uff1a\u7528\u7a0b\u5e8f\u6a21\u62df\u76ef\u76d8\u4ea4\u6613\u5458\u2014\u2014\u52a8\u6001\u6539\u5355\u4e0d\u6302\u6b7b\u3001\u8ffd\u8e2a\u5efa\u4ed3\u907f\u514d\u9876\u90e8\u63a5\u76d8\u3001Maker \u4f18\u5148\u7701\u624b\u7eed\u8d39\u3001\u5206\u5c42\u7b97\u6cd5\u5355\u6b62\u635f\u3001\u591a\u6bb5\u4ef7\u683c\u533a\u95f4\u81ea\u9002\u5e94\u3002\u517c\u5bb9 Binance / OKX / Gate.io\uff0c\u5185\u7f6e 12 \u79cd\u8bed\u8a00\u3002| Beyond exchange-native grid bots \u2014 a programmatic live trader: dynamic re-quoting inst",
       "html_url": "https://github.com/QuantiaAI/grid-pilot",
       "language": "TypeScript",
-      "stars_last_week": 158,
-      "stars_current": 174,
-      "last_updated": "2026-07-17T03:12:22.800447+00:00"
+      "stars_last_week": 174,
+      "stars_current": 188,
+      "last_updated": "2026-07-18T02:49:57.531052+00:00"
     }
   },
   "last_discovery": "2026-07-14T02:50:32.362845+00:00",
-  "last_run": "2026-07-17T03:12:22.800447+00:00"
+  "last_run": "2026-07-18T02:49:57.531052+00:00"
 }
