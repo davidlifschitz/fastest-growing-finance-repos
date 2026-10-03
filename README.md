@@ -1,25 +1,42 @@
 <!-- AUTO-GENERATED — DO NOT EDIT MANUALLY -->
 # 🚀 Top 10 Fastest-Growing Finance Repos This Week
 
-> Updated **2026-10-02** · Tracks 10 repos this week  
+> Updated **2026-10-03** · Tracks 10 repos this week  
 > Full list: [GitHub Pages site](https://davidlifschitz.github.io/fastest-growing-finance-repos/)
 
 | # | Repo | Description | Lang | Stars | Δ This Week |
 |---|------|-------------|------|-------|-------------|
-| 1 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 109,485 | +88 ⭐ |
-| 2 | [bbfamily/abu](https://github.com/bbfamily/abu) | 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 18,817 | +78 ⭐ |
-| 3 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | OpenStock is an open-source alternative to expensive market platforms. Track rea | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | 19,575 | +59 ⭐ |
-| 4 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 34,436 | +40 ⭐ |
-| 5 | [OpenBB-finance/OpenBB](https://github.com/openbq-org/OpenBB) | Open Data Platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 73,739 | +33 ⭐ |
-| 6 | [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) | Performant financial charts built with HTML5 canvas | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | 17,446 | +32 ⭐ |
-| 7 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Code for Machine Learning for Trading, 3rd edition — from data sourcing to live  | `Jupyter Notebook` | 21,196 | +30 ⭐ |
-| 8 | [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | A curated list of insanely awesome libraries, packages and resources for Quants  | `HTML` | 29,915 | +29 ⭐ |
-| 9 | [microsoft/qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to emp | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 49,109 | +27 ⭐ |
-| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stoc | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 65,838 | +23 ⭐ |
+| 1 | [shy3130/tickflow-stock-panel](https://github.com/shy3130/tick-stock-panel) | TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  \| LLM能力驱使策略定制+个股分析+复盘 \| 自由接入第三方数据源与个性化扩展数据 \| | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 5,425 | +67 ⭐ |
+| 2 | [shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel) | TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  \| LLM能力驱使策略定制+个股分析+复盘 \| 自由接入第三方数据源与个性化扩展数据 \| | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 5,425 | +67 ⭐ |
+| 3 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 109,548 | +63 ⭐ |
+| 4 | [Mathieu2301/TradingView-API](https://github.com/Mathieu2301/TradingView-API) | 📈 Get real-time stocks from TradingView | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | 5,483 | +51 ⭐ |
+| 5 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | OpenStock is an open-source alternative to expensive market platforms. Track rea | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | 19,618 | +43 ⭐ |
+| 6 | [555cute/r20-quantum-trader](https://github.com/0xethanq/astra-quant-agent) | 机构级自主量化交易操作系统：多模型博弈投委会 · 7层衍生品微结构微积分 · 确定性物理风控硬防线｜Institutional-Grade Autonomous | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 307 | +41 ⭐ |
+| 7 | [OpenBB-finance/OpenBB](https://github.com/openbq-org/OpenBB) | Open Data Platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 73,767 | +28 ⭐ |
+| 8 | [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) | Python quantitative trading strategies including VIX Calculator, Pattern Recogni | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 10,873 | +23 ⭐ |
+| 9 | [brokermr810/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One  | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 12,387 | +23 ⭐ |
+| 10 | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One  | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 12,387 | +23 ⭐ |
 
 ---
 
 ## 📚 Archive
+
+### Week of 2026-10-03
+
+| # | Repo | Description | Lang | Stars | Δ This Week |
+|---|------|-------------|------|-------|-------------|
+| 1 | [shy3130/tickflow-stock-panel](https://github.com/shy3130/tick-stock-panel) | TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  \| LLM能力驱使策略定制+个股分析+复盘 \| 自由接入第三方数据源与个性化扩展数据 \| | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 5,425 | +67 ⭐ |
+| 2 | [shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel) | TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  \| LLM能力驱使策略定制+个股分析+复盘 \| 自由接入第三方数据源与个性化扩展数据 \| | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 5,425 | +67 ⭐ |
+| 3 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 109,548 | +63 ⭐ |
+| 4 | [Mathieu2301/TradingView-API](https://github.com/Mathieu2301/TradingView-API) | 📈 Get real-time stocks from TradingView | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | 5,483 | +51 ⭐ |
+| 5 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | OpenStock is an open-source alternative to expensive market platforms. Track rea | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | 19,618 | +43 ⭐ |
+| 6 | [555cute/r20-quantum-trader](https://github.com/0xethanq/astra-quant-agent) | 机构级自主量化交易操作系统：多模型博弈投委会 · 7层衍生品微结构微积分 · 确定性物理风控硬防线｜Institutional-Grade Autonomous | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 307 | +41 ⭐ |
+| 7 | [OpenBB-finance/OpenBB](https://github.com/openbq-org/OpenBB) | Open Data Platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 73,767 | +28 ⭐ |
+| 8 | [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) | Python quantitative trading strategies including VIX Calculator, Pattern Recogni | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 10,873 | +23 ⭐ |
+| 9 | [brokermr810/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One  | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 12,387 | +23 ⭐ |
+| 10 | [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) | Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One  | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 12,387 | +23 ⭐ |
+
+---
 
 ### Week of 2026-10-02
 
