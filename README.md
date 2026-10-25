@@ -1,25 +1,42 @@
 <!-- AUTO-GENERATED — DO NOT EDIT MANUALLY -->
 # 🚀 Top 10 Fastest-Growing Finance Repos This Week
 
-> Updated **2026-10-24** · Tracks 10 repos this week  
+> Updated **2026-10-25** · Tracks 10 repos this week  
 > Full list: [GitHub Pages site](https://davidlifschitz.github.io/fastest-growing-finance-repos/)
 
 | # | Repo | Description | Lang | Stars | Δ This Week |
 |---|------|-------------|------|-------|-------------|
-| 1 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 113,436 | +349 ⭐ |
-| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 36,449 | +98 ⭐ |
-| 3 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Production-grade Rust-native trading engine with deterministic event-driven arch | ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square) | 30,678 | +54 ⭐ |
-| 4 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analyti | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | 32,984 | +52 ⭐ |
-| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stoc | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 66,952 | +51 ⭐ |
-| 6 | [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 55,829 | +47 ⭐ |
-| 7 | [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data) | A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 \|  | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 11,067 | +37 ⭐ |
-| 8 | [OpenBB-finance/OpenBB](https://github.com/openbq-org/OpenBB) | Open Data Platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 74,598 | +35 ⭐ |
-| 9 | [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) | Open Data Platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 74,598 | +35 ⭐ |
-| 10 | [microsoft/qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to emp | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 49,636 | +32 ⭐ |
+| 1 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 113,729 | +293 ⭐ |
+| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 36,577 | +128 ⭐ |
+| 3 | [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research) | Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Cl | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | 2,879 | +90 ⭐ |
+| 4 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analyti | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | 33,053 | +69 ⭐ |
+| 5 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Production-grade Rust-native trading engine with deterministic event-driven arch | ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square) | 30,747 | +69 ⭐ |
+| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stoc | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 67,014 | +62 ⭐ |
+| 7 | [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 55,884 | +55 ⭐ |
+| 8 | [OpenBB-finance/OpenBB](https://github.com/openbq-org/OpenBB) | Open Data Platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 74,648 | +50 ⭐ |
+| 9 | [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) | Open Data Platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 74,648 | +50 ⭐ |
+| 10 | [shy3130/tickflow-stock-panel](https://github.com/shy3130/tick-stock-panel) | TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  \| LLM能力驱使策略定制+个股分析+复盘 \| 自由接入第三方数据源与个性化扩展数据 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 6,296 | +44 ⭐ |
 
 ---
 
 ## 📚 Archive
+
+### Week of 2026-10-25
+
+| # | Repo | Description | Lang | Stars | Δ This Week |
+|---|------|-------------|------|-------|-------------|
+| 1 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | TradingAgents: Multi-Agents LLM Financial Trading Framework | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 113,729 | +293 ⭐ |
+| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | "Vibe-Trading: Your Personal Trading Agent" | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 36,577 | +128 ⭐ |
+| 3 | [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research) | Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Cl | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | 2,879 | +90 ⭐ |
+| 4 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | FinceptTerminal is a modern finance application offering advanced market analyti | ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) | 33,053 | +69 ⭐ |
+| 5 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Production-grade Rust-native trading engine with deterministic event-driven arch | ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square) | 30,747 | +69 ⭐ |
+| 6 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stoc | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 67,014 | +62 ⭐ |
+| 7 | [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 55,884 | +55 ⭐ |
+| 8 | [OpenBB-finance/OpenBB](https://github.com/openbq-org/OpenBB) | Open Data Platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 74,648 | +50 ⭐ |
+| 9 | [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) | Open Data Platform for analysts, quants and AI agents. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 74,648 | +50 ⭐ |
+| 10 | [shy3130/tickflow-stock-panel](https://github.com/shy3130/tick-stock-panel) | TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  \| LLM能力驱使策略定制+个股分析+复盘 \| 自由接入第三方数据源与个性化扩展数据 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) | 6,296 | +44 ⭐ |
+
+---
 
 ### Week of 2026-10-24
 
